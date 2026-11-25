@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "task": "stock",
+  "framework": "keras",
+  "seed": 42,
+  "seq_length": 30,
+  "dataset_sha256": "0baf98d114fcf60cfea96f90b99f51b5ef7df19258536fa56f7c883d50af1050",
+  "package_versions": {
+    "numpy": "2.3.3",
+    "pandas": "2.3.2",
+    "scikit-learn": "1.7.2",
+    "tensorflow": "2.21.0",
+    "keras": "3.15.1",
+    "torch": "2.14.0"
+  },
+  "architecture": "lstm",
+  "hidden_size": 32,
+  "learning_rate": 0.001,
+  "best_epoch": 80,
+  "selected_val_mse": 0.0009610991692170501,
+  "selection_metric": "val_mse",
+  "train_samples": 1542,
+  "validation_samples": 337,
+  "test_samples": 338,
+  "scaler": {
+    "scale": [
+      0.006164278198929825
+    ],
+    "min": [
+      -0.08844198145914567
+    ],
+    "data_min": [
+      14.3475
+    ],
+    "data_max": [
+      176.572495
+    ]
+  },
+  "split_dates": {
+    "train_end": "2021-03-31 00:00:00",
+    "val_start": "2021-04-01 00:00:00",
+    "val_end": "2022-08-02 00:00:00",
+    "test_start": "2022-08-03 00:00:00"
+  },
+  "test_metrics": {
+    "mae": 2.967925548553467,
+    "rmse": 3.8701401044930868,
+    "baseline_rmse": 2.7004462643379563,
+    "direction_accuracy": 0.5177514792899408
+  }
+}

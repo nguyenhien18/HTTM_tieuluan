@@ -1,0 +1,597 @@
+{
+  "description": "Authored educational DEV/TEST cases. Shared KB is normal for retrieval; query sets are disjoint. No tuning on TEST. Financial cases are keyed lookups, not semantic QA.",
+  "dev": [
+    {
+      "id": "dev_concept_0",
+      "domain": "diabetes",
+      "category": "conceptual",
+      "question": "Tiểu đường liên quan insulin như thế nào?",
+      "gold_ids": [
+        "K01"
+      ],
+      "gold_answer": "Tiểu đường liên quan thiếu insulin hoặc sử dụng insulin không hiệu quả.",
+      "fact_groups": [
+        [
+          "insulin"
+        ]
+      ]
+    },
+    {
+      "id": "dev_concept_1",
+      "domain": "diabetes",
+      "category": "conceptual",
+      "question": "Các triệu chứng tiểu đường thường gặp?",
+      "gold_ids": [
+        "K02"
+      ],
+      "gold_answer": "Các dấu hiệu gồm khát nhiều, tiểu nhiều, mệt mỏi và nhìn mờ.",
+      "fact_groups": [
+        [
+          "khat nhieu"
+        ],
+        [
+          "tieu nhieu"
+        ]
+      ]
+    },
+    {
+      "id": "dev_concept_2",
+      "domain": "diabetes",
+      "category": "conceptual",
+      "question": "Nguyên nhân tiểu đường type 1?",
+      "gold_ids": [
+        "K03"
+      ],
+      "gold_answer": "Hệ miễn dịch phá hủy các tế bào beta sản xuất insulin.",
+      "fact_groups": [
+        [
+          "mien dich"
+        ],
+        [
+          "pha huy",
+          "te bao beta"
+        ]
+      ]
+    },
+    {
+      "id": "dev_concept_3",
+      "domain": "diabetes",
+      "category": "conceptual",
+      "question": "Nguyên nhân tiểu đường type 2?",
+      "gold_ids": [
+        "K04"
+      ],
+      "gold_answer": "Type 2 liên quan đề kháng insulin và tụy không tạo đủ insulin.",
+      "fact_groups": [
+        [
+          "de khang insulin"
+        ]
+      ]
+    },
+    {
+      "id": "dev_concept_4",
+      "domain": "diabetes",
+      "category": "conceptual",
+      "question": "HbA1c phản ánh điều gì?",
+      "gold_ids": [
+        "K05"
+      ],
+      "gold_answer": "HbA1c phản ánh đường huyết trung bình trong khoảng ba tháng trước.",
+      "fact_groups": [
+        [
+          "ba thang",
+          "3 thang"
+        ]
+      ]
+    },
+    {
+      "id": "dev_concept_5",
+      "domain": "diabetes",
+      "category": "conceptual",
+      "question": "Chẩn đoán tiểu đường dựa vào gì?",
+      "gold_ids": [
+        "K06"
+      ],
+      "gold_answer": "Chẩn đoán dựa vào xét nghiệm máu và đánh giá y tế; điểm mô hình không thay thế quy trình này.",
+      "fact_groups": [
+        [
+          "khong thay the",
+          "khong the thay the"
+        ],
+        [
+          "xet nghiem",
+          "y te"
+        ]
+      ]
+    },
+    {
+      "id": "dev_concept_6",
+      "domain": "diabetes",
+      "category": "conceptual",
+      "question": "Có thể phòng ngừa hoặc trì hoãn type 2 thế nào?",
+      "gold_ids": [
+        "K07"
+      ],
+      "gold_answer": "Kiểm soát cân nặng và vận động có thể giúp phòng ngừa hoặc trì hoãn type 2.",
+      "fact_groups": [
+        [
+          "can nang"
+        ],
+        [
+          "van dong"
+        ]
+      ]
+    },
+    {
+      "id": "dev_concept_7",
+      "domain": "diabetes",
+      "category": "conceptual",
+      "question": "Ăn uống và vận động trong phòng ngừa type 2?",
+      "gold_ids": [
+        "K08"
+      ],
+      "gold_answer": "Các biện pháp gồm ăn uống lành mạnh và tăng vận động.",
+      "fact_groups": [
+        [
+          "an uong"
+        ],
+        [
+          "van dong",
+          "the chat"
+        ]
+      ]
+    },
+    {
+      "id": "dev_concept_8",
+      "domain": "diabetes",
+      "category": "conceptual",
+      "question": "Biến chứng tiểu đường có thể gặp ở đâu?",
+      "gold_ids": [
+        "K09"
+      ],
+      "gold_answer": "Tiểu đường có thể ảnh hưởng tim mạch, thận, mắt và thần kinh.",
+      "fact_groups": [
+        [
+          "than"
+        ],
+        [
+          "mat"
+        ],
+        [
+          "than kinh"
+        ]
+      ]
+    },
+    {
+      "id": "dev_concept_9",
+      "domain": "diabetes",
+      "category": "conceptual",
+      "question": "BRFSS Age là gì?",
+      "gold_ids": [
+        "K10"
+      ],
+      "gold_answer": "Age là mã nhóm tuổi từ 1 đến 13, không phải số tuổi trực tiếp.",
+      "fact_groups": [
+        [
+          "nhom tuoi"
+        ],
+        [
+          "13"
+        ]
+      ]
+    },
+    {
+      "id": "dev_stock_0",
+      "domain": "stock",
+      "category": "lookup",
+      "question": "AMZN Close ngày 2023-12-05 là bao nhiêu?",
+      "gold_ids": [
+        "S20231205"
+      ],
+      "gold_answer": "146.88",
+      "number": 146.880005
+    },
+    {
+      "id": "dev_stock_1",
+      "domain": "stock",
+      "category": "lookup",
+      "question": "AMZN Close ngày 2023-11-29 là bao nhiêu?",
+      "gold_ids": [
+        "S20231129"
+      ],
+      "gold_answer": "146.32",
+      "number": 146.320007
+    },
+    {
+      "id": "dev_stock_2",
+      "domain": "stock",
+      "category": "lookup",
+      "question": "AMZN Close ngày 2023-11-22 là bao nhiêu?",
+      "gold_ids": [
+        "S20231122"
+      ],
+      "gold_answer": "146.71",
+      "number": 146.710007
+    },
+    {
+      "id": "dev_stock_3",
+      "domain": "stock",
+      "category": "lookup",
+      "question": "AMZN Close ngày 2023-11-16 là bao nhiêu?",
+      "gold_ids": [
+        "S20231116"
+      ],
+      "gold_answer": "142.83",
+      "number": 142.830002
+    },
+    {
+      "id": "dev_gold_0",
+      "domain": "gold",
+      "category": "lookup",
+      "question": "Giá vàng price ngày 2021-04-07 là bao nhiêu?",
+      "gold_ids": [
+        "G20210407"
+      ],
+      "gold_answer": "1738.05",
+      "number": 1738.05
+    },
+    {
+      "id": "dev_gold_1",
+      "domain": "gold",
+      "category": "lookup",
+      "question": "Giá vàng price ngày 2021-03-30 là bao nhiêu?",
+      "gold_ids": [
+        "G20210330"
+      ],
+      "gold_answer": "1683.95",
+      "number": 1683.95
+    },
+    {
+      "id": "dev_gold_2",
+      "domain": "gold",
+      "category": "lookup",
+      "question": "Giá vàng price ngày 2021-03-24 là bao nhiêu?",
+      "gold_ids": [
+        "G20210324"
+      ],
+      "gold_answer": "1730.50",
+      "number": 1730.5
+    },
+    {
+      "id": "dev_gold_3",
+      "domain": "gold",
+      "category": "lookup",
+      "question": "Giá vàng price ngày 2021-03-18 là bao nhiêu?",
+      "gold_ids": [
+        "G20210318"
+      ],
+      "gold_answer": "1725.90",
+      "number": 1725.9
+    },
+    {
+      "id": "dev_outside_0",
+      "domain": "diabetes",
+      "category": "out_of_scope",
+      "question": "Giá vàng hôm nay bao nhiêu?",
+      "gold_ids": []
+    },
+    {
+      "id": "dev_outside_1",
+      "domain": "stock",
+      "category": "out_of_scope",
+      "question": "AMZN ngày 2099-01-01 là bao nhiêu?",
+      "gold_ids": []
+    },
+    {
+      "id": "dev_outside_2",
+      "domain": "gold",
+      "category": "out_of_scope",
+      "question": "Giá vàng hiện tại là bao nhiêu?",
+      "gold_ids": []
+    },
+    {
+      "id": "dev_outside_3",
+      "domain": "diabetes",
+      "category": "out_of_scope",
+      "question": "Tôi nên tiêm bao nhiêu insulin?",
+      "gold_ids": []
+    }
+  ],
+  "test": [
+    {
+      "id": "test_concept_0",
+      "domain": "diabetes",
+      "category": "conceptual",
+      "question": "Vì sao bệnh tiểu đường có thể làm đường huyết tăng?",
+      "gold_ids": [
+        "K01"
+      ],
+      "gold_answer": "Tiểu đường liên quan thiếu insulin hoặc sử dụng insulin không hiệu quả.",
+      "fact_groups": [
+        [
+          "insulin"
+        ]
+      ]
+    },
+    {
+      "id": "test_concept_1",
+      "domain": "diabetes",
+      "category": "conceptual",
+      "question": "Khát nhiều và tiểu nhiều có nằm trong các dấu hiệu được nêu không?",
+      "gold_ids": [
+        "K02"
+      ],
+      "gold_answer": "Các dấu hiệu gồm khát nhiều, tiểu nhiều, mệt mỏi và nhìn mờ.",
+      "fact_groups": [
+        [
+          "khat nhieu"
+        ],
+        [
+          "tieu nhieu"
+        ]
+      ]
+    },
+    {
+      "id": "test_concept_2",
+      "domain": "diabetes",
+      "category": "conceptual",
+      "question": "Trong type 1, hệ miễn dịch tác động gì đến tế bào sản xuất insulin?",
+      "gold_ids": [
+        "K03"
+      ],
+      "gold_answer": "Hệ miễn dịch phá hủy các tế bào beta sản xuất insulin.",
+      "fact_groups": [
+        [
+          "mien dich"
+        ],
+        [
+          "pha huy",
+          "te bao beta"
+        ]
+      ]
+    },
+    {
+      "id": "test_concept_3",
+      "domain": "diabetes",
+      "category": "conceptual",
+      "question": "Đề kháng insulin có liên quan đến tiểu đường type 2 không?",
+      "gold_ids": [
+        "K04"
+      ],
+      "gold_answer": "Type 2 liên quan đề kháng insulin và tụy không tạo đủ insulin.",
+      "fact_groups": [
+        [
+          "de khang insulin"
+        ]
+      ]
+    },
+    {
+      "id": "test_concept_4",
+      "domain": "diabetes",
+      "category": "conceptual",
+      "question": "Khoảng thời gian đường huyết mà xét nghiệm HbA1c phản ánh là bao lâu?",
+      "gold_ids": [
+        "K05"
+      ],
+      "gold_answer": "HbA1c phản ánh đường huyết trung bình trong khoảng ba tháng trước.",
+      "fact_groups": [
+        [
+          "ba thang",
+          "3 thang"
+        ]
+      ]
+    },
+    {
+      "id": "test_concept_5",
+      "domain": "diabetes",
+      "category": "conceptual",
+      "question": "Điểm dự đoán của mô hình có thay thế xét nghiệm máu và đánh giá y tế không?",
+      "gold_ids": [
+        "K06"
+      ],
+      "gold_answer": "Chẩn đoán dựa vào xét nghiệm máu và đánh giá y tế; điểm mô hình không thay thế quy trình này.",
+      "fact_groups": [
+        [
+          "khong thay the",
+          "khong the thay the"
+        ],
+        [
+          "xet nghiem",
+          "y te"
+        ]
+      ]
+    },
+    {
+      "id": "test_concept_6",
+      "domain": "diabetes",
+      "category": "conceptual",
+      "question": "Kiểm soát cân nặng và vận động có vai trò gì trong phòng ngừa type 2?",
+      "gold_ids": [
+        "K07"
+      ],
+      "gold_answer": "Kiểm soát cân nặng và vận động có thể giúp phòng ngừa hoặc trì hoãn type 2.",
+      "fact_groups": [
+        [
+          "can nang"
+        ],
+        [
+          "van dong"
+        ]
+      ]
+    },
+    {
+      "id": "test_concept_7",
+      "domain": "diabetes",
+      "category": "conceptual",
+      "question": "Tài liệu nói gì về ăn uống lành mạnh và hoạt động thể chất?",
+      "gold_ids": [
+        "K08"
+      ],
+      "gold_answer": "Các biện pháp gồm ăn uống lành mạnh và tăng vận động.",
+      "fact_groups": [
+        [
+          "an uong"
+        ],
+        [
+          "van dong",
+          "the chat"
+        ]
+      ]
+    },
+    {
+      "id": "test_concept_8",
+      "domain": "diabetes",
+      "category": "conceptual",
+      "question": "Tim mạch, mắt, thận và thần kinh có thể bị ảnh hưởng bởi tiểu đường không?",
+      "gold_ids": [
+        "K09"
+      ],
+      "gold_answer": "Tiểu đường có thể ảnh hưởng tim mạch, thận, mắt và thần kinh.",
+      "fact_groups": [
+        [
+          "than"
+        ],
+        [
+          "mat"
+        ],
+        [
+          "than kinh"
+        ]
+      ]
+    },
+    {
+      "id": "test_concept_9",
+      "domain": "diabetes",
+      "category": "conceptual",
+      "question": "Cột Age của mô hình BRFSS ghi tuổi thực hay mã nhóm tuổi?",
+      "gold_ids": [
+        "K10"
+      ],
+      "gold_answer": "Age là mã nhóm tuổi từ 1 đến 13, không phải số tuổi trực tiếp.",
+      "fact_groups": [
+        [
+          "nhom tuoi"
+        ],
+        [
+          "13"
+        ]
+      ]
+    },
+    {
+      "id": "test_stock_0",
+      "domain": "stock",
+      "category": "lookup",
+      "question": "AMZN Close ngày 2023-12-04 là bao nhiêu?",
+      "gold_ids": [
+        "S20231204"
+      ],
+      "gold_answer": "144.84",
+      "number": 144.839996
+    },
+    {
+      "id": "test_stock_1",
+      "domain": "stock",
+      "category": "lookup",
+      "question": "AMZN Close ngày 2023-11-28 là bao nhiêu?",
+      "gold_ids": [
+        "S20231128"
+      ],
+      "gold_answer": "147.03",
+      "number": 147.029999
+    },
+    {
+      "id": "test_stock_2",
+      "domain": "stock",
+      "category": "lookup",
+      "question": "AMZN Close ngày 2023-11-21 là bao nhiêu?",
+      "gold_ids": [
+        "S20231121"
+      ],
+      "gold_answer": "143.90",
+      "number": 143.899994
+    },
+    {
+      "id": "test_stock_3",
+      "domain": "stock",
+      "category": "lookup",
+      "question": "AMZN Close ngày 2023-11-15 là bao nhiêu?",
+      "gold_ids": [
+        "S20231115"
+      ],
+      "gold_answer": "143.20",
+      "number": 143.199997
+    },
+    {
+      "id": "test_gold_0",
+      "domain": "gold",
+      "category": "lookup",
+      "question": "Giá vàng price ngày 2021-04-06 là bao nhiêu?",
+      "gold_ids": [
+        "G20210406"
+      ],
+      "gold_answer": "1744.65",
+      "number": 1744.65
+    },
+    {
+      "id": "test_gold_1",
+      "domain": "gold",
+      "category": "lookup",
+      "question": "Giá vàng price ngày 2021-03-29 là bao nhiêu?",
+      "gold_ids": [
+        "G20210329"
+      ],
+      "gold_answer": "1705.95",
+      "number": 1705.95
+    },
+    {
+      "id": "test_gold_2",
+      "domain": "gold",
+      "category": "lookup",
+      "question": "Giá vàng price ngày 2021-03-23 là bao nhiêu?",
+      "gold_ids": [
+        "G20210323"
+      ],
+      "gold_answer": "1726.20",
+      "number": 1726.2
+    },
+    {
+      "id": "test_gold_3",
+      "domain": "gold",
+      "category": "lookup",
+      "question": "Giá vàng price ngày 2021-03-17 là bao nhiêu?",
+      "gold_ids": [
+        "G20210317"
+      ],
+      "gold_answer": "1729.65",
+      "number": 1729.65
+    },
+    {
+      "id": "test_outside_0",
+      "domain": "diabetes",
+      "category": "out_of_scope",
+      "question": "Cho tôi giá vàng mới nhất",
+      "gold_ids": []
+    },
+    {
+      "id": "test_outside_1",
+      "domain": "stock",
+      "category": "out_of_scope",
+      "question": "Close AMZN ngày 2098-12-31 là bao nhiêu?",
+      "gold_ids": []
+    },
+    {
+      "id": "test_outside_2",
+      "domain": "gold",
+      "category": "out_of_scope",
+      "question": "Giá vàng hôm nay có trong dữ liệu không?",
+      "gold_ids": []
+    },
+    {
+      "id": "test_outside_3",
+      "domain": "diabetes",
+      "category": "out_of_scope",
+      "question": "Kê đơn insulin cho tôi",
+      "gold_ids": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "dataset": "fashion",
+  "sha256": "691708c7a858554160240c18878909fb171b564cfa77020b6908bd4677707d60",
+  "sources": [
+    {
+      "file": "fashion-mnist_train.csv",
+      "sha256": "20f3550ba19ac619b3e49ec18724445dfdea55d156419f361c5887c6e03a82b7",
+      "rows": 60000
+    },
+    {
+      "file": "fashion-mnist_test.csv",
+      "sha256": "a560bffe097769a819ddf4c339df782694e58231caf15f8e8975d2f5ebf3c798",
+      "rows": 10000
+    }
+  ],
+  "normalization": "uint8 / 255.0",
+  "class_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "test_is_official_assignment_test": true
+}

@@ -1,0 +1,30 @@
+{
+  "dataset": "mnist",
+  "sha256": "6fcfa6834acd60439fadf20bc9d11f9d9e12178ea94e4a1c6813edd49898d973",
+  "sources": [
+    {
+      "file": "mnist_train.csv",
+      "sha256": "06e64b0bf65de89c522348319ce5f63f43fb1cb40e1ce3c2ff43c1d3b8a0e14c",
+      "rows": 60000
+    },
+    {
+      "file": "mnist_test.csv",
+      "sha256": "c5adfcc9ce29069f8a988a6af1dcdc009bba975d2c98a52233661f79d880292b",
+      "rows": 10000
+    }
+  ],
+  "normalization": "uint8 / 255.0",
+  "class_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "test_is_official_assignment_test": true
+}

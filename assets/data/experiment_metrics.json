@@ -1,0 +1,254 @@
+{
+  "ml": {
+    "diabetes": {
+      "Model": "Logistic Regression",
+      "Accuracy": 0.7338641858509408,
+      "Precision": 0.3134905295709316,
+      "Recall": 0.7648057336854017,
+      "F1": 0.44470033448483853,
+      "ROC_AUC": 0.8215049369242775
+    },
+    "house": {
+      "Model": "Random Forest",
+      "MAE": 52768.347099887746,
+      "MSE": 10024541192.21861,
+      "RMSE": 100122.63076956483,
+      "R2": 0.7867650522307484
+    },
+    "ecommerce": {
+      "Model": "Logistic Regression",
+      "Accuracy": 0.9143066666666667,
+      "Precision": 0.8640382875652961,
+      "Recall": 0.9436511983681795,
+      "F1": 0.9020916167755891,
+      "ROC_AUC": 0.9768961307772329
+    },
+    "diabetes_a01": {
+      "Model": "KNN (k=9)",
+      "Accuracy": 0.9444,
+      "Recall": 0.4263,
+      "F1": 0.5747
+    },
+    "house_a01": {
+      "Model": "Random Forest",
+      "RMSE": 1.5882,
+      "unit": "tỷ VNĐ"
+    }
+  },
+  "mlp": {
+    "diabetes": {
+      "Model": "MLP · 5 lớp Linear",
+      "accuracy": 0.7400925049931673,
+      "f1": 0.44951575197595456,
+      "recall": 0.7615993964541682,
+      "Architecture": "21-64-32-16-8-2"
+    },
+    "ecommerce": {
+      "Model": "MLP · 5 lớp Linear",
+      "accuracy": 0.9181066666666666,
+      "f1": 0.9039922468502829,
+      "recall": 0.9215961244263131,
+      "Architecture": "32-64-32-16-8-2"
+    },
+    "house": {
+      "Model": "MLP · 5 lớp Linear",
+      "rmse": 105103.26233364611,
+      "r2": 0.7650225035955176,
+      "Architecture": "633-64-32-16-8-1"
+    }
+  },
+  "cnn": {
+    "mnist": [
+      {
+        "Implementation": "NumPy From Scratch",
+        "Model": "Basic",
+        "Accuracy": 0.9155,
+        "Precision_macro": 0.9163896382225436,
+        "Recall_macro": 0.9142517581019988,
+        "F1_macro": 0.9141499939021862
+      },
+      {
+        "Implementation": "PyTorch",
+        "Model": "Basic",
+        "Accuracy": 0.9766,
+        "Precision_macro": 0.9765953947451566,
+        "Recall_macro": 0.976433605019569,
+        "F1_macro": 0.9764568929614456
+      },
+      {
+        "Implementation": "PyTorch",
+        "Model": "Improved",
+        "Accuracy": 0.9879,
+        "Precision_macro": 0.9878282053177728,
+        "Recall_macro": 0.9879072886467754,
+        "F1_macro": 0.9878391215436184
+      },
+      {
+        "Implementation": "TensorFlow",
+        "Model": "Basic",
+        "Accuracy": 0.9794,
+        "Precision_macro": 0.9793735419657952,
+        "Recall_macro": 0.979340012155799,
+        "F1_macro": 0.979271436506505
+      },
+      {
+        "Implementation": "TensorFlow",
+        "Model": "Improved",
+        "Accuracy": 0.9875,
+        "Precision_macro": 0.9876092715815332,
+        "Recall_macro": 0.9873268178311332,
+        "F1_macro": 0.987412238184169
+      }
+    ],
+    "fashion": [
+      {
+        "dataset": "fashion_mnist",
+        "model": "basic_cnn",
+        "accuracy": 0.8989,
+        "precision_macro": 0.909825287433593,
+        "recall_macro": 0.8989,
+        "f1_macro": 0.901006194105234,
+        "params": 421642,
+        "loss": 0.2792204022407532,
+        "train_seconds": 48.64628659997834
+      },
+      {
+        "dataset": "fashion_mnist",
+        "model": "lenet_like",
+        "accuracy": 0.8697,
+        "precision_macro": 0.8718852801523264,
+        "recall_macro": 0.8696999999999999,
+        "f1_macro": 0.8698914712077348,
+        "params": 61706,
+        "loss": 0.3485207557678222,
+        "train_seconds": 33.012060000008205
+      },
+      {
+        "dataset": "fashion_mnist",
+        "model": "vgg_like",
+        "accuracy": 0.8669,
+        "precision_macro": 0.8732689964386788,
+        "recall_macro": 0.8669,
+        "f1_macro": 0.8663067482273661,
+        "params": 156650,
+        "loss": 0.345660388469696,
+        "train_seconds": 157.17535110001336
+      },
+      {
+        "dataset": "fashion_mnist",
+        "model": "resnet_like",
+        "accuracy": 0.8447,
+        "precision_macro": 0.8605577066362867,
+        "recall_macro": 0.8446999999999999,
+        "f1_macro": 0.8423941942919013,
+        "params": 152106,
+        "loss": 0.4268364608287811,
+        "train_seconds": 581.294638899999
+      }
+    ],
+    "cifar10": [
+      {
+        "dataset": "cifar10",
+        "model": "basic_cnn",
+        "accuracy": 0.531,
+        "precision_macro": 0.5364296391492328,
+        "recall_macro": 0.5309999999999999,
+        "f1_macro": 0.5166965264692769,
+        "params": 111050,
+        "loss": 1.2764133214950562,
+        "train_seconds": 78.02919120001025
+      },
+      {
+        "dataset": "cifar10",
+        "model": "lenet_like",
+        "accuracy": 0.4872,
+        "precision_macro": 0.4806838311740152,
+        "recall_macro": 0.4871999999999999,
+        "f1_macro": 0.4738334490255246,
+        "params": 62006,
+        "loss": 1.4387431144714355,
+        "train_seconds": 49.645722799992654
+      },
+      {
+        "dataset": "cifar10",
+        "model": "vgg_like",
+        "accuracy": 0.6394,
+        "precision_macro": 0.6580570988754258,
+        "recall_macro": 0.6394,
+        "f1_macro": 0.6401268629405424,
+        "params": 304810,
+        "loss": 1.003265380859375,
+        "train_seconds": 216.6286581000022
+      },
+      {
+        "dataset": "cifar10",
+        "model": "resnet_like",
+        "accuracy": 0.7066,
+        "precision_macro": 0.7552021092468753,
+        "recall_macro": 0.7066000000000001,
+        "f1_macro": 0.7066426936065204,
+        "params": 384234,
+        "loss": 0.834276556968689,
+        "train_seconds": 622.6758087000053
+      }
+    ]
+  },
+  "rnn": {
+    "stock": [
+      {
+        "Model": "PyTorch SimpleRNN",
+        "mae": 2.492583751678467,
+        "rmse": 3.247968185306573,
+        "baseline_rmse": 2.7004462643379563,
+        "direction_accuracy": 0.5118343195266272
+      },
+      {
+        "Model": "Keras SimpleRNN",
+        "mae": 2.4315364360809326,
+        "rmse": 3.1877308182263784,
+        "baseline_rmse": 2.7004462643379563,
+        "direction_accuracy": 0.5325443786982249
+      },
+      {
+        "Model": "Keras LSTM",
+        "mae": 2.967925548553467,
+        "rmse": 3.8701401044930868,
+        "baseline_rmse": 2.7004462643379563,
+        "direction_accuracy": 0.5177514792899408
+      },
+      {
+        "Model": "Keras GRU",
+        "mae": 2.3824355602264404,
+        "rmse": 3.108141630532106,
+        "baseline_rmse": 2.7004462643379563,
+        "direction_accuracy": 0.5118343195266272
+      }
+    ],
+    "customer": [
+      {
+        "Model": "PyTorch SimpleRNN",
+        "accuracy": 0.8145666666666667,
+        "macro_f1": 0.5348581034521506,
+        "weighted_f1": 0.8505786685634654
+      },
+      {
+        "Model": "Keras SimpleRNN",
+        "accuracy": 0.8029666666666667,
+        "macro_f1": 0.5263045149749228,
+        "weighted_f1": 0.8430179746534917
+      },
+      {
+        "Model": "Keras LSTM",
+        "accuracy": 0.8106666666666666,
+        "macro_f1": 0.5308843023871612,
+        "weighted_f1": 0.8480187328756424
+      },
+      {
+        "Model": "Keras GRU",
+        "accuracy": 0.8143333333333334,
+        "macro_f1": 0.5318636496257544,
+        "weighted_f1": 0.8503572811134895
+      }
+    ]
+  }
+}

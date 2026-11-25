@@ -1,0 +1,244 @@
+{
+  "run": "runs/rag/9ed75abb960b",
+  "retrieval": [
+    {
+      "split": "dev",
+      "category": "conceptual",
+      "method": "tfidf",
+      "n": 10,
+      "hit_at_3": 1.0,
+      "mrr_at_3": 1.0,
+      "abstention_accuracy": null
+    },
+    {
+      "split": "dev",
+      "category": "conceptual",
+      "method": "bm25",
+      "n": 10,
+      "hit_at_3": 1.0,
+      "mrr_at_3": 0.95,
+      "abstention_accuracy": null
+    },
+    {
+      "split": "dev",
+      "category": "conceptual",
+      "method": "kg",
+      "n": 10,
+      "hit_at_3": 1.0,
+      "mrr_at_3": 0.7666666666666666,
+      "abstention_accuracy": null
+    },
+    {
+      "split": "dev",
+      "category": "conceptual",
+      "method": "hybrid",
+      "n": 10,
+      "hit_at_3": 1.0,
+      "mrr_at_3": 1.0,
+      "abstention_accuracy": null
+    },
+    {
+      "split": "dev",
+      "category": "lookup",
+      "method": "tfidf",
+      "n": 8,
+      "hit_at_3": 1.0,
+      "mrr_at_3": 1.0,
+      "abstention_accuracy": null
+    },
+    {
+      "split": "dev",
+      "category": "lookup",
+      "method": "bm25",
+      "n": 8,
+      "hit_at_3": 1.0,
+      "mrr_at_3": 1.0,
+      "abstention_accuracy": null
+    },
+    {
+      "split": "dev",
+      "category": "lookup",
+      "method": "kg",
+      "n": 8,
+      "hit_at_3": 1.0,
+      "mrr_at_3": 1.0,
+      "abstention_accuracy": null
+    },
+    {
+      "split": "dev",
+      "category": "lookup",
+      "method": "hybrid",
+      "n": 8,
+      "hit_at_3": 1.0,
+      "mrr_at_3": 1.0,
+      "abstention_accuracy": null
+    },
+    {
+      "split": "dev",
+      "category": "out_of_scope",
+      "method": "tfidf",
+      "n": 4,
+      "hit_at_3": null,
+      "mrr_at_3": null,
+      "abstention_accuracy": 1.0
+    },
+    {
+      "split": "dev",
+      "category": "out_of_scope",
+      "method": "bm25",
+      "n": 4,
+      "hit_at_3": null,
+      "mrr_at_3": null,
+      "abstention_accuracy": 1.0
+    },
+    {
+      "split": "dev",
+      "category": "out_of_scope",
+      "method": "kg",
+      "n": 4,
+      "hit_at_3": null,
+      "mrr_at_3": null,
+      "abstention_accuracy": 1.0
+    },
+    {
+      "split": "dev",
+      "category": "out_of_scope",
+      "method": "hybrid",
+      "n": 4,
+      "hit_at_3": null,
+      "mrr_at_3": null,
+      "abstention_accuracy": 1.0
+    },
+    {
+      "split": "test",
+      "category": "conceptual",
+      "method": "tfidf",
+      "n": 10,
+      "hit_at_3": 1.0,
+      "mrr_at_3": 1.0,
+      "abstention_accuracy": null
+    },
+    {
+      "split": "test",
+      "category": "conceptual",
+      "method": "bm25",
+      "n": 10,
+      "hit_at_3": 1.0,
+      "mrr_at_3": 1.0,
+      "abstention_accuracy": null
+    },
+    {
+      "split": "test",
+      "category": "conceptual",
+      "method": "kg",
+      "n": 10,
+      "hit_at_3": 0.7,
+      "mrr_at_3": 0.6,
+      "abstention_accuracy": null
+    },
+    {
+      "split": "test",
+      "category": "conceptual",
+      "method": "hybrid",
+      "n": 10,
+      "hit_at_3": 1.0,
+      "mrr_at_3": 1.0,
+      "abstention_accuracy": null
+    },
+    {
+      "split": "test",
+      "category": "lookup",
+      "method": "tfidf",
+      "n": 8,
+      "hit_at_3": 1.0,
+      "mrr_at_3": 1.0,
+      "abstention_accuracy": null
+    },
+    {
+      "split": "test",
+      "category": "lookup",
+      "method": "bm25",
+      "n": 8,
+      "hit_at_3": 1.0,
+      "mrr_at_3": 1.0,
+      "abstention_accuracy": null
+    },
+    {
+      "split": "test",
+      "category": "lookup",
+      "method": "kg",
+      "n": 8,
+      "hit_at_3": 1.0,
+      "mrr_at_3": 1.0,
+      "abstention_accuracy": null
+    },
+    {
+      "split": "test",
+      "category": "lookup",
+      "method": "hybrid",
+      "n": 8,
+      "hit_at_3": 1.0,
+      "mrr_at_3": 1.0,
+      "abstention_accuracy": null
+    },
+    {
+      "split": "test",
+      "category": "out_of_scope",
+      "method": "tfidf",
+      "n": 4,
+      "hit_at_3": null,
+      "mrr_at_3": null,
+      "abstention_accuracy": 1.0
+    },
+    {
+      "split": "test",
+      "category": "out_of_scope",
+      "method": "bm25",
+      "n": 4,
+      "hit_at_3": null,
+      "mrr_at_3": null,
+      "abstention_accuracy": 1.0
+    },
+    {
+      "split": "test",
+      "category": "out_of_scope",
+      "method": "kg",
+      "n": 4,
+      "hit_at_3": null,
+      "mrr_at_3": null,
+      "abstention_accuracy": 1.0
+    },
+    {
+      "split": "test",
+      "category": "out_of_scope",
+      "method": "hybrid",
+      "n": 4,
+      "hit_at_3": null,
+      "mrr_at_3": null,
+      "abstention_accuracy": 1.0
+    }
+  ],
+  "generation": [
+    {
+      "category": "conceptual",
+      "n": 10,
+      "expected_fact_pass": 0.8,
+      "valid_citation_rate": 1.0,
+      "gold_citation_rate": 1.0,
+      "token_f1": 0.5169065601742948,
+      "rouge_l": 0.4688296370973717,
+      "latency_p50_ms": 2001.98
+    },
+    {
+      "category": "lookup",
+      "n": 8,
+      "expected_fact_pass": 1.0,
+      "valid_citation_rate": 1.0,
+      "gold_citation_rate": 1.0,
+      "token_f1": 0.41666666666666663,
+      "rouge_l": 0.41666666666666663,
+      "latency_p50_ms": 1631.5700000000002
+    }
+  ],
+  "note": "Bộ câu tự soạn DEV/TEST; lookup và hỏi khái niệm được tách riêng. Kiểm tra fact cố định không thay thế đánh giá đầy đủ nội dung."
+}

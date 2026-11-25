@@ -1,0 +1,4826 @@
+{
+  "Aleksandrów Kujawski": {
+    "raw_city": "AleksandrĂłw Kujawski",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 12565.0,
+    "longitude": 18.6935744,
+    "latitude": 52.8765365,
+    "count": 22
+  },
+  "Aleksandrów Łódzki": {
+    "raw_city": "AleksandrĂłw ĹĂłdzki",
+    "voivodeship": "Lodzkie",
+    "population": 21245.0,
+    "longitude": 19.3035375,
+    "latitude": 51.8196533,
+    "count": 56
+  },
+  "Alwernia": {
+    "raw_city": "Alwernia",
+    "voivodeship": "Lesser Poland",
+    "population": 3425.0,
+    "longitude": 19.5396737,
+    "latitude": 50.0690434,
+    "count": 10
+  },
+  "Andrychów": {
+    "raw_city": "AndrychĂłw",
+    "voivodeship": "Lesser Poland",
+    "population": 21111.0,
+    "longitude": 19.3436756,
+    "latitude": 49.8555791,
+    "count": 74
+  },
+  "Augustów": {
+    "raw_city": "AugustĂłw",
+    "voivodeship": "Podlaskie",
+    "population": 30610.0,
+    "longitude": 22.9802357,
+    "latitude": 53.8437331,
+    "count": 73
+  },
+  "Babimost": {
+    "raw_city": "Babimost",
+    "voivodeship": "Lubusz",
+    "population": 4037.0,
+    "longitude": 15.8285175,
+    "latitude": 52.165312,
+    "count": 7
+  },
+  "Barcin": {
+    "raw_city": "Barcin",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 7609.0,
+    "longitude": 17.9472463,
+    "latitude": 52.8632346,
+    "count": 28
+  },
+  "Barczewo": {
+    "raw_city": "Barczewo",
+    "voivodeship": "Warmia-Masuria",
+    "population": 7265.0,
+    "longitude": 20.6911497,
+    "latitude": 53.8297112,
+    "count": 24
+  },
+  "Barlinek": {
+    "raw_city": "Barlinek",
+    "voivodeship": "West Pomerania",
+    "population": 14263.0,
+    "longitude": 15.2166391,
+    "latitude": 52.9920762,
+    "count": 14
+  },
+  "Bartoszyce": {
+    "raw_city": "Bartoszyce",
+    "voivodeship": "Warmia-Masuria",
+    "population": 24552.0,
+    "longitude": 20.8143766,
+    "latitude": 54.2523695,
+    "count": 141
+  },
+  "Barwice": {
+    "raw_city": "Barwice",
+    "voivodeship": "West Pomerania",
+    "population": 3851.0,
+    "longitude": 16.3549399,
+    "latitude": 53.7445649,
+    "count": 6
+  },
+  "Bełchatów": {
+    "raw_city": "BeĹ‚chatĂłw",
+    "voivodeship": "Lodzkie",
+    "population": 59565.0,
+    "longitude": 19.3691833,
+    "latitude": 51.3650175,
+    "count": 246
+  },
+  "Bełżyce": {
+    "raw_city": "BeĹ‚ĹĽyce",
+    "voivodeship": "Lublin",
+    "population": 6765.0,
+    "longitude": 22.2749995,
+    "latitude": 51.175063,
+    "count": 23
+  },
+  "Biała Piska": {
+    "raw_city": "BiaĹ‚a Piska",
+    "voivodeship": "Warmia-Masuria",
+    "population": 4125.0,
+    "longitude": 22.0581433,
+    "latitude": 53.6113625,
+    "count": 22
+  },
+  "Biała Podlaska": {
+    "raw_city": "BiaĹ‚a Podlaska",
+    "voivodeship": "Lublin",
+    "population": 57658.0,
+    "longitude": 23.1193948,
+    "latitude": 52.0338399,
+    "count": 237
+  },
+  "Białobrzegi": {
+    "raw_city": "BiaĹ‚obrzegi",
+    "voivodeship": "Masovia",
+    "population": 7132.0,
+    "longitude": 20.9497458,
+    "latitude": 51.6482305,
+    "count": 10
+  },
+  "Białogard": {
+    "raw_city": "BiaĹ‚ogard",
+    "voivodeship": "West Pomerania",
+    "population": 24722.0,
+    "longitude": 15.9870974,
+    "latitude": 54.0064367,
+    "count": 84
+  },
+  "Białystok": {
+    "raw_city": "BiaĹ‚ystok",
+    "voivodeship": "Podlaskie",
+    "population": 295459.0,
+    "longitude": 23.1591679,
+    "latitude": 53.132398,
+    "count": 693
+  },
+  "Bielawa": {
+    "raw_city": "Bielawa",
+    "voivodeship": "Lower Silesia",
+    "population": 31023.0,
+    "longitude": 16.6160879,
+    "latitude": 50.6871117,
+    "count": 52
+  },
+  "Bielsk Podlaski": {
+    "raw_city": "Bielsk Podlaski",
+    "voivodeship": "Podlaskie",
+    "population": 26336.0,
+    "longitude": 23.1925618,
+    "latitude": 52.7687555,
+    "count": 51
+  },
+  "Bielsko-Biała": {
+    "raw_city": "Bielsko-BiaĹ‚a",
+    "voivodeship": "Silesia",
+    "population": 173699.0,
+    "longitude": 19.0448936,
+    "latitude": 49.822118,
+    "count": 354
+  },
+  "Bierutów": {
+    "raw_city": "BierutĂłw",
+    "voivodeship": "Lower Silesia",
+    "population": 5032.0,
+    "longitude": 17.5400351,
+    "latitude": 51.1252738,
+    "count": 12
+  },
+  "Bieruń": {
+    "raw_city": "BieruĹ„",
+    "voivodeship": "Silesia",
+    "population": 19696.0,
+    "longitude": 19.0918262,
+    "latitude": 50.0931922,
+    "count": 37
+  },
+  "Biskupiec": {
+    "raw_city": "Biskupiec",
+    "voivodeship": "Warmia-Masuria",
+    "population": 10626.0,
+    "longitude": 20.95518,
+    "latitude": 53.8688,
+    "count": 33
+  },
+  "Bisztynek": {
+    "raw_city": "Bisztynek",
+    "voivodeship": "Warmia-Masuria",
+    "population": 2492.0,
+    "longitude": 20.908828,
+    "latitude": 54.0866828,
+    "count": 2
+  },
+  "Biłgoraj": {
+    "raw_city": "BiĹ‚goraj",
+    "voivodeship": "Lublin",
+    "population": 27169.0,
+    "longitude": 22.7209326,
+    "latitude": 50.5424846,
+    "count": 43
+  },
+  "Blachownia": {
+    "raw_city": "Blachownia",
+    "voivodeship": "Silesia",
+    "population": 9865.0,
+    "longitude": 18.9684255,
+    "latitude": 50.7820239,
+    "count": 16
+  },
+  "Bochnia": {
+    "raw_city": "Bochnia",
+    "voivodeship": "Lesser Poland",
+    "population": 30219.0,
+    "longitude": 20.430541,
+    "latitude": 49.9693563,
+    "count": 45
+  },
+  "Bogatynia": {
+    "raw_city": "Bogatynia",
+    "voivodeship": "Lower Silesia",
+    "population": 18030.0,
+    "longitude": 14.9539185,
+    "latitude": 50.9077147,
+    "count": 36
+  },
+  "Boguchwała": {
+    "raw_city": "BoguchwaĹ‚a",
+    "voivodeship": "Subcarpathia",
+    "population": 6030.0,
+    "longitude": 21.9391822,
+    "latitude": 49.9806882,
+    "count": 3
+  },
+  "Boguszów-Gorce": {
+    "raw_city": "BoguszĂłw-Gorce",
+    "voivodeship": "Lower Silesia",
+    "population": 15640.0,
+    "longitude": 16.2043895,
+    "latitude": 50.7566795,
+    "count": 42
+  },
+  "Bolesławiec": {
+    "raw_city": "BolesĹ‚awiec",
+    "voivodeship": "Lower Silesia",
+    "population": 39603.0,
+    "longitude": 15.5651049,
+    "latitude": 51.2630333,
+    "count": 58
+  },
+  "Borne Sulinowo": {
+    "raw_city": "Borne Sulinowo",
+    "voivodeship": "West Pomerania",
+    "population": 4905.0,
+    "longitude": 16.538117,
+    "latitude": 53.5812939,
+    "count": 34
+  },
+  "Braniewo": {
+    "raw_city": "Braniewo",
+    "voivodeship": "Warmia-Masuria",
+    "population": 17385.0,
+    "longitude": 19.8275588,
+    "latitude": 54.3824857,
+    "count": 65
+  },
+  "Brodnica": {
+    "raw_city": "Brodnica",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 28579.0,
+    "longitude": 19.3993626,
+    "latitude": 53.258092,
+    "count": 156
+  },
+  "Brwinów": {
+    "raw_city": "BrwinĂłw",
+    "voivodeship": "Masovia",
+    "population": 13090.0,
+    "longitude": 20.7170701,
+    "latitude": 52.1425551,
+    "count": 26
+  },
+  "Brzeg": {
+    "raw_city": "Brzeg",
+    "voivodeship": "Opole",
+    "population": 36980.0,
+    "longitude": 17.470497,
+    "latitude": 50.8614882,
+    "count": 191
+  },
+  "Brzeg Dolny": {
+    "raw_city": "Brzeg Dolny",
+    "voivodeship": "Lower Silesia",
+    "population": 12536.0,
+    "longitude": 16.7228123,
+    "latitude": 51.2613682,
+    "count": 35
+  },
+  "Brzesko": {
+    "raw_city": "Brzesko",
+    "voivodeship": "Lesser Poland",
+    "population": 17097.0,
+    "longitude": 20.6068496,
+    "latitude": 49.9678396,
+    "count": 52
+  },
+  "Brzeszcze": {
+    "raw_city": "Brzeszcze",
+    "voivodeship": "Lesser Poland",
+    "population": 11474.0,
+    "longitude": 19.1528065,
+    "latitude": 49.9819014,
+    "count": 25
+  },
+  "Brzeziny": {
+    "raw_city": "Brzeziny",
+    "voivodeship": "Lodzkie",
+    "population": 12577.0,
+    "longitude": 19.7517694,
+    "latitude": 51.8004949,
+    "count": 29
+  },
+  "Brześć Kujawski": {
+    "raw_city": "BrzeĹ›Ä‡ Kujawski",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 4697.0,
+    "longitude": 18.9015463,
+    "latitude": 52.6048164,
+    "count": 13
+  },
+  "Brzozów": {
+    "raw_city": "BrzozĂłw",
+    "voivodeship": "Subcarpathia",
+    "population": 7836.0,
+    "longitude": 22.0196537,
+    "latitude": 49.6950395,
+    "count": 1
+  },
+  "Bukowno": {
+    "raw_city": "Bukowno",
+    "voivodeship": "Lesser Poland",
+    "population": 10411.0,
+    "longitude": 19.4638131,
+    "latitude": 50.2697776,
+    "count": 16
+  },
+  "Busko-Zdrój": {
+    "raw_city": "Busko-ZdrĂłj",
+    "voivodeship": "Świętokrzyskie",
+    "population": 16694.0,
+    "longitude": 20.71919,
+    "latitude": 50.46759,
+    "count": 78
+  },
+  "Bychawa": {
+    "raw_city": "Bychawa",
+    "voivodeship": "Lublin",
+    "population": 5178.0,
+    "longitude": 22.534535,
+    "latitude": 51.0152225,
+    "count": 2
+  },
+  "Byczyna": {
+    "raw_city": "Byczyna",
+    "voivodeship": "Opole",
+    "population": 3714.0,
+    "longitude": 18.2143288,
+    "latitude": 51.1142355,
+    "count": 1
+  },
+  "Bydgoszcz": {
+    "raw_city": "Bydgoszcz",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 350178.0,
+    "longitude": 18.0002529,
+    "latitude": 53.1219648,
+    "count": 1045
+  },
+  "Bystrzyca Kłodzka": {
+    "raw_city": "Bystrzyca KĹ‚odzka",
+    "voivodeship": "Lower Silesia",
+    "population": 10476.0,
+    "longitude": 16.652017,
+    "latitude": 50.2968684,
+    "count": 15
+  },
+  "Bytom": {
+    "raw_city": "Bytom",
+    "voivodeship": "Silesia",
+    "population": 173439.0,
+    "longitude": 18.9231857,
+    "latitude": 50.3470387,
+    "count": 420
+  },
+  "Bytom Odrzański": {
+    "raw_city": "Bytom OdrzaĹ„ski",
+    "voivodeship": "Lubusz",
+    "population": 4408.0,
+    "longitude": 15.826918,
+    "latitude": 51.7308267,
+    "count": 2
+  },
+  "Bytów": {
+    "raw_city": "BytĂłw",
+    "voivodeship": "Pomerania",
+    "population": 16842.0,
+    "longitude": 17.4922953,
+    "latitude": 54.168855,
+    "count": 58
+  },
+  "Będzin": {
+    "raw_city": "BÄ™dzin",
+    "voivodeship": "Silesia",
+    "population": 58425.0,
+    "longitude": 19.1322201,
+    "latitude": 50.3230785,
+    "count": 147
+  },
+  "Błaszki": {
+    "raw_city": "BĹ‚aszki",
+    "voivodeship": "Lodzkie",
+    "population": 2273.0,
+    "longitude": 18.4329261,
+    "latitude": 51.6525013,
+    "count": 5
+  },
+  "Chełm": {
+    "raw_city": "CheĹ‚m",
+    "voivodeship": "Lublin",
+    "population": 108311.0,
+    "longitude": 23.4711548,
+    "latitude": 51.1339221,
+    "count": 261
+  },
+  "Chełmno": {
+    "raw_city": "CheĹ‚mno",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 20622.0,
+    "longitude": 18.4235473,
+    "latitude": 53.3493915,
+    "count": 28
+  },
+  "Chełmża": {
+    "raw_city": "CheĹ‚mĹĽa",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 14967.0,
+    "longitude": 18.6112806,
+    "latitude": 53.1860233,
+    "count": 26
+  },
+  "Chocianów": {
+    "raw_city": "ChocianĂłw",
+    "voivodeship": "Lower Silesia",
+    "population": 8194.0,
+    "longitude": 15.8986889,
+    "latitude": 51.4168327,
+    "count": 20
+  },
+  "Chociwel": {
+    "raw_city": "Chociwel",
+    "voivodeship": "West Pomerania",
+    "population": 3206.0,
+    "longitude": 15.3314436,
+    "latitude": 53.4663949,
+    "count": 12
+  },
+  "Chodzież": {
+    "raw_city": "ChodzieĹĽ",
+    "voivodeship": "Greater Poland",
+    "population": 19399.0,
+    "longitude": 16.9159506,
+    "latitude": 52.9886824,
+    "count": 54
+  },
+  "Chojnice": {
+    "raw_city": "Chojnice",
+    "voivodeship": "Pomerania",
+    "population": 40226.0,
+    "longitude": 17.5614973,
+    "latitude": 53.6952912,
+    "count": 102
+  },
+  "Chojnów": {
+    "raw_city": "ChojnĂłw",
+    "voivodeship": "Lower Silesia",
+    "population": 14071.0,
+    "longitude": 15.9335241,
+    "latitude": 51.2722894,
+    "count": 24
+  },
+  "Choroszcz": {
+    "raw_city": "Choroszcz",
+    "voivodeship": "Podlaskie",
+    "population": 5818.0,
+    "longitude": 22.9884588,
+    "latitude": 53.143925,
+    "count": 16
+  },
+  "Chorzów": {
+    "raw_city": "ChorzĂłw",
+    "voivodeship": "Silesia",
+    "population": 110761.0,
+    "longitude": 18.9544466,
+    "latitude": 50.2978791,
+    "count": 227
+  },
+  "Choszczno": {
+    "raw_city": "Choszczno",
+    "voivodeship": "West Pomerania",
+    "population": 15716.0,
+    "longitude": 15.4167349,
+    "latitude": 53.1704801,
+    "count": 43
+  },
+  "Chrzanów": {
+    "raw_city": "ChrzanĂłw",
+    "voivodeship": "Lesser Poland",
+    "population": 38117.0,
+    "longitude": 19.4028502,
+    "latitude": 50.1411926,
+    "count": 121
+  },
+  "Ciechanów": {
+    "raw_city": "CiechanĂłw",
+    "voivodeship": "Masovia",
+    "population": 44797.0,
+    "longitude": 20.6191479,
+    "latitude": 52.8819798,
+    "count": 254
+  },
+  "Ciechocinek": {
+    "raw_city": "Ciechocinek",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 10880.0,
+    "longitude": 18.7906883,
+    "latitude": 52.882552,
+    "count": 35
+  },
+  "Cieszyn": {
+    "raw_city": "Cieszyn",
+    "voivodeship": "Silesia",
+    "population": 35918.0,
+    "longitude": 18.6334308,
+    "latitude": 49.7488623,
+    "count": 42
+  },
+  "Czarna Białostocka": {
+    "raw_city": "Czarna BiaĹ‚ostocka",
+    "voivodeship": "Podlaskie",
+    "population": 9671.0,
+    "longitude": 23.2851013,
+    "latitude": 53.2982835,
+    "count": 20
+  },
+  "Czarnków": {
+    "raw_city": "CzarnkĂłw",
+    "voivodeship": "Greater Poland",
+    "population": 11256.0,
+    "longitude": 16.5639572,
+    "latitude": 52.9050335,
+    "count": 15
+  },
+  "Czechowice-Dziedzice": {
+    "raw_city": "Czechowice-Dziedzice",
+    "voivodeship": "Silesia",
+    "population": 35684.0,
+    "longitude": 19.007564,
+    "latitude": 49.9112146,
+    "count": 96
+  },
+  "Czeladź": {
+    "raw_city": "CzeladĹş",
+    "voivodeship": "Silesia",
+    "population": 32940.0,
+    "longitude": 19.0736572,
+    "latitude": 50.3184581,
+    "count": 92
+  },
+  "Czempiń": {
+    "raw_city": "CzempiĹ„",
+    "voivodeship": "Greater Poland",
+    "population": 5280.0,
+    "longitude": 16.7613308,
+    "latitude": 52.1431479,
+    "count": 7
+  },
+  "Czersk": {
+    "raw_city": "Czersk",
+    "voivodeship": "Pomerania",
+    "population": 10008.0,
+    "longitude": 17.9756228,
+    "latitude": 53.796196,
+    "count": 23
+  },
+  "Czerwionka-Leszczyny": {
+    "raw_city": "Czerwionka-Leszczyny",
+    "voivodeship": "Silesia",
+    "population": 28301.0,
+    "longitude": 18.6531994,
+    "latitude": 50.1449958,
+    "count": 32
+  },
+  "Częstochowa": {
+    "raw_city": "CzÄ™stochowa",
+    "voivodeship": "Silesia",
+    "population": 232318.0,
+    "longitude": 19.113213,
+    "latitude": 50.8120466,
+    "count": 529
+  },
+  "Człuchów": {
+    "raw_city": "CzĹ‚uchĂłw",
+    "voivodeship": "Pomerania",
+    "population": 14385.0,
+    "longitude": 17.3588324,
+    "latitude": 53.6651462,
+    "count": 40
+  },
+  "Darłowo": {
+    "raw_city": "DarĹ‚owo",
+    "voivodeship": "West Pomerania",
+    "population": 14229.0,
+    "longitude": 16.40933,
+    "latitude": 54.42249,
+    "count": 42
+  },
+  "Debrzno": {
+    "raw_city": "Debrzno",
+    "voivodeship": "Pomerania",
+    "population": 5232.0,
+    "longitude": 17.2338685,
+    "latitude": 53.53861,
+    "count": 15
+  },
+  "Dobczyce": {
+    "raw_city": "Dobczyce",
+    "voivodeship": "Lesser Poland",
+    "population": 6469.0,
+    "longitude": 20.0905415,
+    "latitude": 49.8803432,
+    "count": 11
+  },
+  "Dobiegniew": {
+    "raw_city": "Dobiegniew",
+    "voivodeship": "Lubusz",
+    "population": 3169.0,
+    "longitude": 15.7548055,
+    "latitude": 52.9667749,
+    "count": 10
+  },
+  "Dobre Miasto": {
+    "raw_city": "Dobre Miasto",
+    "voivodeship": "Warmia-Masuria",
+    "population": 10599.0,
+    "longitude": 20.3973402,
+    "latitude": 53.9868899,
+    "count": 24
+  },
+  "Drawno": {
+    "raw_city": "Drawno",
+    "voivodeship": "West Pomerania",
+    "population": 2335.0,
+    "longitude": 15.7580084,
+    "latitude": 53.2189468,
+    "count": 1
+  },
+  "Drawsko Pomerania": {
+    "raw_city": "Drawsko Pomerania",
+    "voivodeship": "West Pomerania",
+    "population": 11878.0,
+    "longitude": 15.8134179,
+    "latitude": 53.5310786,
+    "count": 17
+  },
+  "Drezdenko": {
+    "raw_city": "Drezdenko",
+    "voivodeship": "Lubusz",
+    "population": 10200.0,
+    "longitude": 15.8323083,
+    "latitude": 52.8396642,
+    "count": 28
+  },
+  "Działdowo": {
+    "raw_city": "DziaĹ‚dowo",
+    "voivodeship": "Warmia-Masuria",
+    "population": 21552.0,
+    "longitude": 20.1817841,
+    "latitude": 53.2346517,
+    "count": 72
+  },
+  "Dzierżoniów": {
+    "raw_city": "DzierĹĽoniĂłw",
+    "voivodeship": "Lower Silesia",
+    "population": 34428.0,
+    "longitude": 16.6506207,
+    "latitude": 50.7283543,
+    "count": 84
+  },
+  "Dziwnów": {
+    "raw_city": "DziwnĂłw",
+    "voivodeship": "West Pomerania",
+    "population": 2736.0,
+    "longitude": 14.7526469,
+    "latitude": 54.025095,
+    "count": 6
+  },
+  "Dąbrowa Białostocka": {
+    "raw_city": "DÄ…browa BiaĹ‚ostocka",
+    "voivodeship": "Podlaskie",
+    "population": 5874.0,
+    "longitude": 23.3485102,
+    "latitude": 53.654439,
+    "count": 18
+  },
+  "Dąbrowa Górnicza": {
+    "raw_city": "DÄ…browa GĂłrnicza",
+    "voivodeship": "Silesia",
+    "population": 123994.0,
+    "longitude": 19.2078918,
+    "latitude": 50.3308692,
+    "count": 255
+  },
+  "Dębica": {
+    "raw_city": "DÄ™bica",
+    "voivodeship": "Subcarpathia",
+    "population": 46854.0,
+    "longitude": 21.4104804,
+    "latitude": 50.0514601,
+    "count": 119
+  },
+  "Dęblin": {
+    "raw_city": "DÄ™blin",
+    "voivodeship": "Lublin",
+    "population": 16656.0,
+    "longitude": 21.8654383,
+    "latitude": 51.562491,
+    "count": 69
+  },
+  "Dębno": {
+    "raw_city": "DÄ™bno",
+    "voivodeship": "West Pomerania",
+    "population": 14043.0,
+    "longitude": 14.7014522,
+    "latitude": 52.7396681,
+    "count": 30
+  },
+  "Elbląg": {
+    "raw_city": "ElblÄ…g",
+    "voivodeship": "Warmia-Masuria",
+    "population": 126460.0,
+    "longitude": 19.4044583,
+    "latitude": 54.1558708,
+    "count": 267
+  },
+  "Ełk": {
+    "raw_city": "EĹ‚k",
+    "voivodeship": "Warmia-Masuria",
+    "population": 60621.0,
+    "longitude": 22.3615813,
+    "latitude": 53.8248304,
+    "count": 216
+  },
+  "Frampol": {
+    "raw_city": "Frampol",
+    "voivodeship": "Lublin",
+    "population": 1444.0,
+    "longitude": 22.6698666,
+    "latitude": 50.671832,
+    "count": 1
+  },
+  "Garwolin": {
+    "raw_city": "Garwolin",
+    "voivodeship": "Masovia",
+    "population": 17060.0,
+    "longitude": 21.6149645,
+    "latitude": 51.8973315,
+    "count": 42
+  },
+  "Gdańsk": {
+    "raw_city": "GdaĹ„sk",
+    "voivodeship": "Pomerania",
+    "population": 461935.0,
+    "longitude": 18.6540231,
+    "latitude": 54.3482908,
+    "count": 842
+  },
+  "Gdynia": {
+    "raw_city": "Gdynia",
+    "voivodeship": "Pomerania",
+    "population": 248042.0,
+    "longitude": 18.5402738,
+    "latitude": 54.5164982,
+    "count": 384
+  },
+  "Giżycko": {
+    "raw_city": "GiĹĽycko",
+    "voivodeship": "Warmia-Masuria",
+    "population": 29947.0,
+    "longitude": 21.7713092,
+    "latitude": 54.040092,
+    "count": 118
+  },
+  "Gliwice": {
+    "raw_city": "Gliwice",
+    "voivodeship": "Silesia",
+    "population": 185450.0,
+    "longitude": 18.6657306,
+    "latitude": 50.294113,
+    "count": 585
+  },
+  "Gniew": {
+    "raw_city": "Gniew",
+    "voivodeship": "Pomerania",
+    "population": 6868.0,
+    "longitude": 18.8251596,
+    "latitude": 53.8342221,
+    "count": 2
+  },
+  "Gniezno": {
+    "raw_city": "Gniezno",
+    "voivodeship": "Greater Poland",
+    "population": 69883.0,
+    "longitude": 17.595889,
+    "latitude": 52.5359736,
+    "count": 200
+  },
+  "Golczewo": {
+    "raw_city": "Golczewo",
+    "voivodeship": "West Pomerania",
+    "population": 2763.0,
+    "longitude": 14.9773396,
+    "latitude": 53.8241081,
+    "count": 3
+  },
+  "Goleniów": {
+    "raw_city": "GoleniĂłw",
+    "voivodeship": "West Pomerania",
+    "population": 22776.0,
+    "longitude": 14.8300626,
+    "latitude": 53.5656704,
+    "count": 67
+  },
+  "Golub-Dobrzyń": {
+    "raw_city": "Golub-DobrzyĹ„",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 12945.0,
+    "longitude": 19.0544501,
+    "latitude": 53.1138924,
+    "count": 60
+  },
+  "Goniądz": {
+    "raw_city": "GoniÄ…dz",
+    "voivodeship": "Podlaskie",
+    "population": 1900.0,
+    "longitude": 22.7323721,
+    "latitude": 53.489222,
+    "count": 5
+  },
+  "Gorlice": {
+    "raw_city": "Gorlice",
+    "voivodeship": "Lesser Poland",
+    "population": 28415.0,
+    "longitude": 21.1593832,
+    "latitude": 49.65829,
+    "count": 51
+  },
+  "Gorzów Wielkopolski": {
+    "raw_city": "GorzĂłw Wielkopolski",
+    "voivodeship": "Lubusz",
+    "population": 124344.0,
+    "longitude": 15.2400451,
+    "latitude": 52.7309926,
+    "count": 477
+  },
+  "Gostynin": {
+    "raw_city": "Gostynin",
+    "voivodeship": "Masovia",
+    "population": 19092.0,
+    "longitude": 19.4612956,
+    "latitude": 52.4287607,
+    "count": 15
+  },
+  "Gostyń": {
+    "raw_city": "GostyĹ„",
+    "voivodeship": "Greater Poland",
+    "population": 20183.0,
+    "longitude": 17.0167637,
+    "latitude": 51.8778633,
+    "count": 49
+  },
+  "Gołdap": {
+    "raw_city": "GoĹ‚dap",
+    "voivodeship": "Warmia-Masuria",
+    "population": 13808.0,
+    "longitude": 22.3018802,
+    "latitude": 54.3080218,
+    "count": 65
+  },
+  "Gościno": {
+    "raw_city": "GoĹ›cino",
+    "voivodeship": "West Pomerania",
+    "population": 2332.0,
+    "longitude": 15.6534004,
+    "latitude": 54.0515795,
+    "count": 18
+  },
+  "Grajewo": {
+    "raw_city": "Grajewo",
+    "voivodeship": "Podlaskie",
+    "population": 22246.0,
+    "longitude": 22.4548627,
+    "latitude": 53.6469842,
+    "count": 61
+  },
+  "Grodków": {
+    "raw_city": "GrodkĂłw",
+    "voivodeship": "Opole",
+    "population": 8746.0,
+    "longitude": 17.3849804,
+    "latitude": 50.698157,
+    "count": 39
+  },
+  "Grodzisk Mazowiecki": {
+    "raw_city": "Grodzisk Mazowiecki",
+    "voivodeship": "Masovia",
+    "population": 29907.0,
+    "longitude": 20.6313441,
+    "latitude": 52.1066223,
+    "count": 136
+  },
+  "Grodzisk Wielkopolski": {
+    "raw_city": "Grodzisk Wielkopolski",
+    "voivodeship": "Greater Poland",
+    "population": 14339.0,
+    "longitude": 16.3628106,
+    "latitude": 52.2263198,
+    "count": 35
+  },
+  "Grudziądz": {
+    "raw_city": "GrudziÄ…dz",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 97676.0,
+    "longitude": 18.7557759,
+    "latitude": 53.4876477,
+    "count": 199
+  },
+  "Grybów": {
+    "raw_city": "GrybĂłw",
+    "voivodeship": "Lesser Poland",
+    "population": 6066.0,
+    "longitude": 20.9446455,
+    "latitude": 49.6250919,
+    "count": 3
+  },
+  "Gryfice": {
+    "raw_city": "Gryfice",
+    "voivodeship": "West Pomerania",
+    "population": 16898.0,
+    "longitude": 15.1987062,
+    "latitude": 53.9148529,
+    "count": 56
+  },
+  "Gryfino": {
+    "raw_city": "Gryfino",
+    "voivodeship": "West Pomerania",
+    "population": 21578.0,
+    "longitude": 14.4924243,
+    "latitude": 53.2535889,
+    "count": 57
+  },
+  "Gryfów Śląski": {
+    "raw_city": "GryfĂłw ĹšlÄ…ski",
+    "voivodeship": "Lower Silesia",
+    "population": 6902.0,
+    "longitude": 15.4145051,
+    "latitude": 51.0281455,
+    "count": 14
+  },
+  "Grójec": {
+    "raw_city": "GrĂłjec",
+    "voivodeship": "Masovia",
+    "population": 16197.0,
+    "longitude": 20.8675017,
+    "latitude": 51.8655126,
+    "count": 105
+  },
+  "Gubin": {
+    "raw_city": "Gubin",
+    "voivodeship": "Lubusz",
+    "population": 16952.0,
+    "longitude": 14.7272814,
+    "latitude": 51.9509817,
+    "count": 21
+  },
+  "Góra": {
+    "raw_city": "GĂłra",
+    "voivodeship": "Lower Silesia",
+    "population": 12448.0,
+    "longitude": 16.5393277,
+    "latitude": 51.6681499,
+    "count": 25
+  },
+  "Góra Kalwaria": {
+    "raw_city": "GĂłra Kalwaria",
+    "voivodeship": "Masovia",
+    "population": 11454.0,
+    "longitude": 21.2140226,
+    "latitude": 51.9843765,
+    "count": 39
+  },
+  "Górowo Iławeckie": {
+    "raw_city": "GĂłrowo IĹ‚aweckie",
+    "voivodeship": "Warmia-Masuria",
+    "population": 4264.0,
+    "longitude": 20.4916449,
+    "latitude": 54.2842481,
+    "count": 44
+  },
+  "Głogów": {
+    "raw_city": "GĹ‚ogĂłw",
+    "voivodeship": "Lower Silesia",
+    "population": 68997.0,
+    "longitude": 16.0935567,
+    "latitude": 51.6636791,
+    "count": 162
+  },
+  "Głogów Małopolski": {
+    "raw_city": "GĹ‚ogĂłw MaĹ‚opolski",
+    "voivodeship": "Subcarpathia",
+    "population": 6117.0,
+    "longitude": 21.9627571,
+    "latitude": 50.1511809,
+    "count": 6
+  },
+  "Głowno": {
+    "raw_city": "GĹ‚owno",
+    "voivodeship": "Lodzkie",
+    "population": 14814.0,
+    "longitude": 19.7135665,
+    "latitude": 51.9660873,
+    "count": 22
+  },
+  "Głubczyce": {
+    "raw_city": "GĹ‚ubczyce",
+    "voivodeship": "Opole",
+    "population": 12888.0,
+    "longitude": 17.8293199,
+    "latitude": 50.2000941,
+    "count": 41
+  },
+  "Głuchołazy": {
+    "raw_city": "GĹ‚uchoĹ‚azy",
+    "voivodeship": "Opole",
+    "population": 14257.0,
+    "longitude": 17.3833809,
+    "latitude": 50.3170828,
+    "count": 39
+  },
+  "Hajnówka": {
+    "raw_city": "HajnĂłwka",
+    "voivodeship": "Podlaskie",
+    "population": 21559.0,
+    "longitude": 23.5817869,
+    "latitude": 52.7396541,
+    "count": 17
+  },
+  "Hrubieszów": {
+    "raw_city": "HrubieszĂłw",
+    "voivodeship": "Lublin",
+    "population": 18585.0,
+    "longitude": 23.8873816,
+    "latitude": 50.8047363,
+    "count": 52
+  },
+  "Inowrocław": {
+    "raw_city": "InowrocĹ‚aw",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 75001.0,
+    "longitude": 18.2595624,
+    "latitude": 52.7952408,
+    "count": 158
+  },
+  "Iława": {
+    "raw_city": "IĹ‚awa",
+    "voivodeship": "Warmia-Masuria",
+    "population": 33338.0,
+    "longitude": 19.5612175,
+    "latitude": 53.5976095,
+    "count": 171
+  },
+  "Iłża": {
+    "raw_city": "IĹ‚ĹĽa",
+    "voivodeship": "Masovia",
+    "population": 5054.0,
+    "longitude": 21.2374622,
+    "latitude": 51.1624174,
+    "count": 10
+  },
+  "Jabłonowo Pomerania": {
+    "raw_city": "JabĹ‚onowo Pomerania",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 3806.0,
+    "longitude": 19.1527034,
+    "latitude": 53.387984,
+    "count": 3
+  },
+  "Janowiec Wielkopolski": {
+    "raw_city": "Janowiec Wielkopolski",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 4002.0,
+    "longitude": 17.4887698,
+    "latitude": 52.7567264,
+    "count": 9
+  },
+  "Janów Lubelski": {
+    "raw_city": "JanĂłw Lubelski",
+    "voivodeship": "Lublin",
+    "population": 12092.0,
+    "longitude": 22.4110663,
+    "latitude": 50.7065895,
+    "count": 23
+  },
+  "Jarocin": {
+    "raw_city": "Jarocin",
+    "voivodeship": "Greater Poland",
+    "population": 26394.0,
+    "longitude": 17.5011225,
+    "latitude": 51.9738992,
+    "count": 154
+  },
+  "Jarosław": {
+    "raw_city": "JarosĹ‚aw",
+    "voivodeship": "Subcarpathia",
+    "population": 39146.0,
+    "longitude": 22.6796573,
+    "latitude": 50.0159029,
+    "count": 96
+  },
+  "Jastrzębie-Zdrój": {
+    "raw_city": "JastrzÄ™bie-ZdrĂłj",
+    "voivodeship": "Silesia",
+    "population": 91235.0,
+    "longitude": 18.6023614,
+    "latitude": 49.9519085,
+    "count": 182
+  },
+  "Jasło": {
+    "raw_city": "JasĹ‚o",
+    "voivodeship": "Subcarpathia",
+    "population": 36363.0,
+    "longitude": 21.4743139,
+    "latitude": 49.7470465,
+    "count": 53
+  },
+  "Jawor": {
+    "raw_city": "Jawor",
+    "voivodeship": "Lower Silesia",
+    "population": 22758.0,
+    "longitude": 16.1932008,
+    "latitude": 51.0504653,
+    "count": 47
+  },
+  "Jaworzno": {
+    "raw_city": "Jaworzno",
+    "voivodeship": "Silesia",
+    "population": 93708.0,
+    "longitude": 19.2721559,
+    "latitude": 50.203439,
+    "count": 199
+  },
+  "Jelcz-Laskowice": {
+    "raw_city": "Jelcz-Laskowice",
+    "voivodeship": "Lower Silesia",
+    "population": 15828.0,
+    "longitude": 17.3499638,
+    "latitude": 51.0398306,
+    "count": 76
+  },
+  "Jelenia Góra": {
+    "raw_city": "Jelenia GĂłra",
+    "voivodeship": "Lower Silesia",
+    "population": 84306.0,
+    "longitude": 15.7344306,
+    "latitude": 50.9031028,
+    "count": 231
+  },
+  "Jeziorany": {
+    "raw_city": "Jeziorany",
+    "voivodeship": "Warmia-Masuria",
+    "population": 3346.0,
+    "longitude": 20.7459137,
+    "latitude": 53.9768604,
+    "count": 7
+  },
+  "Jędrzejów": {
+    "raw_city": "JÄ™drzejĂłw",
+    "voivodeship": "Świętokrzyskie",
+    "population": 15471.0,
+    "longitude": 20.3046116,
+    "latitude": 50.6394435,
+    "count": 35
+  },
+  "Kalisz": {
+    "raw_city": "Kalisz",
+    "voivodeship": "Greater Poland",
+    "population": 103997.0,
+    "longitude": 18.0895358,
+    "latitude": 51.7624752,
+    "count": 415
+  },
+  "Kamienna Góra": {
+    "raw_city": "Kamienna GĂłra",
+    "voivodeship": "Lower Silesia",
+    "population": 20014.0,
+    "longitude": 16.0336631,
+    "latitude": 50.7837361,
+    "count": 50
+  },
+  "Kamień Krajeński": {
+    "raw_city": "KamieĹ„ KrajeĹ„ski",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 2358.0,
+    "longitude": 17.5199143,
+    "latitude": 53.5333203,
+    "count": 7
+  },
+  "Kamień Pomorski": {
+    "raw_city": "KamieĹ„ Pomorski",
+    "voivodeship": "West Pomerania",
+    "population": 9070.0,
+    "longitude": 14.7734718,
+    "latitude": 53.9648364,
+    "count": 16
+  },
+  "Karczew": {
+    "raw_city": "Karczew",
+    "voivodeship": "Masovia",
+    "population": 10160.0,
+    "longitude": 21.2508068,
+    "latitude": 52.0782795,
+    "count": 17
+  },
+  "Karlino": {
+    "raw_city": "Karlino",
+    "voivodeship": "West Pomerania",
+    "population": 5974.0,
+    "longitude": 15.8793019,
+    "latitude": 54.0410287,
+    "count": 23
+  },
+  "Karpacz": {
+    "raw_city": "Karpacz",
+    "voivodeship": "Lower Silesia",
+    "population": 4570.0,
+    "longitude": 15.7542035,
+    "latitude": 50.7747485,
+    "count": 30
+  },
+  "Kartuzy": {
+    "raw_city": "Kartuzy",
+    "voivodeship": "Pomerania",
+    "population": 14866.0,
+    "longitude": 18.1973639,
+    "latitude": 54.3342281,
+    "count": 28
+  },
+  "Katowice": {
+    "raw_city": "Katowice",
+    "voivodeship": "Silesia",
+    "population": 304362.0,
+    "longitude": 19.0215852,
+    "latitude": 50.2598987,
+    "count": 915
+  },
+  "Kazimierz Dolny": {
+    "raw_city": "Kazimierz Dolny",
+    "voivodeship": "Lublin",
+    "population": 2607.0,
+    "longitude": 21.947372,
+    "latitude": 51.3220058,
+    "count": 2
+  },
+  "Kazimierza Wielka": {
+    "raw_city": "Kazimierza Wielka",
+    "voivodeship": "Świętokrzyskie",
+    "population": 5748.0,
+    "longitude": 20.4853308,
+    "latitude": 50.267489,
+    "count": 3
+  },
+  "Kańczuga": {
+    "raw_city": "KaĹ„czuga",
+    "voivodeship": "Subcarpathia",
+    "population": 3222.0,
+    "longitude": 22.4131838,
+    "latitude": 49.9843732,
+    "count": 5
+  },
+  "Kcynia": {
+    "raw_city": "Kcynia",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 4713.0,
+    "longitude": 17.4873729,
+    "latitude": 52.9917668,
+    "count": 5
+  },
+  "Kielce": {
+    "raw_city": "Kielce",
+    "voivodeship": "Świętokrzyskie",
+    "population": 187374.0,
+    "longitude": 20.6310488,
+    "latitude": 50.8719903,
+    "count": 567
+  },
+  "Kietrz": {
+    "raw_city": "Kietrz",
+    "voivodeship": "Opole",
+    "population": 6267.0,
+    "longitude": 18.0021082,
+    "latitude": 50.0796271,
+    "count": 17
+  },
+  "Kisielice": {
+    "raw_city": "Kisielice",
+    "voivodeship": "Warmia-Masuria",
+    "population": 2155.0,
+    "longitude": 19.2593923,
+    "latitude": 53.6076054,
+    "count": 4
+  },
+  "Kluczbork": {
+    "raw_city": "Kluczbork",
+    "voivodeship": "Opole",
+    "population": 24544.0,
+    "longitude": 18.2140089,
+    "latitude": 50.9730701,
+    "count": 39
+  },
+  "Knurów": {
+    "raw_city": "KnurĂłw",
+    "voivodeship": "Silesia",
+    "population": 39090.0,
+    "longitude": 18.6706574,
+    "latitude": 50.2216536,
+    "count": 99
+  },
+  "Kobyłka": {
+    "raw_city": "KobyĹ‚ka",
+    "voivodeship": "Masovia",
+    "population": 20855.0,
+    "longitude": 21.1965315,
+    "latitude": 52.3387086,
+    "count": 36
+  },
+  "Kolbuszowa": {
+    "raw_city": "Kolbuszowa",
+    "voivodeship": "Subcarpathia",
+    "population": 9329.0,
+    "longitude": 21.7754563,
+    "latitude": 50.2433277,
+    "count": 23
+  },
+  "Kolno": {
+    "raw_city": "Kolno",
+    "voivodeship": "Podlaskie",
+    "population": 10579.0,
+    "longitude": 21.9312439,
+    "latitude": 53.4109383,
+    "count": 9
+  },
+  "Koluszki": {
+    "raw_city": "Koluszki",
+    "voivodeship": "Lodzkie",
+    "population": 13419.0,
+    "longitude": 19.817966,
+    "latitude": 51.7444956,
+    "count": 19
+  },
+  "Koniecpol": {
+    "raw_city": "Koniecpol",
+    "voivodeship": "Silesia",
+    "population": 6165.0,
+    "longitude": 19.6769723,
+    "latitude": 50.7725294,
+    "count": 3
+  },
+  "Konin": {
+    "raw_city": "Konin",
+    "voivodeship": "Greater Poland",
+    "population": 77224.0,
+    "longitude": 18.2521112,
+    "latitude": 52.2301933,
+    "count": 120
+  },
+  "Konstancin-Jeziorna": {
+    "raw_city": "Konstancin-Jeziorna",
+    "voivodeship": "Masovia",
+    "population": 17566.0,
+    "longitude": 21.1208073,
+    "latitude": 52.0834787,
+    "count": 16
+  },
+  "Konstantynów Łódzki": {
+    "raw_city": "KonstantynĂłw ĹĂłdzki",
+    "voivodeship": "Lodzkie",
+    "population": 17804.0,
+    "longitude": 19.3255118,
+    "latitude": 51.7475546,
+    "count": 29
+  },
+  "Korfantów": {
+    "raw_city": "KorfantĂłw",
+    "voivodeship": "Opole",
+    "population": 1855.0,
+    "longitude": 17.5984184,
+    "latitude": 50.4879782,
+    "count": 2
+  },
+  "Koronowo": {
+    "raw_city": "Koronowo",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 11384.0,
+    "longitude": 17.9369813,
+    "latitude": 53.3140636,
+    "count": 34
+  },
+  "Korsze": {
+    "raw_city": "Korsze",
+    "voivodeship": "Warmia-Masuria",
+    "population": 4586.0,
+    "longitude": 21.1442323,
+    "latitude": 54.1707614,
+    "count": 6
+  },
+  "Kostrzyn nad Odrą": {
+    "raw_city": "Kostrzyn nad OdrÄ…",
+    "voivodeship": "Lubusz",
+    "population": 18155.0,
+    "longitude": 14.6536335,
+    "latitude": 52.5898737,
+    "count": 46
+  },
+  "Koszalin": {
+    "raw_city": "Koszalin",
+    "voivodeship": "West Pomerania",
+    "population": 109170.0,
+    "longitude": 16.17707,
+    "latitude": 54.19092,
+    "count": 370
+  },
+  "Kowal": {
+    "raw_city": "Kowal",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 3541.0,
+    "longitude": 19.1499427,
+    "latitude": 52.5308373,
+    "count": 1
+  },
+  "Kowalewo Pomerania": {
+    "raw_city": "Kowalewo Pomerania",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 4261.0,
+    "longitude": 18.8975473,
+    "latitude": 53.1543137,
+    "count": 10
+  },
+  "Kowary": {
+    "raw_city": "Kowary",
+    "voivodeship": "Lower Silesia",
+    "population": 10813.0,
+    "longitude": 15.8338236,
+    "latitude": 50.7937534,
+    "count": 6
+  },
+  "Kozienice": {
+    "raw_city": "Kozienice",
+    "voivodeship": "Masovia",
+    "population": 18277.0,
+    "longitude": 21.549883,
+    "latitude": 51.5849678,
+    "count": 65
+  },
+  "Koło": {
+    "raw_city": "KoĹ‚o",
+    "voivodeship": "Greater Poland",
+    "population": 23026.0,
+    "longitude": 18.6359912,
+    "latitude": 52.2019866,
+    "count": 98
+  },
+  "Kołobrzeg": {
+    "raw_city": "KoĹ‚obrzeg",
+    "voivodeship": "West Pomerania",
+    "population": 44980.0,
+    "longitude": 15.5764209,
+    "latitude": 54.1759614,
+    "count": 321
+  },
+  "Końskie": {
+    "raw_city": "KoĹ„skie",
+    "voivodeship": "Świętokrzyskie",
+    "population": 20281.0,
+    "longitude": 20.4071836,
+    "latitude": 51.1910223,
+    "count": 49
+  },
+  "Kościan": {
+    "raw_city": "KoĹ›cian",
+    "voivodeship": "Greater Poland",
+    "population": 24011.0,
+    "longitude": 16.6449995,
+    "latitude": 52.086325,
+    "count": 65
+  },
+  "Kościerzyna": {
+    "raw_city": "KoĹ›cierzyna",
+    "voivodeship": "Pomerania",
+    "population": 23701.0,
+    "longitude": 17.9781656,
+    "latitude": 54.1210215,
+    "count": 59
+  },
+  "Koźmin Wielkopolski": {
+    "raw_city": "KoĹşmin Wielkopolski",
+    "voivodeship": "Greater Poland",
+    "population": 6698.0,
+    "longitude": 17.4528473,
+    "latitude": 51.8256567,
+    "count": 6
+  },
+  "Kraków": {
+    "raw_city": "KrakĂłw",
+    "voivodeship": "Lesser Poland",
+    "population": 762508.0,
+    "longitude": 19.9368564,
+    "latitude": 50.0619474,
+    "count": 3446
+  },
+  "Krapkowice": {
+    "raw_city": "Krapkowice",
+    "voivodeship": "Opole",
+    "population": 16721.0,
+    "longitude": 17.9675262,
+    "latitude": 50.4747413,
+    "count": 32
+  },
+  "Krasnystaw": {
+    "raw_city": "Krasnystaw",
+    "voivodeship": "Lublin",
+    "population": 19539.0,
+    "longitude": 23.1635704,
+    "latitude": 50.9844757,
+    "count": 51
+  },
+  "Kraśnik": {
+    "raw_city": "KraĹ›nik",
+    "voivodeship": "Lublin",
+    "population": 35788.0,
+    "longitude": 22.229206,
+    "latitude": 50.9249236,
+    "count": 118
+  },
+  "Krosno": {
+    "raw_city": "Krosno",
+    "voivodeship": "Subcarpathia",
+    "population": 46600.0,
+    "longitude": 21.7651458,
+    "latitude": 49.6938045,
+    "count": 61
+  },
+  "Krosno Odrzańskie": {
+    "raw_city": "Krosno OdrzaĹ„skie",
+    "voivodeship": "Lubusz",
+    "population": 11983.0,
+    "longitude": 15.0980258,
+    "latitude": 52.0536361,
+    "count": 46
+  },
+  "Krotoszyn": {
+    "raw_city": "Krotoszyn",
+    "voivodeship": "Greater Poland",
+    "population": 29397.0,
+    "longitude": 17.4374158,
+    "latitude": 51.695926,
+    "count": 95
+  },
+  "Kruszwica": {
+    "raw_city": "Kruszwica",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 9004.0,
+    "longitude": 18.3254766,
+    "latitude": 52.6743797,
+    "count": 5
+  },
+  "Krynica-Zdrój": {
+    "raw_city": "Krynica-ZdrĂłj",
+    "voivodeship": "Lesser Poland",
+    "population": 11165.0,
+    "longitude": 20.9594176,
+    "latitude": 49.4206138,
+    "count": 16
+  },
+  "Krzeszowice": {
+    "raw_city": "Krzeszowice",
+    "voivodeship": "Lesser Poland",
+    "population": 10268.0,
+    "longitude": 19.6320164,
+    "latitude": 50.1350246,
+    "count": 9
+  },
+  "Kudowa-Zdrój": {
+    "raw_city": "Kudowa-ZdrĂłj",
+    "voivodeship": "Lower Silesia",
+    "population": 10241.0,
+    "longitude": 16.2416299,
+    "latitude": 50.4420034,
+    "count": 9
+  },
+  "Kutno": {
+    "raw_city": "Kutno",
+    "voivodeship": "Lodzkie",
+    "population": 45657.0,
+    "longitude": 19.3570182,
+    "latitude": 52.2317559,
+    "count": 164
+  },
+  "Kwidzyn": {
+    "raw_city": "Kwidzyn",
+    "voivodeship": "Pomerania",
+    "population": 38867.0,
+    "longitude": 18.9319222,
+    "latitude": 53.7335842,
+    "count": 170
+  },
+  "Kórnik": {
+    "raw_city": "KĂłrnik",
+    "voivodeship": "Greater Poland",
+    "population": 7530.0,
+    "longitude": 17.0901242,
+    "latitude": 52.2492751,
+    "count": 21
+  },
+  "Kąty Wrocławskie": {
+    "raw_city": "KÄ…ty WrocĹ‚awskie",
+    "voivodeship": "Lower Silesia",
+    "population": 6422.0,
+    "longitude": 16.7702325,
+    "latitude": 51.0302656,
+    "count": 28
+  },
+  "Kędzierzyn-Koźle": {
+    "raw_city": "KÄ™dzierzyn-KoĹşle",
+    "voivodeship": "Opole",
+    "population": 63194.0,
+    "longitude": 18.2109594,
+    "latitude": 50.3448836,
+    "count": 236
+  },
+  "Kępno": {
+    "raw_city": "KÄ™pno",
+    "voivodeship": "Greater Poland",
+    "population": 14190.0,
+    "longitude": 17.9866632,
+    "latitude": 51.2790265,
+    "count": 51
+  },
+  "Kętrzyn": {
+    "raw_city": "KÄ™trzyn",
+    "voivodeship": "Warmia-Masuria",
+    "population": 28051.0,
+    "longitude": 21.3752627,
+    "latitude": 54.0764176,
+    "count": 151
+  },
+  "Kęty": {
+    "raw_city": "KÄ™ty",
+    "voivodeship": "Lesser Poland",
+    "population": 19104.0,
+    "longitude": 19.2302036,
+    "latitude": 49.8817723,
+    "count": 45
+  },
+  "Kłobuck": {
+    "raw_city": "KĹ‚obuck",
+    "voivodeship": "Silesia",
+    "population": 13246.0,
+    "longitude": 18.9371319,
+    "latitude": 50.9024828,
+    "count": 17
+  },
+  "Kłodzko": {
+    "raw_city": "KĹ‚odzko",
+    "voivodeship": "Lower Silesia",
+    "population": 27997.0,
+    "longitude": 16.6551878,
+    "latitude": 50.438651,
+    "count": 56
+  },
+  "Legionowo": {
+    "raw_city": "Legionowo",
+    "voivodeship": "Masovia",
+    "population": 54231.0,
+    "longitude": 20.9308309,
+    "latitude": 52.3952285,
+    "count": 145
+  },
+  "Legnica": {
+    "raw_city": "Legnica",
+    "voivodeship": "Lower Silesia",
+    "population": 99752.0,
+    "longitude": 16.1603187,
+    "latitude": 51.2081617,
+    "count": 384
+  },
+  "Lesko": {
+    "raw_city": "Lesko",
+    "voivodeship": "Subcarpathia",
+    "population": 5432.0,
+    "longitude": 22.3303816,
+    "latitude": 49.4689014,
+    "count": 16
+  },
+  "Leszno": {
+    "raw_city": "Leszno",
+    "voivodeship": "Greater Poland",
+    "population": 64589.0,
+    "longitude": 16.5744141,
+    "latitude": 51.8436498,
+    "count": 156
+  },
+  "Lewin Brzeski": {
+    "raw_city": "Lewin Brzeski",
+    "voivodeship": "Opole",
+    "population": 6007.0,
+    "longitude": 17.6188526,
+    "latitude": 50.7495823,
+    "count": 26
+  },
+  "Leżajsk": {
+    "raw_city": "LeĹĽajsk",
+    "voivodeship": "Subcarpathia",
+    "population": 14363.0,
+    "longitude": 22.418892,
+    "latitude": 50.2621687,
+    "count": 9
+  },
+  "Libiąż": {
+    "raw_city": "LibiÄ…ĹĽ",
+    "voivodeship": "Lesser Poland",
+    "population": 17355.0,
+    "longitude": 19.3147486,
+    "latitude": 50.1030516,
+    "count": 33
+  },
+  "Lidzbark": {
+    "raw_city": "Lidzbark",
+    "voivodeship": "Warmia-Masuria",
+    "population": 9351.0,
+    "longitude": 19.8231836,
+    "latitude": 53.2628043,
+    "count": 20
+  },
+  "Lidzbark Warmiński": {
+    "raw_city": "Lidzbark WarmiĹ„ski",
+    "voivodeship": "Warmia-Masuria",
+    "population": 16352.0,
+    "longitude": 20.5805641,
+    "latitude": 54.1259406,
+    "count": 70
+  },
+  "Limanowa": {
+    "raw_city": "Limanowa",
+    "voivodeship": "Lesser Poland",
+    "population": 15133.0,
+    "longitude": 20.4217266,
+    "latitude": 49.7061713,
+    "count": 13
+  },
+  "Lipiany": {
+    "raw_city": "Lipiany",
+    "voivodeship": "West Pomerania",
+    "population": 4085.0,
+    "longitude": 14.9697645,
+    "latitude": 53.0035599,
+    "count": 8
+  },
+  "Lipno": {
+    "raw_city": "Lipno",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 14968.0,
+    "longitude": 19.1792654,
+    "latitude": 52.8473901,
+    "count": 10
+  },
+  "Lipsko": {
+    "raw_city": "Lipsko",
+    "voivodeship": "Masovia",
+    "population": 5816.0,
+    "longitude": 21.6490099,
+    "latitude": 51.158513,
+    "count": 11
+  },
+  "Lubaczów": {
+    "raw_city": "LubaczĂłw",
+    "voivodeship": "Subcarpathia",
+    "population": 12517.0,
+    "longitude": 23.1225859,
+    "latitude": 50.1574473,
+    "count": 6
+  },
+  "Lubartów": {
+    "raw_city": "LubartĂłw",
+    "voivodeship": "Lublin",
+    "population": 21755.0,
+    "longitude": 22.6052895,
+    "latitude": 51.4660473,
+    "count": 73
+  },
+  "Lubawa": {
+    "raw_city": "Lubawa",
+    "voivodeship": "Warmia-Masuria",
+    "population": 10093.0,
+    "longitude": 19.7494057,
+    "latitude": 53.5051482,
+    "count": 63
+  },
+  "Lubań": {
+    "raw_city": "LubaĹ„",
+    "voivodeship": "Lower Silesia",
+    "population": 21921.0,
+    "longitude": 15.2892651,
+    "latitude": 51.1180898,
+    "count": 52
+  },
+  "Lubień Kujawski": {
+    "raw_city": "LubieĹ„ Kujawski",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 1401.0,
+    "longitude": 19.16018,
+    "latitude": 52.40736,
+    "count": 3
+  },
+  "Lubin": {
+    "raw_city": "Lubin",
+    "voivodeship": "Lower Silesia",
+    "population": 74053.0,
+    "longitude": 16.2051275,
+    "latitude": 51.3974465,
+    "count": 243
+  },
+  "Lublin": {
+    "raw_city": "Lublin",
+    "voivodeship": "Lublin",
+    "population": 340466.0,
+    "longitude": 22.5701022,
+    "latitude": 51.250559,
+    "count": 1389
+  },
+  "Lubliniec": {
+    "raw_city": "Lubliniec",
+    "voivodeship": "Silesia",
+    "population": 24316.0,
+    "longitude": 18.6825574,
+    "latitude": 50.669016,
+    "count": 32
+  },
+  "Luboń": {
+    "raw_city": "LuboĹ„",
+    "voivodeship": "Greater Poland",
+    "population": 30676.0,
+    "longitude": 16.8784788,
+    "latitude": 52.3458174,
+    "count": 59
+  },
+  "Lubraniec": {
+    "raw_city": "Lubraniec",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 3068.0,
+    "longitude": 18.8315832,
+    "latitude": 52.543083,
+    "count": 1
+  },
+  "Lubsko": {
+    "raw_city": "Lubsko",
+    "voivodeship": "Lubusz",
+    "population": 14554.0,
+    "longitude": 14.9721266,
+    "latitude": 51.7881902,
+    "count": 41
+  },
+  "Lwówek Śląski": {
+    "raw_city": "LwĂłwek ĹšlÄ…ski",
+    "voivodeship": "Lower Silesia",
+    "population": 9271.0,
+    "longitude": 15.5850018,
+    "latitude": 51.1108891,
+    "count": 20
+  },
+  "Lądek-Zdrój": {
+    "raw_city": "LÄ…dek-ZdrĂłj",
+    "voivodeship": "Lower Silesia",
+    "population": 5917.0,
+    "longitude": 16.8725948,
+    "latitude": 50.3458254,
+    "count": 7
+  },
+  "Lębork": {
+    "raw_city": "LÄ™bork",
+    "voivodeship": "Pomerania",
+    "population": 33967.0,
+    "longitude": 17.7472272,
+    "latitude": 54.5391501,
+    "count": 128
+  },
+  "Lędziny": {
+    "raw_city": "LÄ™dziny",
+    "voivodeship": "Silesia",
+    "population": 16665.0,
+    "longitude": 19.1315264,
+    "latitude": 50.1379295,
+    "count": 16
+  },
+  "Maków Mazowiecki": {
+    "raw_city": "MakĂłw Mazowiecki",
+    "voivodeship": "Masovia",
+    "population": 10118.0,
+    "longitude": 21.101224,
+    "latitude": 52.865678,
+    "count": 21
+  },
+  "Malbork": {
+    "raw_city": "Malbork",
+    "voivodeship": "Pomerania",
+    "population": 39022.0,
+    "longitude": 19.0348817,
+    "latitude": 54.0359361,
+    "count": 188
+  },
+  "Marki": {
+    "raw_city": "Marki",
+    "voivodeship": "Masovia",
+    "population": 29032.0,
+    "longitude": 21.1054691,
+    "latitude": 52.3254611,
+    "count": 228
+  },
+  "Maszewo": {
+    "raw_city": "Maszewo",
+    "voivodeship": "West Pomerania",
+    "population": 3337.0,
+    "longitude": 15.0613549,
+    "latitude": 53.496222,
+    "count": 4
+  },
+  "Małogoszcz": {
+    "raw_city": "MaĹ‚ogoszcz",
+    "voivodeship": "Świętokrzyskie",
+    "population": 3929.0,
+    "longitude": 20.2648324,
+    "latitude": 50.8123487,
+    "count": 2
+  },
+  "Małomice": {
+    "raw_city": "MaĹ‚omice",
+    "voivodeship": "Lubusz",
+    "population": 3573.0,
+    "longitude": 15.4472908,
+    "latitude": 51.5550002,
+    "count": 5
+  },
+  "Miasteczko Silesia": {
+    "raw_city": "Miasteczko Silesia",
+    "voivodeship": "Silesia",
+    "population": 7379.0,
+    "longitude": 18.9230247,
+    "latitude": 50.4915736,
+    "count": 4
+  },
+  "Miastko": {
+    "raw_city": "Miastko",
+    "voivodeship": "Pomerania",
+    "population": 10926.0,
+    "longitude": 16.9774717,
+    "latitude": 54.0001478,
+    "count": 18
+  },
+  "Miechów": {
+    "raw_city": "MiechĂłw",
+    "voivodeship": "Lesser Poland",
+    "population": 11832.0,
+    "longitude": 20.0276912,
+    "latitude": 50.3566016,
+    "count": 47
+  },
+  "Mielec": {
+    "raw_city": "Mielec",
+    "voivodeship": "Subcarpathia",
+    "population": 61096.0,
+    "longitude": 21.4243685,
+    "latitude": 50.2892506,
+    "count": 218
+  },
+  "Mikołów": {
+    "raw_city": "MikoĹ‚Ăłw",
+    "voivodeship": "Silesia",
+    "population": 39776.0,
+    "longitude": 18.9044238,
+    "latitude": 50.1691812,
+    "count": 74
+  },
+  "Milanówek": {
+    "raw_city": "MilanĂłwek",
+    "voivodeship": "Masovia",
+    "population": 16410.0,
+    "longitude": 20.6641191,
+    "latitude": 52.1266493,
+    "count": 14
+  },
+  "Milicz": {
+    "raw_city": "Milicz",
+    "voivodeship": "Lower Silesia",
+    "population": 11758.0,
+    "longitude": 17.2752485,
+    "latitude": 51.5319957,
+    "count": 95
+  },
+  "Mirosławiec": {
+    "raw_city": "MirosĹ‚awiec",
+    "voivodeship": "West Pomerania",
+    "population": 3051.0,
+    "longitude": 16.09094,
+    "latitude": 53.34171,
+    "count": 9
+  },
+  "Mirsk": {
+    "raw_city": "Mirsk",
+    "voivodeship": "Lower Silesia",
+    "population": 3981.0,
+    "longitude": 15.3857926,
+    "latitude": 50.9721836,
+    "count": 2
+  },
+  "Międzychód": {
+    "raw_city": "MiÄ™dzychĂłd",
+    "voivodeship": "Greater Poland",
+    "population": 10805.0,
+    "longitude": 15.8935386,
+    "latitude": 52.6046468,
+    "count": 27
+  },
+  "Międzyrzec Podlaski": {
+    "raw_city": "MiÄ™dzyrzec Podlaski",
+    "voivodeship": "Lublin",
+    "population": 17117.0,
+    "longitude": 22.7842492,
+    "latitude": 51.9853172,
+    "count": 52
+  },
+  "Międzyrzecz": {
+    "raw_city": "MiÄ™dzyrzecz",
+    "voivodeship": "Lubusz",
+    "population": 18552.0,
+    "longitude": 15.578637,
+    "latitude": 52.4448261,
+    "count": 62
+  },
+  "Międzyzdroje": {
+    "raw_city": "MiÄ™dzyzdroje",
+    "voivodeship": "West Pomerania",
+    "population": 5485.0,
+    "longitude": 14.448903,
+    "latitude": 53.9282745,
+    "count": 32
+  },
+  "Miłomłyn": {
+    "raw_city": "MiĹ‚omĹ‚yn",
+    "voivodeship": "Warmia-Masuria",
+    "population": 2431.0,
+    "longitude": 19.8413501,
+    "latitude": 53.7634,
+    "count": 7
+  },
+  "Mińsk Mazowiecki": {
+    "raw_city": "MiĹ„sk Mazowiecki",
+    "voivodeship": "Masovia",
+    "population": 39880.0,
+    "longitude": 21.5585859,
+    "latitude": 52.1811496,
+    "count": 164
+  },
+  "Mogilno": {
+    "raw_city": "Mogilno",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 12369.0,
+    "longitude": 17.9500677,
+    "latitude": 52.657341,
+    "count": 16
+  },
+  "Morąg": {
+    "raw_city": "MorÄ…g",
+    "voivodeship": "Warmia-Masuria",
+    "population": 15458.0,
+    "longitude": 19.9279895,
+    "latitude": 53.9119982,
+    "count": 45
+  },
+  "Mosina": {
+    "raw_city": "Mosina",
+    "voivodeship": "Greater Poland",
+    "population": 12252.0,
+    "longitude": 16.8472591,
+    "latitude": 52.2455834,
+    "count": 9
+  },
+  "Mońki": {
+    "raw_city": "MoĹ„ki",
+    "voivodeship": "Podlaskie",
+    "population": 10352.0,
+    "longitude": 22.7983772,
+    "latitude": 53.4065738,
+    "count": 15
+  },
+  "Mrocza": {
+    "raw_city": "Mrocza",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 4393.0,
+    "longitude": 17.6072363,
+    "latitude": 53.2438463,
+    "count": 3
+  },
+  "Mrągowo": {
+    "raw_city": "MrÄ…gowo",
+    "voivodeship": "Warmia-Masuria",
+    "population": 22190.0,
+    "longitude": 21.3045796,
+    "latitude": 53.8660707,
+    "count": 86
+  },
+  "Mszana Dolna": {
+    "raw_city": "Mszana Dolna",
+    "voivodeship": "Lesser Poland",
+    "population": 7941.0,
+    "longitude": 20.0820073,
+    "latitude": 49.6779756,
+    "count": 3
+  },
+  "Mszczonów": {
+    "raw_city": "MszczonĂłw",
+    "voivodeship": "Masovia",
+    "population": 6460.0,
+    "longitude": 20.5126683,
+    "latitude": 51.9740309,
+    "count": 14
+  },
+  "Murowana Goślina": {
+    "raw_city": "Murowana GoĹ›lina",
+    "voivodeship": "Greater Poland",
+    "population": 10386.0,
+    "longitude": 17.0097914,
+    "latitude": 52.5758465,
+    "count": 15
+  },
+  "Myszków": {
+    "raw_city": "MyszkĂłw",
+    "voivodeship": "Silesia",
+    "population": 32619.0,
+    "longitude": 19.3219413,
+    "latitude": 50.5736481,
+    "count": 63
+  },
+  "Mysłowice": {
+    "raw_city": "MysĹ‚owice",
+    "voivodeship": "Silesia",
+    "population": 75037.0,
+    "longitude": 19.1414528,
+    "latitude": 50.2414715,
+    "count": 148
+  },
+  "Myślenice": {
+    "raw_city": "MyĹ›lenice",
+    "voivodeship": "Lesser Poland",
+    "population": 18365.0,
+    "longitude": 19.9384283,
+    "latitude": 49.834608,
+    "count": 18
+  },
+  "Myślibórz": {
+    "raw_city": "MyĹ›libĂłrz",
+    "voivodeship": "West Pomerania",
+    "population": 11614.0,
+    "longitude": 14.8664799,
+    "latitude": 52.924825,
+    "count": 25
+  },
+  "Mława": {
+    "raw_city": "MĹ‚awa",
+    "voivodeship": "Masovia",
+    "population": 30880.0,
+    "longitude": 20.3831732,
+    "latitude": 53.1116182,
+    "count": 201
+  },
+  "Nakło nad Notecią": {
+    "raw_city": "NakĹ‚o nad NoteciÄ…",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 19193.0,
+    "longitude": 17.5998891,
+    "latitude": 53.1386896,
+    "count": 64
+  },
+  "Namysłów": {
+    "raw_city": "NamysĹ‚Ăłw",
+    "voivodeship": "Opole",
+    "population": 16123.0,
+    "longitude": 17.7185619,
+    "latitude": 51.0766258,
+    "count": 92
+  },
+  "Nasielsk": {
+    "raw_city": "Nasielsk",
+    "voivodeship": "Masovia",
+    "population": 7222.0,
+    "longitude": 20.8130115,
+    "latitude": 52.5867531,
+    "count": 6
+  },
+  "Nałęczów": {
+    "raw_city": "NaĹ‚Ä™czĂłw",
+    "voivodeship": "Lublin",
+    "population": 4033.0,
+    "longitude": 22.214792,
+    "latitude": 51.2876064,
+    "count": 4
+  },
+  "Nidzica": {
+    "raw_city": "Nidzica",
+    "voivodeship": "Warmia-Masuria",
+    "population": 14300.0,
+    "longitude": 20.4275719,
+    "latitude": 53.3613838,
+    "count": 25
+  },
+  "Niemodlin": {
+    "raw_city": "Niemodlin",
+    "voivodeship": "Opole",
+    "population": 6623.0,
+    "longitude": 17.6211388,
+    "latitude": 50.6415925,
+    "count": 10
+  },
+  "Niepołomice": {
+    "raw_city": "NiepoĹ‚omice",
+    "voivodeship": "Lesser Poland",
+    "population": 13276.0,
+    "longitude": 20.2168012,
+    "latitude": 50.033182,
+    "count": 44
+  },
+  "Nowa Dęba": {
+    "raw_city": "Nowa DÄ™ba",
+    "voivodeship": "Subcarpathia",
+    "population": 11507.0,
+    "longitude": 21.749056,
+    "latitude": 50.4132684,
+    "count": 27
+  },
+  "Nowa Ruda": {
+    "raw_city": "Nowa Ruda",
+    "voivodeship": "Lower Silesia",
+    "population": 23236.0,
+    "longitude": 16.5014757,
+    "latitude": 50.5791982,
+    "count": 55
+  },
+  "Nowa Sarzyna": {
+    "raw_city": "Nowa Sarzyna",
+    "voivodeship": "Subcarpathia",
+    "population": 6177.0,
+    "longitude": 22.3433771,
+    "latitude": 50.3198578,
+    "count": 28
+  },
+  "Nowa Sól": {
+    "raw_city": "Nowa SĂłl",
+    "voivodeship": "Lubusz",
+    "population": 39721.0,
+    "longitude": 15.7175608,
+    "latitude": 51.8019595,
+    "count": 149
+  },
+  "Nowe": {
+    "raw_city": "Nowe",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 6022.0,
+    "longitude": 18.7290468,
+    "latitude": 53.6462325,
+    "count": 5
+  },
+  "Nowe Miasteczko": {
+    "raw_city": "Nowe Miasteczko",
+    "voivodeship": "Lubusz",
+    "population": 2884.0,
+    "longitude": 15.7311977,
+    "latitude": 51.6908103,
+    "count": 6
+  },
+  "Nowe Miasto Lubawskie": {
+    "raw_city": "Nowe Miasto Lubawskie",
+    "voivodeship": "Warmia-Masuria",
+    "population": 11241.0,
+    "longitude": 19.5936277,
+    "latitude": 53.4255933,
+    "count": 22
+  },
+  "Nowogard": {
+    "raw_city": "Nowogard",
+    "voivodeship": "West Pomerania",
+    "population": 16937.0,
+    "longitude": 15.1225889,
+    "latitude": 53.6687698,
+    "count": 69
+  },
+  "Nowogród Bobrzański": {
+    "raw_city": "NowogrĂłd BobrzaĹ„ski",
+    "voivodeship": "Lubusz",
+    "population": 5161.0,
+    "longitude": 15.2365032,
+    "latitude": 51.7986474,
+    "count": 8
+  },
+  "Nowy Dwór Gdański": {
+    "raw_city": "Nowy DwĂłr GdaĹ„ski",
+    "voivodeship": "Pomerania",
+    "population": 10083.0,
+    "longitude": 19.1150846,
+    "latitude": 54.2146299,
+    "count": 23
+  },
+  "Nowy Dwór Mazowiecki": {
+    "raw_city": "Nowy DwĂłr Mazowiecki",
+    "voivodeship": "Masovia",
+    "population": 28287.0,
+    "longitude": 20.7154712,
+    "latitude": 52.4306508,
+    "count": 132
+  },
+  "Nowy Sącz": {
+    "raw_city": "Nowy SÄ…cz",
+    "voivodeship": "Lesser Poland",
+    "population": 83943.0,
+    "longitude": 20.691346,
+    "latitude": 49.6249173,
+    "count": 187
+  },
+  "Nowy Targ": {
+    "raw_city": "Nowy Targ",
+    "voivodeship": "Lesser Poland",
+    "population": 33672.0,
+    "longitude": 20.030541,
+    "latitude": 49.4818229,
+    "count": 36
+  },
+  "Nowy Tomyśl": {
+    "raw_city": "Nowy TomyĹ›l",
+    "voivodeship": "Greater Poland",
+    "population": 14899.0,
+    "longitude": 16.1291553,
+    "latitude": 52.3177643,
+    "count": 20
+  },
+  "Nysa": {
+    "raw_city": "Nysa",
+    "voivodeship": "Opole",
+    "population": 44899.0,
+    "longitude": 17.3324733,
+    "latitude": 50.4738029,
+    "count": 307
+  },
+  "Oborniki": {
+    "raw_city": "Oborniki",
+    "voivodeship": "Greater Poland",
+    "population": 18421.0,
+    "longitude": 16.8099756,
+    "latitude": 52.6455252,
+    "count": 30
+  },
+  "Oborniki Silesia": {
+    "raw_city": "Oborniki Silesia",
+    "voivodeship": "Lower Silesia",
+    "population": 9038.0,
+    "longitude": 16.9145509,
+    "latitude": 51.3010662,
+    "count": 12
+  },
+  "Olecko": {
+    "raw_city": "Olecko",
+    "voivodeship": "Warmia-Masuria",
+    "population": 16533.0,
+    "longitude": 22.4934246,
+    "latitude": 54.0398024,
+    "count": 62
+  },
+  "Olesno": {
+    "raw_city": "Olesno",
+    "voivodeship": "Opole",
+    "population": 9597.0,
+    "longitude": 18.4219452,
+    "latitude": 50.8766575,
+    "count": 4
+  },
+  "Oleśnica": {
+    "raw_city": "OleĹ›nica",
+    "voivodeship": "Lower Silesia",
+    "population": 37303.0,
+    "longitude": 17.3804559,
+    "latitude": 51.2095314,
+    "count": 123
+  },
+  "Olkusz": {
+    "raw_city": "Olkusz",
+    "voivodeship": "Lesser Poland",
+    "population": 36724.0,
+    "longitude": 19.5596307,
+    "latitude": 50.2788158,
+    "count": 62
+  },
+  "Olsztyn": {
+    "raw_city": "Olsztyn",
+    "voivodeship": "Warmia-Masuria",
+    "population": 174675.0,
+    "longitude": 20.476507,
+    "latitude": 53.7766839,
+    "count": 769
+  },
+  "Olsztynek": {
+    "raw_city": "Olsztynek",
+    "voivodeship": "Warmia-Masuria",
+    "population": 7721.0,
+    "longitude": 20.2816198,
+    "latitude": 53.5834201,
+    "count": 19
+  },
+  "Opatów": {
+    "raw_city": "OpatĂłw",
+    "voivodeship": "Świętokrzyskie",
+    "population": 6767.0,
+    "longitude": 21.4238281,
+    "latitude": 50.8017661,
+    "count": 6
+  },
+  "Opoczno": {
+    "raw_city": "Opoczno",
+    "voivodeship": "Lodzkie",
+    "population": 22188.0,
+    "longitude": 20.2931754,
+    "latitude": 51.3782439,
+    "count": 47
+  },
+  "Opole": {
+    "raw_city": "Opole",
+    "voivodeship": "Opole",
+    "population": 120146.0,
+    "longitude": 17.9236408,
+    "latitude": 50.6668184,
+    "count": 266
+  },
+  "Opole Lublin": {
+    "raw_city": "Opole Lublin",
+    "voivodeship": "Lublin",
+    "population": 8860.0,
+    "longitude": 21.9664152,
+    "latitude": 51.1475365,
+    "count": 8
+  },
+  "Orneta": {
+    "raw_city": "Orneta",
+    "voivodeship": "Warmia-Masuria",
+    "population": 9837.0,
+    "longitude": 20.1303378,
+    "latitude": 54.1155533,
+    "count": 16
+  },
+  "Orzesze": {
+    "raw_city": "Orzesze",
+    "voivodeship": "Silesia",
+    "population": 20451.0,
+    "longitude": 18.77462,
+    "latitude": 50.1439,
+    "count": 4
+  },
+  "Orzysz": {
+    "raw_city": "Orzysz",
+    "voivodeship": "Warmia-Masuria",
+    "population": 5797.0,
+    "longitude": 21.9473601,
+    "latitude": 53.809833,
+    "count": 24
+  },
+  "Osiek": {
+    "raw_city": "Osiek",
+    "voivodeship": "Lesser Poland",
+    "population": 1993.0,
+    "longitude": 21.4425619,
+    "latitude": 50.5194515,
+    "count": 3
+  },
+  "Ostrowiec Świętokrzyski": {
+    "raw_city": "Ostrowiec ĹšwiÄ™tokrzyski",
+    "voivodeship": "Świętokrzyskie",
+    "population": 72277.0,
+    "longitude": 21.38743,
+    "latitude": 50.9398768,
+    "count": 209
+  },
+  "Ostrołęka": {
+    "raw_city": "OstroĹ‚Ä™ka",
+    "voivodeship": "Masovia",
+    "population": 52917.0,
+    "longitude": 21.5668607,
+    "latitude": 53.0843135,
+    "count": 80
+  },
+  "Ostrzeszów": {
+    "raw_city": "OstrzeszĂłw",
+    "voivodeship": "Greater Poland",
+    "population": 14515.0,
+    "longitude": 17.9331788,
+    "latitude": 51.4257664,
+    "count": 7
+  },
+  "Ostróda": {
+    "raw_city": "OstrĂłda",
+    "voivodeship": "Warmia-Masuria",
+    "population": 33963.0,
+    "longitude": 19.9623028,
+    "latitude": 53.7028533,
+    "count": 102
+  },
+  "Ostrów Mazowiecka": {
+    "raw_city": "OstrĂłw Mazowiecka",
+    "voivodeship": "Masovia",
+    "population": 22796.0,
+    "longitude": 21.897638,
+    "latitude": 52.8000429,
+    "count": 31
+  },
+  "Ostrów Wielkopolski": {
+    "raw_city": "OstrĂłw Wielkopolski",
+    "voivodeship": "Greater Poland",
+    "population": 72050.0,
+    "longitude": 17.8167085,
+    "latitude": 51.6495023,
+    "count": 144
+  },
+  "Otmuchów": {
+    "raw_city": "OtmuchĂłw",
+    "voivodeship": "Opole",
+    "population": 5068.0,
+    "longitude": 17.1730499,
+    "latitude": 50.465351,
+    "count": 5
+  },
+  "Otwock": {
+    "raw_city": "Otwock",
+    "voivodeship": "Masovia",
+    "population": 45044.0,
+    "longitude": 21.2681092,
+    "latitude": 52.1041197,
+    "count": 81
+  },
+  "Ozimek": {
+    "raw_city": "Ozimek",
+    "voivodeship": "Opole",
+    "population": 8959.0,
+    "longitude": 18.2125227,
+    "latitude": 50.6789196,
+    "count": 29
+  },
+  "Ozorków": {
+    "raw_city": "OzorkĂłw",
+    "voivodeship": "Lodzkie",
+    "population": 20175.0,
+    "longitude": 19.2918111,
+    "latitude": 51.9636101,
+    "count": 47
+  },
+  "Oława": {
+    "raw_city": "OĹ‚awa",
+    "voivodeship": "Lower Silesia",
+    "population": 32240.0,
+    "longitude": 17.2957066,
+    "latitude": 50.9431901,
+    "count": 155
+  },
+  "Ośno Lubusz": {
+    "raw_city": "OĹ›no Lubusz",
+    "voivodeship": "Lubusz",
+    "population": 3889.0,
+    "longitude": 14.8682003,
+    "latitude": 52.455132,
+    "count": 2
+  },
+  "Oświęcim": {
+    "raw_city": "OĹ›wiÄ™cim",
+    "voivodeship": "Lesser Poland",
+    "population": 39664.0,
+    "longitude": 19.2214053,
+    "latitude": 50.0382443,
+    "count": 110
+  },
+  "Ożarów": {
+    "raw_city": "OĹĽarĂłw",
+    "voivodeship": "Świętokrzyskie",
+    "population": 4730.0,
+    "longitude": 21.6656244,
+    "latitude": 50.8864089,
+    "count": 9
+  },
+  "Ożarów Mazowiecki": {
+    "raw_city": "OĹĽarĂłw Mazowiecki",
+    "voivodeship": "Masovia",
+    "population": 10735.0,
+    "longitude": 20.7941606,
+    "latitude": 52.2080548,
+    "count": 40
+  },
+  "Pabianice": {
+    "raw_city": "Pabianice",
+    "voivodeship": "Lodzkie",
+    "population": 67688.0,
+    "longitude": 19.3535024,
+    "latitude": 51.6639859,
+    "count": 283
+  },
+  "Paczków": {
+    "raw_city": "PaczkĂłw",
+    "voivodeship": "Opole",
+    "population": 7464.0,
+    "longitude": 17.0057683,
+    "latitude": 50.4636773,
+    "count": 6
+  },
+  "Pajęczno": {
+    "raw_city": "PajÄ™czno",
+    "voivodeship": "Lodzkie",
+    "population": 6700.0,
+    "longitude": 18.9956984,
+    "latitude": 51.1468824,
+    "count": 6
+  },
+  "Parczew": {
+    "raw_city": "Parczew",
+    "voivodeship": "Lublin",
+    "population": 10204.0,
+    "longitude": 22.9,
+    "latitude": 51.639,
+    "count": 45
+  },
+  "Pasym": {
+    "raw_city": "Pasym",
+    "voivodeship": "Warmia-Masuria",
+    "population": 2536.0,
+    "longitude": 20.7917422,
+    "latitude": 53.6521615,
+    "count": 4
+  },
+  "Pasłęk": {
+    "raw_city": "PasĹ‚Ä™k",
+    "voivodeship": "Warmia-Masuria",
+    "population": 12453.0,
+    "longitude": 19.6565365,
+    "latitude": 54.0626346,
+    "count": 18
+  },
+  "Pelplin": {
+    "raw_city": "Pelplin",
+    "voivodeship": "Pomerania",
+    "population": 8254.0,
+    "longitude": 18.6985388,
+    "latitude": 53.9278352,
+    "count": 8
+  },
+  "Piaseczno": {
+    "raw_city": "Piaseczno",
+    "voivodeship": "Masovia",
+    "population": 44880.0,
+    "longitude": 21.0270885,
+    "latitude": 52.0747377,
+    "count": 156
+  },
+  "Piastów": {
+    "raw_city": "PiastĂłw",
+    "voivodeship": "Masovia",
+    "population": 22907.0,
+    "longitude": 20.8415937,
+    "latitude": 52.1812559,
+    "count": 56
+  },
+  "Piekary Silesia": {
+    "raw_city": "Piekary Silesia",
+    "voivodeship": "Silesia",
+    "population": 57148.0,
+    "longitude": 18.9456429,
+    "latitude": 50.3840312,
+    "count": 102
+  },
+  "Pieniężno": {
+    "raw_city": "PieniÄ™ĹĽno",
+    "voivodeship": "Warmia-Masuria",
+    "population": 2949.0,
+    "longitude": 20.1258163,
+    "latitude": 54.2385662,
+    "count": 6
+  },
+  "Pieszyce": {
+    "raw_city": "Pieszyce",
+    "voivodeship": "Lower Silesia",
+    "population": 7254.0,
+    "longitude": 16.581609,
+    "latitude": 50.7124412,
+    "count": 14
+  },
+  "Pionki": {
+    "raw_city": "Pionki",
+    "voivodeship": "Masovia",
+    "population": 19382.0,
+    "longitude": 21.4438404,
+    "latitude": 51.4730031,
+    "count": 95
+  },
+  "Piotrków Trybunalski": {
+    "raw_city": "PiotrkĂłw Trybunalski",
+    "voivodeship": "Lodzkie",
+    "population": 75903.0,
+    "longitude": 19.696167,
+    "latitude": 51.4082625,
+    "count": 346
+  },
+  "Pisz": {
+    "raw_city": "Pisz",
+    "voivodeship": "Warmia-Masuria",
+    "population": 19530.0,
+    "longitude": 21.8098191,
+    "latitude": 53.6294943,
+    "count": 36
+  },
+  "Piła": {
+    "raw_city": "PiĹ‚a",
+    "voivodeship": "Greater Poland",
+    "population": 74609.0,
+    "longitude": 16.7380343,
+    "latitude": 53.1511324,
+    "count": 497
+  },
+  "Pińczów": {
+    "raw_city": "PiĹ„czĂłw",
+    "voivodeship": "Świętokrzyskie",
+    "population": 11306.0,
+    "longitude": 20.5256241,
+    "latitude": 50.5201929,
+    "count": 15
+  },
+  "Pleszew": {
+    "raw_city": "Pleszew",
+    "voivodeship": "Greater Poland",
+    "population": 17717.0,
+    "longitude": 17.7865673,
+    "latitude": 51.8960985,
+    "count": 90
+  },
+  "Pobiedziska": {
+    "raw_city": "Pobiedziska",
+    "voivodeship": "Greater Poland",
+    "population": 9043.0,
+    "longitude": 17.2870352,
+    "latitude": 52.4773387,
+    "count": 8
+  },
+  "Poddębice": {
+    "raw_city": "PoddÄ™bice",
+    "voivodeship": "Lodzkie",
+    "population": 7780.0,
+    "longitude": 18.9517348,
+    "latitude": 51.8931973,
+    "count": 8
+  },
+  "Polanica-Zdrój": {
+    "raw_city": "Polanica-ZdrĂłj",
+    "voivodeship": "Lower Silesia",
+    "population": 6663.0,
+    "longitude": 16.5107431,
+    "latitude": 50.4079276,
+    "count": 10
+  },
+  "Police": {
+    "raw_city": "Police",
+    "voivodeship": "West Pomerania",
+    "population": 34120.0,
+    "longitude": 14.5657399,
+    "latitude": 53.5486435,
+    "count": 99
+  },
+  "Polkowice": {
+    "raw_city": "Polkowice",
+    "voivodeship": "Lower Silesia",
+    "population": 22525.0,
+    "longitude": 16.0713371,
+    "latitude": 51.5039288,
+    "count": 119
+  },
+  "Poniatowa": {
+    "raw_city": "Poniatowa",
+    "voivodeship": "Lublin",
+    "population": 9646.0,
+    "longitude": 22.06505,
+    "latitude": 51.19298,
+    "count": 47
+  },
+  "Poniec": {
+    "raw_city": "Poniec",
+    "voivodeship": "Greater Poland",
+    "population": 2910.0,
+    "longitude": 16.8059899,
+    "latitude": 51.7650386,
+    "count": 4
+  },
+  "Poręba": {
+    "raw_city": "PorÄ™ba",
+    "voivodeship": "Silesia",
+    "population": 8747.0,
+    "longitude": 19.337879,
+    "latitude": 50.4875787,
+    "count": 12
+  },
+  "Poznań": {
+    "raw_city": "PoznaĹ„",
+    "voivodeship": "Greater Poland",
+    "population": 548028.0,
+    "longitude": 16.9335199,
+    "latitude": 52.4082663,
+    "count": 1161
+  },
+  "Połaniec": {
+    "raw_city": "PoĹ‚aniec",
+    "voivodeship": "Świętokrzyskie",
+    "population": 8347.0,
+    "longitude": 21.2810473,
+    "latitude": 50.4329071,
+    "count": 61
+  },
+  "Połczyn-Zdrój": {
+    "raw_city": "PoĹ‚czyn-ZdrĂłj",
+    "voivodeship": "West Pomerania",
+    "population": 8444.0,
+    "longitude": 16.0952705,
+    "latitude": 53.7648981,
+    "count": 40
+  },
+  "Praszka": {
+    "raw_city": "Praszka",
+    "voivodeship": "Opole",
+    "population": 7944.0,
+    "longitude": 18.4485221,
+    "latitude": 51.05536,
+    "count": 7
+  },
+  "Prochowice": {
+    "raw_city": "Prochowice",
+    "voivodeship": "Lower Silesia",
+    "population": 3649.0,
+    "longitude": 16.3644321,
+    "latitude": 51.273422,
+    "count": 7
+  },
+  "Proszowice": {
+    "raw_city": "Proszowice",
+    "voivodeship": "Lesser Poland",
+    "population": 6184.0,
+    "longitude": 20.2917555,
+    "latitude": 50.1926479,
+    "count": 22
+  },
+  "Prudnik": {
+    "raw_city": "Prudnik",
+    "voivodeship": "Opole",
+    "population": 21778.0,
+    "longitude": 17.5801041,
+    "latitude": 50.3217212,
+    "count": 75
+  },
+  "Pruszcz Gdański": {
+    "raw_city": "Pruszcz GdaĹ„ski",
+    "voivodeship": "Pomerania",
+    "population": 28858.0,
+    "longitude": 18.6461908,
+    "latitude": 54.2608539,
+    "count": 86
+  },
+  "Pruszków": {
+    "raw_city": "PruszkĂłw",
+    "voivodeship": "Masovia",
+    "population": 59570.0,
+    "longitude": 20.8080199,
+    "latitude": 52.1626141,
+    "count": 191
+  },
+  "Przasnysz": {
+    "raw_city": "Przasnysz",
+    "voivodeship": "Masovia",
+    "population": 17326.0,
+    "longitude": 20.8804028,
+    "latitude": 53.0190219,
+    "count": 46
+  },
+  "Przedbórz": {
+    "raw_city": "PrzedbĂłrz",
+    "voivodeship": "Lodzkie",
+    "population": 3800.0,
+    "longitude": 19.8744414,
+    "latitude": 51.0868077,
+    "count": 2
+  },
+  "Przemyśl": {
+    "raw_city": "PrzemyĹ›l",
+    "voivodeship": "Subcarpathia",
+    "population": 62720.0,
+    "longitude": 22.7692634,
+    "latitude": 49.7821562,
+    "count": 95
+  },
+  "Przeworsk": {
+    "raw_city": "Przeworsk",
+    "voivodeship": "Subcarpathia",
+    "population": 15779.0,
+    "longitude": 22.4923769,
+    "latitude": 50.0601735,
+    "count": 35
+  },
+  "Przysucha": {
+    "raw_city": "Przysucha",
+    "voivodeship": "Masovia",
+    "population": 6008.0,
+    "longitude": 20.6285468,
+    "latitude": 51.3585043,
+    "count": 7
+  },
+  "Pszczyna": {
+    "raw_city": "Pszczyna",
+    "voivodeship": "Silesia",
+    "population": 25990.0,
+    "longitude": 18.9425124,
+    "latitude": 49.9778328,
+    "count": 40
+  },
+  "Pszów": {
+    "raw_city": "PszĂłw",
+    "voivodeship": "Silesia",
+    "population": 14252.0,
+    "longitude": 18.3949412,
+    "latitude": 50.0395806,
+    "count": 16
+  },
+  "Puck": {
+    "raw_city": "Puck",
+    "voivodeship": "Pomerania",
+    "population": 11396.0,
+    "longitude": 18.411338,
+    "latitude": 54.7203995,
+    "count": 20
+  },
+  "Puławy": {
+    "raw_city": "PuĹ‚awy",
+    "voivodeship": "Lublin",
+    "population": 49100.0,
+    "longitude": 21.9720582,
+    "latitude": 51.4171713,
+    "count": 236
+  },
+  "Pułtusk": {
+    "raw_city": "PuĹ‚tusk",
+    "voivodeship": "Masovia",
+    "population": 19240.0,
+    "longitude": 21.0840274,
+    "latitude": 52.7051109,
+    "count": 28
+  },
+  "Pyrzyce": {
+    "raw_city": "Pyrzyce",
+    "voivodeship": "West Pomerania",
+    "population": 12816.0,
+    "longitude": 14.89267,
+    "latitude": 53.1457,
+    "count": 46
+  },
+  "Pyskowice": {
+    "raw_city": "Pyskowice",
+    "voivodeship": "Silesia",
+    "population": 18642.0,
+    "longitude": 18.6277201,
+    "latitude": 50.3980823,
+    "count": 36
+  },
+  "Pyzdry": {
+    "raw_city": "Pyzdry",
+    "voivodeship": "Greater Poland",
+    "population": 3234.0,
+    "longitude": 17.687134,
+    "latitude": 52.1694332,
+    "count": 1
+  },
+  "Płock": {
+    "raw_city": "PĹ‚ock",
+    "voivodeship": "Masovia",
+    "population": 122815.0,
+    "longitude": 19.7008606,
+    "latitude": 52.5464521,
+    "count": 412
+  },
+  "Płoty": {
+    "raw_city": "PĹ‚oty",
+    "voivodeship": "West Pomerania",
+    "population": 4092.0,
+    "longitude": 15.2663988,
+    "latitude": 53.8030947,
+    "count": 7
+  },
+  "Płońsk": {
+    "raw_city": "PĹ‚oĹ„sk",
+    "voivodeship": "Masovia",
+    "population": 22494.0,
+    "longitude": 20.3705091,
+    "latitude": 52.6226617,
+    "count": 98
+  },
+  "Rabka-Zdrój": {
+    "raw_city": "Rabka-ZdrĂłj",
+    "voivodeship": "Lesser Poland",
+    "population": 13154.0,
+    "longitude": 19.9622575,
+    "latitude": 49.6076663,
+    "count": 5
+  },
+  "Racibórz": {
+    "raw_city": "RacibĂłrz",
+    "voivodeship": "Silesia",
+    "population": 55930.0,
+    "longitude": 18.2196766,
+    "latitude": 50.0917343,
+    "count": 70
+  },
+  "Radlin": {
+    "raw_city": "Radlin",
+    "voivodeship": "Silesia",
+    "population": 17984.0,
+    "longitude": 18.4791456,
+    "latitude": 50.0486957,
+    "count": 20
+  },
+  "Radom": {
+    "raw_city": "Radom",
+    "voivodeship": "Masovia",
+    "population": 218466.0,
+    "longitude": 21.1541546,
+    "latitude": 51.4022557,
+    "count": 633
+  },
+  "Radomsko": {
+    "raw_city": "Radomsko",
+    "voivodeship": "Lodzkie",
+    "population": 47643.0,
+    "longitude": 19.4446109,
+    "latitude": 51.0674769,
+    "count": 136
+  },
+  "Radymno": {
+    "raw_city": "Radymno",
+    "voivodeship": "Subcarpathia",
+    "population": 5354.0,
+    "longitude": 22.8183129,
+    "latitude": 49.9517176,
+    "count": 9
+  },
+  "Radzionków": {
+    "raw_city": "RadzionkĂłw",
+    "voivodeship": "Silesia",
+    "population": 17025.0,
+    "longitude": 18.9026247,
+    "latitude": 50.4002717,
+    "count": 25
+  },
+  "Radzymin": {
+    "raw_city": "Radzymin",
+    "voivodeship": "Masovia",
+    "population": 11378.0,
+    "longitude": 21.1807836,
+    "latitude": 52.4176347,
+    "count": 40
+  },
+  "Radzyń Podlaski": {
+    "raw_city": "RadzyĹ„ Podlaski",
+    "voivodeship": "Lublin",
+    "population": 15963.0,
+    "longitude": 22.6208818,
+    "latitude": 51.7827253,
+    "count": 46
+  },
+  "Rawa Mazowiecka": {
+    "raw_city": "Rawa Mazowiecka",
+    "voivodeship": "Lodzkie",
+    "population": 17819.0,
+    "longitude": 20.2519293,
+    "latitude": 51.7624929,
+    "count": 79
+  },
+  "Rawicz": {
+    "raw_city": "Rawicz",
+    "voivodeship": "Greater Poland",
+    "population": 20846.0,
+    "longitude": 16.8583657,
+    "latitude": 51.6101629,
+    "count": 79
+  },
+  "Reda": {
+    "raw_city": "Reda",
+    "voivodeship": "Pomerania",
+    "population": 23135.0,
+    "longitude": 18.3505191,
+    "latitude": 54.6043272,
+    "count": 47
+  },
+  "Rejowiec Fabryczny": {
+    "raw_city": "Rejowiec Fabryczny",
+    "voivodeship": "Lublin",
+    "population": 4515.0,
+    "longitude": 23.2467333,
+    "latitude": 51.1191844,
+    "count": 5
+  },
+  "Resko": {
+    "raw_city": "Resko",
+    "voivodeship": "West Pomerania",
+    "population": 4356.0,
+    "longitude": 15.4056058,
+    "latitude": 53.7733969,
+    "count": 1
+  },
+  "Reszel": {
+    "raw_city": "Reszel",
+    "voivodeship": "Warmia-Masuria",
+    "population": 4817.0,
+    "longitude": 21.1421611,
+    "latitude": 54.0482576,
+    "count": 20
+  },
+  "Rogoźno": {
+    "raw_city": "RogoĹşno",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 11309.0,
+    "longitude": 16.9936288,
+    "latitude": 52.7523023,
+    "count": 10
+  },
+  "Ropczyce": {
+    "raw_city": "Ropczyce",
+    "voivodeship": "Subcarpathia",
+    "population": 15683.0,
+    "longitude": 21.6116324,
+    "latitude": 50.0528608,
+    "count": 10
+  },
+  "Ruciane-Nida": {
+    "raw_city": "Ruciane-Nida",
+    "voivodeship": "Warmia-Masuria",
+    "population": 4604.0,
+    "longitude": 21.55982,
+    "latitude": 53.65042,
+    "count": 2
+  },
+  "Ruda Śląska": {
+    "raw_city": "Ruda ĹšlÄ…ska",
+    "voivodeship": "Silesia",
+    "population": 137030.0,
+    "longitude": 18.8747933,
+    "latitude": 50.2858001,
+    "count": 348
+  },
+  "Rudnik nad Sanem": {
+    "raw_city": "Rudnik nad Sanem",
+    "voivodeship": "Subcarpathia",
+    "population": 6858.0,
+    "longitude": 22.2438721,
+    "latitude": 50.4447917,
+    "count": 1
+  },
+  "Rumia": {
+    "raw_city": "Rumia",
+    "voivodeship": "Pomerania",
+    "population": 47374.0,
+    "longitude": 18.3969008,
+    "latitude": 54.5700148,
+    "count": 90
+  },
+  "Rybnik": {
+    "raw_city": "Rybnik",
+    "voivodeship": "Silesia",
+    "population": 140173.0,
+    "longitude": 18.5419933,
+    "latitude": 50.0955793,
+    "count": 278
+  },
+  "Rydułtowy": {
+    "raw_city": "RyduĹ‚towy",
+    "voivodeship": "Silesia",
+    "population": 21847.0,
+    "longitude": 18.4171831,
+    "latitude": 50.058436,
+    "count": 29
+  },
+  "Ryn": {
+    "raw_city": "Ryn",
+    "voivodeship": "Warmia-Masuria",
+    "population": 2925.0,
+    "longitude": 21.5440643,
+    "latitude": 53.9386839,
+    "count": 1
+  },
+  "Rypin": {
+    "raw_city": "Rypin",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 16834.0,
+    "longitude": 19.4060273,
+    "latitude": 53.0672809,
+    "count": 77
+  },
+  "Rzepin": {
+    "raw_city": "Rzepin",
+    "voivodeship": "Lubusz",
+    "population": 6689.0,
+    "longitude": 14.8382902,
+    "latitude": 52.34432,
+    "count": 14
+  },
+  "Rzeszów": {
+    "raw_city": "RzeszĂłw",
+    "voivodeship": "Subcarpathia",
+    "population": 187422.0,
+    "longitude": 22.0047174,
+    "latitude": 50.0374531,
+    "count": 480
+  },
+  "Sandomierz": {
+    "raw_city": "Sandomierz",
+    "voivodeship": "Świętokrzyskie",
+    "population": 24552.0,
+    "longitude": 21.7495055,
+    "latitude": 50.6793066,
+    "count": 108
+  },
+  "Sanok": {
+    "raw_city": "Sanok",
+    "voivodeship": "Subcarpathia",
+    "population": 39027.0,
+    "longitude": 22.207028,
+    "latitude": 49.5609053,
+    "count": 69
+  },
+  "Sejny": {
+    "raw_city": "Sejny",
+    "voivodeship": "Podlaskie",
+    "population": 5650.0,
+    "longitude": 23.3496591,
+    "latitude": 54.105725,
+    "count": 9
+  },
+  "Sianów": {
+    "raw_city": "SianĂłw",
+    "voivodeship": "West Pomerania",
+    "population": 6681.0,
+    "longitude": 16.2942839,
+    "latitude": 54.228188,
+    "count": 11
+  },
+  "Siechnice": {
+    "raw_city": "Siechnice",
+    "voivodeship": "Lower Silesia",
+    "population": 6063.0,
+    "longitude": 17.1507275,
+    "latitude": 51.0323875,
+    "count": 64
+  },
+  "Siedlce": {
+    "raw_city": "Siedlce",
+    "voivodeship": "Masovia",
+    "population": 77102.0,
+    "longitude": 22.2765138,
+    "latitude": 52.1663751,
+    "count": 318
+  },
+  "Siemianowice Silesia": {
+    "raw_city": "Siemianowice Silesia",
+    "voivodeship": "Silesia",
+    "population": 68844.0,
+    "longitude": 19.0275635,
+    "latitude": 50.3052029,
+    "count": 210
+  },
+  "Siemiatycze": {
+    "raw_city": "Siemiatycze",
+    "voivodeship": "Podlaskie",
+    "population": 14652.0,
+    "longitude": 22.8627258,
+    "latitude": 52.4278979,
+    "count": 34
+  },
+  "Sieradz": {
+    "raw_city": "Sieradz",
+    "voivodeship": "Lodzkie",
+    "population": 43356.0,
+    "longitude": 18.7378774,
+    "latitude": 51.5942475,
+    "count": 76
+  },
+  "Sierpc": {
+    "raw_city": "Sierpc",
+    "voivodeship": "Masovia",
+    "population": 18742.0,
+    "longitude": 19.6675433,
+    "latitude": 52.8529055,
+    "count": 54
+  },
+  "Siewierz": {
+    "raw_city": "Siewierz",
+    "voivodeship": "Silesia",
+    "population": 5481.0,
+    "longitude": 19.2318901,
+    "latitude": 50.4710097,
+    "count": 12
+  },
+  "Skarszewy": {
+    "raw_city": "Skarszewy",
+    "voivodeship": "Pomerania",
+    "population": 7082.0,
+    "longitude": 18.4459951,
+    "latitude": 54.0717523,
+    "count": 1
+  },
+  "Skarżysko-Kamienna": {
+    "raw_city": "SkarĹĽysko-Kamienna",
+    "voivodeship": "Świętokrzyskie",
+    "population": 47538.0,
+    "longitude": 20.857883,
+    "latitude": 51.1138821,
+    "count": 208
+  },
+  "Skawina": {
+    "raw_city": "Skawina",
+    "voivodeship": "Lesser Poland",
+    "population": 24260.0,
+    "longitude": 19.8265702,
+    "latitude": 49.9747508,
+    "count": 29
+  },
+  "Skierniewice": {
+    "raw_city": "Skierniewice",
+    "voivodeship": "Lodzkie",
+    "population": 48634.0,
+    "longitude": 20.1430044,
+    "latitude": 51.9568581,
+    "count": 174
+  },
+  "Skoczów": {
+    "raw_city": "SkoczĂłw",
+    "voivodeship": "Silesia",
+    "population": 14741.0,
+    "longitude": 18.7877583,
+    "latitude": 49.7999039,
+    "count": 23
+  },
+  "Skwierzyna": {
+    "raw_city": "Skwierzyna",
+    "voivodeship": "Lubusz",
+    "population": 9768.0,
+    "longitude": 15.5010958,
+    "latitude": 52.5967483,
+    "count": 22
+  },
+  "Sobótka": {
+    "raw_city": "SobĂłtka",
+    "voivodeship": "Lower Silesia",
+    "population": 6991.0,
+    "longitude": 16.7445705,
+    "latitude": 50.8990885,
+    "count": 7
+  },
+  "Sochaczew": {
+    "raw_city": "Sochaczew",
+    "voivodeship": "Masovia",
+    "population": 37480.0,
+    "longitude": 20.2379379,
+    "latitude": 52.2296562,
+    "count": 67
+  },
+  "Sokołów Podlaski": {
+    "raw_city": "SokoĹ‚Ăłw Podlaski",
+    "voivodeship": "Masovia",
+    "population": 18781.0,
+    "longitude": 22.2525679,
+    "latitude": 52.4081717,
+    "count": 52
+  },
+  "Sokółka": {
+    "raw_city": "SokĂłĹ‚ka",
+    "voivodeship": "Podlaskie",
+    "population": 18765.0,
+    "longitude": 23.4995562,
+    "latitude": 53.4049183,
+    "count": 38
+  },
+  "Solec Kujawski": {
+    "raw_city": "Solec Kujawski",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 15642.0,
+    "longitude": 18.2246086,
+    "latitude": 53.0791965,
+    "count": 44
+  },
+  "Sopot": {
+    "raw_city": "Sopot",
+    "voivodeship": "Pomerania",
+    "population": 37903.0,
+    "longitude": 18.5684902,
+    "latitude": 54.4447922,
+    "count": 79
+  },
+  "Sosnowiec": {
+    "raw_city": "Sosnowiec",
+    "voivodeship": "Silesia",
+    "population": 211275.0,
+    "longitude": 19.1342944,
+    "latitude": 50.2780834,
+    "count": 607
+  },
+  "Stalowa Wola": {
+    "raw_city": "Stalowa Wola",
+    "voivodeship": "Subcarpathia",
+    "population": 63291.0,
+    "longitude": 22.0644075,
+    "latitude": 50.5653105,
+    "count": 58
+  },
+  "Starachowice": {
+    "raw_city": "Starachowice",
+    "voivodeship": "Świętokrzyskie",
+    "population": 51158.0,
+    "longitude": 21.0761377,
+    "latitude": 51.0518865,
+    "count": 228
+  },
+  "Stargard": {
+    "raw_city": "Stargard",
+    "voivodeship": "West Pomerania",
+    "population": 69328.0,
+    "longitude": 15.0350493,
+    "latitude": 53.3379935,
+    "count": 230
+  },
+  "Starogard Gdański": {
+    "raw_city": "Starogard GdaĹ„ski",
+    "voivodeship": "Pomerania",
+    "population": 48621.0,
+    "longitude": 18.532113,
+    "latitude": 53.9671805,
+    "count": 153
+  },
+  "Stary Sącz": {
+    "raw_city": "Stary SÄ…cz",
+    "voivodeship": "Lesser Poland",
+    "population": 9107.0,
+    "longitude": 20.6366235,
+    "latitude": 49.5640268,
+    "count": 2
+  },
+  "Staszów": {
+    "raw_city": "StaszĂłw",
+    "voivodeship": "Świętokrzyskie",
+    "population": 15384.0,
+    "longitude": 21.1677849,
+    "latitude": 50.5612276,
+    "count": 29
+  },
+  "Stepnica": {
+    "raw_city": "Stepnica",
+    "voivodeship": "West Pomerania",
+    "population": 2067.0,
+    "longitude": 14.6299527,
+    "latitude": 53.651453,
+    "count": 1
+  },
+  "Stoczek Łukowski": {
+    "raw_city": "Stoczek Ĺukowski",
+    "voivodeship": "Lublin",
+    "population": 2700.0,
+    "longitude": 21.9697078,
+    "latitude": 51.9617406,
+    "count": 3
+  },
+  "Stryków": {
+    "raw_city": "StrykĂłw",
+    "voivodeship": "Lodzkie",
+    "population": 3537.0,
+    "longitude": 19.6036969,
+    "latitude": 51.9009447,
+    "count": 11
+  },
+  "Strzegom": {
+    "raw_city": "Strzegom",
+    "voivodeship": "Lower Silesia",
+    "population": 16769.0,
+    "longitude": 16.3462134,
+    "latitude": 50.9601066,
+    "count": 23
+  },
+  "Strzelce Krajeńskie": {
+    "raw_city": "Strzelce KrajeĹ„skie",
+    "voivodeship": "Lubusz",
+    "population": 10109.0,
+    "longitude": 15.5325925,
+    "latitude": 52.8785255,
+    "count": 35
+  },
+  "Strzelce Opole": {
+    "raw_city": "Strzelce Opole",
+    "voivodeship": "Opole",
+    "population": 18451.0,
+    "longitude": 18.3004547,
+    "latitude": 50.5109033,
+    "count": 52
+  },
+  "Strzelin": {
+    "raw_city": "Strzelin",
+    "voivodeship": "Lower Silesia",
+    "population": 12556.0,
+    "longitude": 17.0683947,
+    "latitude": 50.78092,
+    "count": 58
+  },
+  "Strzyżów": {
+    "raw_city": "StrzyĹĽĂłw",
+    "voivodeship": "Subcarpathia",
+    "population": 8967.0,
+    "longitude": 21.7856291,
+    "latitude": 49.8702087,
+    "count": 5
+  },
+  "Stąporków": {
+    "raw_city": "StÄ…porkĂłw",
+    "voivodeship": "Świętokrzyskie",
+    "population": 5996.0,
+    "longitude": 20.5573073,
+    "latitude": 51.1380145,
+    "count": 7
+  },
+  "Sucha Beskidzka": {
+    "raw_city": "Sucha Beskidzka",
+    "voivodeship": "Lesser Poland",
+    "population": 9485.0,
+    "longitude": 19.5905975,
+    "latitude": 49.74079,
+    "count": 27
+  },
+  "Sulechów": {
+    "raw_city": "SulechĂłw",
+    "voivodeship": "Lubusz",
+    "population": 17461.0,
+    "longitude": 15.6259091,
+    "latitude": 52.0854782,
+    "count": 35
+  },
+  "Sulejów": {
+    "raw_city": "SulejĂłw",
+    "voivodeship": "Lodzkie",
+    "population": 6349.0,
+    "longitude": 19.8890802,
+    "latitude": 51.3549202,
+    "count": 6
+  },
+  "Sulejówek": {
+    "raw_city": "SulejĂłwek",
+    "voivodeship": "Masovia",
+    "population": 19311.0,
+    "longitude": 21.282523,
+    "latitude": 52.2467992,
+    "count": 22
+  },
+  "Sulęcin": {
+    "raw_city": "SulÄ™cin",
+    "voivodeship": "Lubusz",
+    "population": 10265.0,
+    "longitude": 15.1161501,
+    "latitude": 52.4413768,
+    "count": 42
+  },
+  "Susz": {
+    "raw_city": "Susz",
+    "voivodeship": "Warmia-Masuria",
+    "population": 5717.0,
+    "longitude": 19.3385289,
+    "latitude": 53.7166619,
+    "count": 9
+  },
+  "Suwałki": {
+    "raw_city": "SuwaĹ‚ki",
+    "voivodeship": "Podlaskie",
+    "population": 69317.0,
+    "longitude": 22.9279363,
+    "latitude": 54.0990636,
+    "count": 221
+  },
+  "Swarzędz": {
+    "raw_city": "SwarzÄ™dz",
+    "voivodeship": "Greater Poland",
+    "population": 31084.0,
+    "longitude": 17.0771038,
+    "latitude": 52.4103728,
+    "count": 91
+  },
+  "Syców": {
+    "raw_city": "SycĂłw",
+    "voivodeship": "Lower Silesia",
+    "population": 10413.0,
+    "longitude": 17.72354,
+    "latitude": 51.30998,
+    "count": 9
+  },
+  "Szamotuły": {
+    "raw_city": "SzamotuĹ‚y",
+    "voivodeship": "Greater Poland",
+    "population": 18799.0,
+    "longitude": 16.5831241,
+    "latitude": 52.6120328,
+    "count": 18
+  },
+  "Szczawno-Zdrój": {
+    "raw_city": "Szczawno-ZdrĂłj",
+    "voivodeship": "Lower Silesia",
+    "population": 5796.0,
+    "longitude": 16.2540971,
+    "latitude": 50.8066959,
+    "count": 33
+  },
+  "Szczebrzeszyn": {
+    "raw_city": "Szczebrzeszyn",
+    "voivodeship": "Lublin",
+    "population": 5245.0,
+    "longitude": 22.9786754,
+    "latitude": 50.6946972,
+    "count": 5
+  },
+  "Szczecin": {
+    "raw_city": "Szczecin",
+    "voivodeship": "West Pomerania",
+    "population": 402465.0,
+    "longitude": 14.5509623,
+    "latitude": 53.4301818,
+    "count": 1448
+  },
+  "Szczecinek": {
+    "raw_city": "Szczecinek",
+    "voivodeship": "West Pomerania",
+    "population": 40620.0,
+    "longitude": 16.6943922,
+    "latitude": 53.708021,
+    "count": 157
+  },
+  "Szczekociny": {
+    "raw_city": "Szczekociny",
+    "voivodeship": "Silesia",
+    "population": 3745.0,
+    "longitude": 19.8194681,
+    "latitude": 50.6259216,
+    "count": 6
+  },
+  "Szczucin": {
+    "raw_city": "Szczucin",
+    "voivodeship": "Lesser Poland",
+    "population": 4145.0,
+    "longitude": 21.075161,
+    "latitude": 50.3090256,
+    "count": 5
+  },
+  "Szczuczyn": {
+    "raw_city": "Szczuczyn",
+    "voivodeship": "Podlaskie",
+    "population": 3442.0,
+    "longitude": 22.2855495,
+    "latitude": 53.5629982,
+    "count": 1
+  },
+  "Szczyrk": {
+    "raw_city": "Szczyrk",
+    "voivodeship": "Silesia",
+    "population": 5750.0,
+    "longitude": 19.0254613,
+    "latitude": 49.7165976,
+    "count": 38
+  },
+  "Szczytno": {
+    "raw_city": "Szczytno",
+    "voivodeship": "Warmia-Masuria",
+    "population": 24489.0,
+    "longitude": 20.991589,
+    "latitude": 53.565489,
+    "count": 101
+  },
+  "Szklarska Poręba": {
+    "raw_city": "Szklarska PorÄ™ba",
+    "voivodeship": "Lower Silesia",
+    "population": 6557.0,
+    "longitude": 15.5211659,
+    "latitude": 50.8275855,
+    "count": 17
+  },
+  "Szlichtyngowa": {
+    "raw_city": "Szlichtyngowa",
+    "voivodeship": "Lubusz",
+    "population": 1328.0,
+    "longitude": 16.2445989,
+    "latitude": 51.7140748,
+    "count": 10
+  },
+  "Szprotawa": {
+    "raw_city": "Szprotawa",
+    "voivodeship": "Lubusz",
+    "population": 12329.0,
+    "longitude": 15.5367584,
+    "latitude": 51.5650714,
+    "count": 24
+  },
+  "Sztum": {
+    "raw_city": "Sztum",
+    "voivodeship": "Pomerania",
+    "population": 10332.0,
+    "longitude": 19.0305384,
+    "latitude": 53.9198663,
+    "count": 35
+  },
+  "Szubin": {
+    "raw_city": "Szubin",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 9580.0,
+    "longitude": 17.7439402,
+    "latitude": 53.0117503,
+    "count": 25
+  },
+  "Szydłowiec": {
+    "raw_city": "SzydĹ‚owiec",
+    "voivodeship": "Masovia",
+    "population": 11907.0,
+    "longitude": 20.8575141,
+    "latitude": 51.2238922,
+    "count": 28
+  },
+  "Sędziszów": {
+    "raw_city": "SÄ™dziszĂłw",
+    "voivodeship": "Świętokrzyskie",
+    "population": 6707.0,
+    "longitude": 20.0538047,
+    "latitude": 50.564781,
+    "count": 6
+  },
+  "Sędziszów Małopolski": {
+    "raw_city": "SÄ™dziszĂłw MaĹ‚opolski",
+    "voivodeship": "Subcarpathia",
+    "population": 7492.0,
+    "longitude": 21.7007524,
+    "latitude": 50.0715996,
+    "count": 11
+  },
+  "Sępopol": {
+    "raw_city": "SÄ™popol",
+    "voivodeship": "Warmia-Masuria",
+    "population": 2051.0,
+    "longitude": 21.0146462,
+    "latitude": 54.264716,
+    "count": 2
+  },
+  "Sępólno Krajeńskie": {
+    "raw_city": "SÄ™pĂłlno KrajeĹ„skie",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 9368.0,
+    "longitude": 17.5348373,
+    "latitude": 53.4547434,
+    "count": 14
+  },
+  "Sławków": {
+    "raw_city": "SĹ‚awkĂłw",
+    "voivodeship": "Silesia",
+    "population": 7092.0,
+    "longitude": 19.3898475,
+    "latitude": 50.2984547,
+    "count": 2
+  },
+  "Sławno": {
+    "raw_city": "SĹ‚awno",
+    "voivodeship": "West Pomerania",
+    "population": 12898.0,
+    "longitude": 16.6789071,
+    "latitude": 54.3629824,
+    "count": 40
+  },
+  "Słomniki": {
+    "raw_city": "SĹ‚omniki",
+    "voivodeship": "Lesser Poland",
+    "population": 4423.0,
+    "longitude": 20.0811369,
+    "latitude": 50.2403739,
+    "count": 2
+  },
+  "Słubice": {
+    "raw_city": "SĹ‚ubice",
+    "voivodeship": "Lubusz",
+    "population": 16908.0,
+    "longitude": 14.5662367,
+    "latitude": 52.3557481,
+    "count": 46
+  },
+  "Słupca": {
+    "raw_city": "SĹ‚upca",
+    "voivodeship": "Greater Poland",
+    "population": 14019.0,
+    "longitude": 17.8713612,
+    "latitude": 52.2872924,
+    "count": 34
+  },
+  "Słupsk": {
+    "raw_city": "SĹ‚upsk",
+    "voivodeship": "Pomerania",
+    "population": 93936.0,
+    "longitude": 17.028073,
+    "latitude": 54.4649331,
+    "count": 346
+  },
+  "Tarnobrzeg": {
+    "raw_city": "Tarnobrzeg",
+    "voivodeship": "Subcarpathia",
+    "population": 48217.0,
+    "longitude": 21.6704871,
+    "latitude": 50.5715277,
+    "count": 278
+  },
+  "Tarnowskie Góry": {
+    "raw_city": "Tarnowskie GĂłry",
+    "voivodeship": "Silesia",
+    "population": 60957.0,
+    "longitude": 18.8554757,
+    "latitude": 50.4445194,
+    "count": 87
+  },
+  "Tarnów": {
+    "raw_city": "TarnĂłw",
+    "voivodeship": "Lesser Poland",
+    "population": 112120.0,
+    "longitude": 20.9880739,
+    "latitude": 50.0123784,
+    "count": 139
+  },
+  "Tczew": {
+    "raw_city": "Tczew",
+    "voivodeship": "Pomerania",
+    "population": 60610.0,
+    "longitude": 18.8000293,
+    "latitude": 54.0869532,
+    "count": 95
+  },
+  "Tolkmicko": {
+    "raw_city": "Tolkmicko",
+    "voivodeship": "Warmia-Masuria",
+    "population": 2807.0,
+    "longitude": 19.5269874,
+    "latitude": 54.3202314,
+    "count": 7
+  },
+  "Tomaszów Lubelski": {
+    "raw_city": "TomaszĂłw Lubelski",
+    "voivodeship": "Lublin",
+    "population": 19550.0,
+    "longitude": 23.4170362,
+    "latitude": 50.4573288,
+    "count": 99
+  },
+  "Tomaszów Mazowiecki": {
+    "raw_city": "TomaszĂłw Mazowiecki",
+    "voivodeship": "Lodzkie",
+    "population": 64893.0,
+    "longitude": 20.0084195,
+    "latitude": 51.5316918,
+    "count": 171
+  },
+  "Toruń": {
+    "raw_city": "ToruĹ„",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 203447.0,
+    "longitude": 18.6048094,
+    "latitude": 53.0102721,
+    "count": 575
+  },
+  "Trzcianka": {
+    "raw_city": "Trzcianka",
+    "voivodeship": "Greater Poland",
+    "population": 17301.0,
+    "longitude": 16.4610993,
+    "latitude": 53.0417582,
+    "count": 52
+  },
+  "Trzcińsko-Zdrój": {
+    "raw_city": "TrzciĹ„sko-ZdrĂłj",
+    "voivodeship": "West Pomerania",
+    "population": 2460.0,
+    "longitude": 14.6075982,
+    "latitude": 52.9660381,
+    "count": 13
+  },
+  "Trzebiatów": {
+    "raw_city": "TrzebiatĂłw",
+    "voivodeship": "West Pomerania",
+    "population": 10202.0,
+    "longitude": 15.2657157,
+    "latitude": 54.0627026,
+    "count": 7
+  },
+  "Trzebinia": {
+    "raw_city": "Trzebinia",
+    "voivodeship": "Lesser Poland",
+    "population": 20302.0,
+    "longitude": 19.4709097,
+    "latitude": 50.1597686,
+    "count": 38
+  },
+  "Trzebnica": {
+    "raw_city": "Trzebnica",
+    "voivodeship": "Lower Silesia",
+    "population": 12945.0,
+    "longitude": 17.062596,
+    "latitude": 51.3096424,
+    "count": 41
+  },
+  "Tuchola": {
+    "raw_city": "Tuchola",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 13949.0,
+    "longitude": 17.8590414,
+    "latitude": 53.5880901,
+    "count": 22
+  },
+  "Turek": {
+    "raw_city": "Turek",
+    "voivodeship": "Greater Poland",
+    "population": 28100.0,
+    "longitude": 18.50191,
+    "latitude": 52.01595,
+    "count": 29
+  },
+  "Twardogóra": {
+    "raw_city": "TwardogĂłra",
+    "voivodeship": "Lower Silesia",
+    "population": 6762.0,
+    "longitude": 17.469599,
+    "latitude": 51.364557,
+    "count": 12
+  },
+  "Tychy": {
+    "raw_city": "Tychy",
+    "voivodeship": "Silesia",
+    "population": 128812.0,
+    "longitude": 18.9965933,
+    "latitude": 50.114397,
+    "count": 203
+  },
+  "Tyszowce": {
+    "raw_city": "Tyszowce",
+    "voivodeship": "Lublin",
+    "population": 2171.0,
+    "longitude": 23.6982172,
+    "latitude": 50.6172008,
+    "count": 2
+  },
+  "Tłuszcz": {
+    "raw_city": "TĹ‚uszcz",
+    "voivodeship": "Masovia",
+    "population": 8056.0,
+    "longitude": 21.4355074,
+    "latitude": 52.4301697,
+    "count": 6
+  },
+  "Uniejów": {
+    "raw_city": "UniejĂłw",
+    "voivodeship": "Lodzkie",
+    "population": 3079.0,
+    "longitude": 18.793245,
+    "latitude": 51.9741302,
+    "count": 6
+  },
+  "Ustka": {
+    "raw_city": "Ustka",
+    "voivodeship": "Pomerania",
+    "population": 16263.0,
+    "longitude": 16.8612962,
+    "latitude": 54.5811254,
+    "count": 81
+  },
+  "Ustroń": {
+    "raw_city": "UstroĹ„",
+    "voivodeship": "Silesia",
+    "population": 16003.0,
+    "longitude": 18.8028338,
+    "latitude": 49.7181505,
+    "count": 17
+  },
+  "Ustrzyki Dolne": {
+    "raw_city": "Ustrzyki Dolne",
+    "voivodeship": "Subcarpathia",
+    "population": 9041.0,
+    "longitude": 22.5877003,
+    "latitude": 49.4301874,
+    "count": 25
+  },
+  "Wadowice": {
+    "raw_city": "Wadowice",
+    "voivodeship": "Lesser Poland",
+    "population": 19309.0,
+    "longitude": 19.4925345,
+    "latitude": 49.8834484,
+    "count": 46
+  },
+  "Warka": {
+    "raw_city": "Warka",
+    "voivodeship": "Masovia",
+    "population": 11727.0,
+    "longitude": 21.1833835,
+    "latitude": 51.7850969,
+    "count": 34
+  },
+  "Warszawa": {
+    "raw_city": "Warszawa",
+    "voivodeship": "Masovia",
+    "population": 1744351.0,
+    "longitude": 21.0067249,
+    "latitude": 52.2319581,
+    "count": 4297
+  },
+  "Warta": {
+    "raw_city": "Warta",
+    "voivodeship": "Lodzkie",
+    "population": 3337.0,
+    "longitude": 18.6250791,
+    "latitude": 51.7081927,
+    "count": 3
+  },
+  "Wasilków": {
+    "raw_city": "WasilkĂłw",
+    "voivodeship": "Podlaskie",
+    "population": 10511.0,
+    "longitude": 23.2056777,
+    "latitude": 53.198684,
+    "count": 4
+  },
+  "Wałbrzych": {
+    "raw_city": "WaĹ‚brzych",
+    "voivodeship": "Lower Silesia",
+    "population": 122927.0,
+    "longitude": 16.2825424,
+    "latitude": 50.7659054,
+    "count": 196
+  },
+  "Wałcz": {
+    "raw_city": "WaĹ‚cz",
+    "voivodeship": "West Pomerania",
+    "population": 26231.0,
+    "longitude": 16.4670655,
+    "latitude": 53.269745,
+    "count": 132
+  },
+  "Wejherowo": {
+    "raw_city": "Wejherowo",
+    "voivodeship": "Pomerania",
+    "population": 50340.0,
+    "longitude": 18.247934,
+    "latitude": 54.6026348,
+    "count": 46
+  },
+  "Wieliczka": {
+    "raw_city": "Wieliczka",
+    "voivodeship": "Lesser Poland",
+    "population": 21676.0,
+    "longitude": 20.0602114,
+    "latitude": 49.9823773,
+    "count": 130
+  },
+  "Wieluń": {
+    "raw_city": "WieluĹ„",
+    "voivodeship": "Lodzkie",
+    "population": 23546.0,
+    "longitude": 18.5701081,
+    "latitude": 51.2205345,
+    "count": 72
+  },
+  "Wieruszów": {
+    "raw_city": "WieruszĂłw",
+    "voivodeship": "Lodzkie",
+    "population": 8848.0,
+    "longitude": 18.1510623,
+    "latitude": 51.2951647,
+    "count": 18
+  },
+  "Wisła": {
+    "raw_city": "WisĹ‚a",
+    "voivodeship": "Silesia",
+    "population": 11333.0,
+    "longitude": 18.8709256,
+    "latitude": 49.6523647,
+    "count": 9
+  },
+  "Więcbork": {
+    "raw_city": "WiÄ™cbork",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 5970.0,
+    "longitude": 17.4873925,
+    "latitude": 53.3525453,
+    "count": 19
+  },
+  "Wodzisław Śląski": {
+    "raw_city": "WodzisĹ‚aw ĹšlÄ…ski",
+    "voivodeship": "Silesia",
+    "population": 48731.0,
+    "longitude": 18.4630383,
+    "latitude": 50.0024107,
+    "count": 42
+  },
+  "Wolbrom": {
+    "raw_city": "Wolbrom",
+    "voivodeship": "Lesser Poland",
+    "population": 8874.0,
+    "longitude": 19.7598844,
+    "latitude": 50.3848386,
+    "count": 35
+  },
+  "Wolin": {
+    "raw_city": "Wolin",
+    "voivodeship": "West Pomerania",
+    "population": 4999.0,
+    "longitude": 14.6157008,
+    "latitude": 53.843788,
+    "count": 2
+  },
+  "Wolsztyn": {
+    "raw_city": "Wolsztyn",
+    "voivodeship": "Greater Poland",
+    "population": 13586.0,
+    "longitude": 16.1126622,
+    "latitude": 52.11725,
+    "count": 39
+  },
+  "Wołomin": {
+    "raw_city": "WoĹ‚omin",
+    "voivodeship": "Masovia",
+    "population": 37298.0,
+    "longitude": 21.2420179,
+    "latitude": 52.3468689,
+    "count": 73
+  },
+  "Wołów": {
+    "raw_city": "WoĹ‚Ăłw",
+    "voivodeship": "Lower Silesia",
+    "population": 12646.0,
+    "longitude": 16.6486903,
+    "latitude": 51.3363841,
+    "count": 60
+  },
+  "Wrocław": {
+    "raw_city": "WrocĹ‚aw",
+    "voivodeship": "Lower Silesia",
+    "population": 634487.0,
+    "longitude": 17.0326689,
+    "latitude": 51.1089776,
+    "count": 2350
+  },
+  "Wronki": {
+    "raw_city": "Wronki",
+    "voivodeship": "Greater Poland",
+    "population": 11566.0,
+    "longitude": 16.3742272,
+    "latitude": 52.7101225,
+    "count": 23
+  },
+  "Września": {
+    "raw_city": "WrzeĹ›nia",
+    "voivodeship": "Greater Poland",
+    "population": 29552.0,
+    "longitude": 17.5652282,
+    "latitude": 52.3250694,
+    "count": 108
+  },
+  "Wschowa": {
+    "raw_city": "Wschowa",
+    "voivodeship": "Lubusz",
+    "population": 14329.0,
+    "longitude": 16.3172771,
+    "latitude": 51.8038354,
+    "count": 21
+  },
+  "Wysoka": {
+    "raw_city": "Wysoka",
+    "voivodeship": "Greater Poland",
+    "population": 2758.0,
+    "longitude": 17.0797137,
+    "latitude": 53.1829333,
+    "count": 23
+  },
+  "Wysokie Masovia": {
+    "raw_city": "Wysokie Masovia",
+    "voivodeship": "Podlaskie",
+    "population": 9503.0,
+    "longitude": 22.5131199,
+    "latitude": 52.9154988,
+    "count": 21
+  },
+  "Wyszków": {
+    "raw_city": "WyszkĂłw",
+    "voivodeship": "Masovia",
+    "population": 27222.0,
+    "longitude": 21.4584581,
+    "latitude": 52.5928035,
+    "count": 79
+  },
+  "Wąbrzeźno": {
+    "raw_city": "WÄ…brzeĹşno",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 14040.0,
+    "longitude": 18.947293,
+    "latitude": 53.2799665,
+    "count": 65
+  },
+  "Wągrowiec": {
+    "raw_city": "WÄ…growiec",
+    "voivodeship": "Greater Poland",
+    "population": 25178.0,
+    "longitude": 17.1973241,
+    "latitude": 52.8071754,
+    "count": 118
+  },
+  "Węgorzewo": {
+    "raw_city": "WÄ™gorzewo",
+    "voivodeship": "Warmia-Masuria",
+    "population": 11699.0,
+    "longitude": 21.7416569,
+    "latitude": 54.2138162,
+    "count": 27
+  },
+  "Węgorzyno": {
+    "raw_city": "WÄ™gorzyno",
+    "voivodeship": "West Pomerania",
+    "population": 2909.0,
+    "longitude": 15.5602398,
+    "latitude": 53.5411822,
+    "count": 8
+  },
+  "Węgrów": {
+    "raw_city": "WÄ™grĂłw",
+    "voivodeship": "Masovia",
+    "population": 12796.0,
+    "longitude": 22.0174472,
+    "latitude": 52.3989231,
+    "count": 15
+  },
+  "Władysławowo": {
+    "raw_city": "WĹ‚adysĹ‚awowo",
+    "voivodeship": "Pomerania",
+    "population": 15400.0,
+    "longitude": 18.4087342,
+    "latitude": 54.7901316,
+    "count": 30
+  },
+  "Włocławek": {
+    "raw_city": "WĹ‚ocĹ‚awek",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 114885.0,
+    "longitude": 19.0720627,
+    "latitude": 52.6605543,
+    "count": 262
+  },
+  "Włodawa": {
+    "raw_city": "WĹ‚odawa",
+    "voivodeship": "Lublin",
+    "population": 13066.0,
+    "longitude": 23.553219,
+    "latitude": 51.5466412,
+    "count": 43
+  },
+  "Włoszczowa": {
+    "raw_city": "WĹ‚oszczowa",
+    "voivodeship": "Świętokrzyskie",
+    "population": 10210.0,
+    "longitude": 19.9667772,
+    "latitude": 50.8520727,
+    "count": 14
+  },
+  "Zabrze": {
+    "raw_city": "Zabrze",
+    "voivodeship": "Silesia",
+    "population": 178357.0,
+    "longitude": 18.7863749,
+    "latitude": 50.3086154,
+    "count": 393
+  },
+  "Zagórz": {
+    "raw_city": "ZagĂłrz",
+    "voivodeship": "Subcarpathia",
+    "population": 5082.0,
+    "longitude": 22.2632894,
+    "latitude": 49.5098822,
+    "count": 6
+  },
+  "Zakopane": {
+    "raw_city": "Zakopane",
+    "voivodeship": "Lesser Poland",
+    "population": 27442.0,
+    "longitude": 19.950659,
+    "latitude": 49.2969446,
+    "count": 36
+  },
+  "Zakroczym": {
+    "raw_city": "Zakroczym",
+    "voivodeship": "Masovia",
+    "population": 3241.0,
+    "longitude": 20.6116771,
+    "latitude": 52.4333534,
+    "count": 3
+  },
+  "Zambrów": {
+    "raw_city": "ZambrĂłw",
+    "voivodeship": "Podlaskie",
+    "population": 22451.0,
+    "longitude": 22.24117,
+    "latitude": 52.98552,
+    "count": 54
+  },
+  "Zamość": {
+    "raw_city": "ZamoĹ›Ä‡",
+    "voivodeship": "Lublin",
+    "population": 65255.0,
+    "longitude": 23.2525711,
+    "latitude": 50.7170854,
+    "count": 269
+  },
+  "Zator": {
+    "raw_city": "Zator",
+    "voivodeship": "Lesser Poland",
+    "population": 3683.0,
+    "longitude": 19.4376782,
+    "latitude": 49.9963053,
+    "count": 7
+  },
+  "Zawadzkie": {
+    "raw_city": "Zawadzkie",
+    "voivodeship": "Opole",
+    "population": 7605.0,
+    "longitude": 18.4801284,
+    "latitude": 50.6065834,
+    "count": 21
+  },
+  "Zawiercie": {
+    "raw_city": "Zawiercie",
+    "voivodeship": "Silesia",
+    "population": 51258.0,
+    "longitude": 19.4333887,
+    "latitude": 50.4844179,
+    "count": 176
+  },
+  "Zbąszynek": {
+    "raw_city": "ZbÄ…szynek",
+    "voivodeship": "Lubusz",
+    "population": 5078.0,
+    "longitude": 15.8139047,
+    "latitude": 52.2435002,
+    "count": 13
+  },
+  "Zbąszyń": {
+    "raw_city": "ZbÄ…szyĹ„",
+    "voivodeship": "Greater Poland",
+    "population": 7202.0,
+    "longitude": 15.9209286,
+    "latitude": 52.2501028,
+    "count": 23
+  },
+  "Zduńska Wola": {
+    "raw_city": "ZduĹ„ska Wola",
+    "voivodeship": "Lodzkie",
+    "population": 43615.0,
+    "longitude": 18.9333201,
+    "latitude": 51.6028615,
+    "count": 137
+  },
+  "Zdzieszowice": {
+    "raw_city": "Zdzieszowice",
+    "voivodeship": "Opole",
+    "population": 11978.0,
+    "longitude": 18.1193187,
+    "latitude": 50.4202928,
+    "count": 9
+  },
+  "Zelów": {
+    "raw_city": "ZelĂłw",
+    "voivodeship": "Lodzkie",
+    "population": 7833.0,
+    "longitude": 19.2184947,
+    "latitude": 51.4652772,
+    "count": 6
+  },
+  "Zgierz": {
+    "raw_city": "Zgierz",
+    "voivodeship": "Lodzkie",
+    "population": 57503.0,
+    "longitude": 19.4056443,
+    "latitude": 51.8559434,
+    "count": 168
+  },
+  "Zgorzelec": {
+    "raw_city": "Zgorzelec",
+    "voivodeship": "Lower Silesia",
+    "population": 32332.0,
+    "longitude": 15.0079028,
+    "latitude": 51.1476999,
+    "count": 99
+  },
+  "Zielonka": {
+    "raw_city": "Zielonka",
+    "voivodeship": "Masovia",
+    "population": 17528.0,
+    "longitude": 21.1523199,
+    "latitude": 52.310847,
+    "count": 36
+  },
+  "Ziębice": {
+    "raw_city": "ZiÄ™bice",
+    "voivodeship": "Lower Silesia",
+    "population": 9117.0,
+    "longitude": 17.0405633,
+    "latitude": 50.6007752,
+    "count": 14
+  },
+  "Zwoleń": {
+    "raw_city": "ZwoleĹ„",
+    "voivodeship": "Masovia",
+    "population": 8112.0,
+    "longitude": 21.5844652,
+    "latitude": 51.3564745,
+    "count": 18
+  },
+  "Ząbki": {
+    "raw_city": "ZÄ…bki",
+    "voivodeship": "Masovia",
+    "population": 31884.0,
+    "longitude": 21.1157408,
+    "latitude": 52.2934961,
+    "count": 172
+  },
+  "Ząbkowice Silesia": {
+    "raw_city": "ZÄ…bkowice Silesia",
+    "voivodeship": "Lower Silesia",
+    "population": 15707.0,
+    "longitude": 16.8111518,
+    "latitude": 50.5892698,
+    "count": 32
+  },
+  "Złocieniec": {
+    "raw_city": "ZĹ‚ocieniec",
+    "voivodeship": "West Pomerania",
+    "population": 13224.0,
+    "longitude": 16.0120665,
+    "latitude": 53.5310697,
+    "count": 21
+  },
+  "Złotoryja": {
+    "raw_city": "ZĹ‚otoryja",
+    "voivodeship": "Lower Silesia",
+    "population": 15496.0,
+    "longitude": 15.9165146,
+    "latitude": 51.1234907,
+    "count": 52
+  },
+  "Złoty Stok": {
+    "raw_city": "ZĹ‚oty Stok",
+    "voivodeship": "Lower Silesia",
+    "population": 2935.0,
+    "longitude": 16.8765836,
+    "latitude": 50.445143,
+    "count": 4
+  },
+  "Złotów": {
+    "raw_city": "ZĹ‚otĂłw",
+    "voivodeship": "Greater Poland",
+    "population": 18593.0,
+    "longitude": 17.034694,
+    "latitude": 53.3631938,
+    "count": 107
+  },
+  "Łabiszyn": {
+    "raw_city": "Ĺabiszyn",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 4379.0,
+    "longitude": 17.9205877,
+    "latitude": 52.9528653,
+    "count": 12
+  },
+  "Łapy": {
+    "raw_city": "Ĺapy",
+    "voivodeship": "Podlaskie",
+    "population": 15786.0,
+    "longitude": 22.883005,
+    "latitude": 52.9908208,
+    "count": 16
+  },
+  "Łasin": {
+    "raw_city": "Ĺasin",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 3377.0,
+    "longitude": 19.0870311,
+    "latitude": 53.5196526,
+    "count": 2
+  },
+  "Łask": {
+    "raw_city": "Ĺask",
+    "voivodeship": "Lodzkie",
+    "population": 18029.0,
+    "longitude": 19.1334784,
+    "latitude": 51.5929947,
+    "count": 57
+  },
+  "Łaziska Górne": {
+    "raw_city": "Ĺaziska GĂłrne",
+    "voivodeship": "Silesia",
+    "population": 22418.0,
+    "longitude": 18.8390661,
+    "latitude": 50.1500892,
+    "count": 34
+  },
+  "Łańcut": {
+    "raw_city": "ĹaĹ„cut",
+    "voivodeship": "Subcarpathia",
+    "population": 18074.0,
+    "longitude": 22.2320924,
+    "latitude": 50.0690725,
+    "count": 25
+  },
+  "Łeba": {
+    "raw_city": "Ĺeba",
+    "voivodeship": "Pomerania",
+    "population": 3824.0,
+    "longitude": 17.555417,
+    "latitude": 54.7585207,
+    "count": 5
+  },
+  "Łobez": {
+    "raw_city": "Ĺobez",
+    "voivodeship": "West Pomerania",
+    "population": 10438.0,
+    "longitude": 15.6213487,
+    "latitude": 53.6391189,
+    "count": 31
+  },
+  "Łomianki": {
+    "raw_city": "Ĺomianki",
+    "voivodeship": "Masovia",
+    "population": 16639.0,
+    "longitude": 20.895012,
+    "latitude": 52.3355273,
+    "count": 19
+  },
+  "Łomża": {
+    "raw_city": "ĹomĹĽa",
+    "voivodeship": "Podlaskie",
+    "population": 63004.0,
+    "longitude": 22.0727551,
+    "latitude": 53.1750699,
+    "count": 185
+  },
+  "Łosice": {
+    "raw_city": "Ĺosice",
+    "voivodeship": "Masovia",
+    "population": 7085.0,
+    "longitude": 22.717294,
+    "latitude": 52.2115134,
+    "count": 3
+  },
+  "Łowicz": {
+    "raw_city": "Ĺowicz",
+    "voivodeship": "Lodzkie",
+    "population": 29420.0,
+    "longitude": 19.9447873,
+    "latitude": 52.107683,
+    "count": 47
+  },
+  "Łuków": {
+    "raw_city": "ĹukĂłw",
+    "voivodeship": "Lublin",
+    "population": 30381.0,
+    "longitude": 22.3790669,
+    "latitude": 51.93008,
+    "count": 76
+  },
+  "Łódź": {
+    "raw_city": "ĹĂłdĹş",
+    "voivodeship": "Lodzkie",
+    "population": 711332.0,
+    "longitude": 19.4569911,
+    "latitude": 51.7687323,
+    "count": 3161
+  },
+  "Łęczna": {
+    "raw_city": "ĹÄ™czna",
+    "voivodeship": "Lodzkie",
+    "population": 19304.0,
+    "longitude": 22.886766,
+    "latitude": 51.3002941,
+    "count": 122
+  },
+  "Łęczyca": {
+    "raw_city": "ĹÄ™czyca",
+    "voivodeship": "Lodzkie",
+    "population": 14786.0,
+    "longitude": 19.2015681,
+    "latitude": 52.0593642,
+    "count": 64
+  },
+  "Łęknica": {
+    "raw_city": "ĹÄ™knica",
+    "voivodeship": "Lubusz",
+    "population": 2602.0,
+    "longitude": 14.7445378,
+    "latitude": 51.538237,
+    "count": 4
+  },
+  "Ścinawa": {
+    "raw_city": "Ĺšcinawa",
+    "voivodeship": "Lower Silesia",
+    "population": 5798.0,
+    "longitude": 16.4259732,
+    "latitude": 51.4165346,
+    "count": 9
+  },
+  "Śmigiel": {
+    "raw_city": "Ĺšmigiel",
+    "voivodeship": "Greater Poland",
+    "population": 5603.0,
+    "longitude": 16.5271118,
+    "latitude": 52.012744,
+    "count": 6
+  },
+  "Śrem": {
+    "raw_city": "Ĺšrem",
+    "voivodeship": "Greater Poland",
+    "population": 30477.0,
+    "longitude": 17.0156809,
+    "latitude": 52.0893322,
+    "count": 90
+  },
+  "Środa Wielkopolska": {
+    "raw_city": "Ĺšroda Wielkopolska",
+    "voivodeship": "Greater Poland",
+    "population": 22572.0,
+    "longitude": 17.277827,
+    "latitude": 52.2284266,
+    "count": 76
+  },
+  "Środa Śląska": {
+    "raw_city": "Ĺšroda ĹšlÄ…ska",
+    "voivodeship": "Lower Silesia",
+    "population": 9317.0,
+    "longitude": 16.5942505,
+    "latitude": 51.1638949,
+    "count": 22
+  },
+  "Świdnica": {
+    "raw_city": "Ĺšwidnica",
+    "voivodeship": "Lower Silesia",
+    "population": 59182.0,
+    "longitude": 16.4870549,
+    "latitude": 50.8424835,
+    "count": 218
+  },
+  "Świdnik": {
+    "raw_city": "Ĺšwidnik",
+    "voivodeship": "Lublin",
+    "population": 40225.0,
+    "longitude": 22.6998639,
+    "latitude": 51.2204629,
+    "count": 155
+  },
+  "Świdwin": {
+    "raw_city": "Ĺšwidwin",
+    "voivodeship": "West Pomerania",
+    "population": 15725.0,
+    "longitude": 15.7773514,
+    "latitude": 53.7747044,
+    "count": 37
+  },
+  "Świebodzice": {
+    "raw_city": "Ĺšwiebodzice",
+    "voivodeship": "Lower Silesia",
+    "population": 23152.0,
+    "longitude": 16.3196056,
+    "latitude": 50.859573,
+    "count": 41
+  },
+  "Świebodzin": {
+    "raw_city": "Ĺšwiebodzin",
+    "voivodeship": "Lubusz",
+    "population": 22064.0,
+    "longitude": 15.5324973,
+    "latitude": 52.2498357,
+    "count": 111
+  },
+  "Świecie": {
+    "raw_city": "Ĺšwiecie",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 26395.0,
+    "longitude": 18.4455253,
+    "latitude": 53.4072518,
+    "count": 50
+  },
+  "Świnoujście": {
+    "raw_city": "ĹšwinoujĹ›cie",
+    "voivodeship": "West Pomerania",
+    "population": 41371.0,
+    "longitude": 14.2510703,
+    "latitude": 53.9097477,
+    "count": 139
+  },
+  "Świętochłowice": {
+    "raw_city": "ĹšwiÄ™tochĹ‚owice",
+    "voivodeship": "Silesia",
+    "population": 51824.0,
+    "longitude": 18.9308513,
+    "latitude": 50.2854551,
+    "count": 125
+  },
+  "Żagań": {
+    "raw_city": "Ĺ»agaĹ„",
+    "voivodeship": "Lubusz",
+    "population": 26492.0,
+    "longitude": 15.3203721,
+    "latitude": 51.6148068,
+    "count": 84
+  },
+  "Żary": {
+    "raw_city": "Ĺ»ary",
+    "voivodeship": "Lubusz",
+    "population": 38527.0,
+    "longitude": 15.1422487,
+    "latitude": 51.6385162,
+    "count": 144
+  },
+  "Żmigród": {
+    "raw_city": "Ĺ»migrĂłd",
+    "voivodeship": "Lower Silesia",
+    "population": 6485.0,
+    "longitude": 16.9082719,
+    "latitude": 51.4717386,
+    "count": 21
+  },
+  "Żnin": {
+    "raw_city": "Ĺ»nin",
+    "voivodeship": "Kuyavia-Pomerania",
+    "population": 14181.0,
+    "longitude": 17.7218791,
+    "latitude": 52.848462,
+    "count": 66
+  },
+  "Żory": {
+    "raw_city": "Ĺ»ory",
+    "voivodeship": "Silesia",
+    "population": 62022.0,
+    "longitude": 18.6943479,
+    "latitude": 50.0454961,
+    "count": 75
+  },
+  "Żukowo": {
+    "raw_city": "Ĺ»ukowo",
+    "voivodeship": "Pomerania",
+    "population": 6521.0,
+    "longitude": 18.3650087,
+    "latitude": 54.3458564,
+    "count": 2
+  },
+  "Żuromin": {
+    "raw_city": "Ĺ»uromin",
+    "voivodeship": "Masovia",
+    "population": 8987.0,
+    "longitude": 19.9078353,
+    "latitude": 53.0671703,
+    "count": 42
+  },
+  "Żyrardów": {
+    "raw_city": "Ĺ»yrardĂłw",
+    "voivodeship": "Masovia",
+    "population": 41096.0,
+    "longitude": 20.4435009,
+    "latitude": 52.0543308,
+    "count": 253
+  },
+  "Żywiec": {
+    "raw_city": "Ĺ»ywiec",
+    "voivodeship": "Silesia",
+    "population": 32083.0,
+    "longitude": 19.20305,
+    "latitude": 49.6890338,
+    "count": 46
+  }
+}

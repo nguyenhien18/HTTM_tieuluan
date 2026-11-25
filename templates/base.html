@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="vi"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#123d31">
+<title>{{ page.title + ' · HTTM' if page else 'Danh mục demo · HTTM' }}</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23123d31'/%3E%3Ctext x='8' y='24' fill='%23b9e88d' font-size='22'%3EH%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="{{ url_for('static',filename='style.css') }}?v=6"><script src="{{ url_for('static',filename='shell.js') }}?v=6" defer></script>
+{% if page %}<script>window.DEMO_PAGE={{ page|tojson }};</script><script src="{{ url_for('static',filename='core.js') }}?v=6" defer></script>{% endif %}
+{% block scripts %}{% endblock %}</head>
+<body class="separate-pages"><aside class="sidebar">
+<a class="brand" href="/"><span class="brand-mark">H<span>·</span></span><span>HTTM<span class="brand-sub">DEMO STUDIO</span></span></a>
+<div class="nav-label">MỖI DEMO · MỘT TRANG</div><nav id="navigation" aria-label="Các demo">
+<a class="nav-item {{ 'active' if not page else '' }}" href="/" {% if not page %}aria-current="page"{% endif %}><span>Danh mục demo</span><span class="nav-number">⌂</span></a>
+{% for group in groups %}<div class="nav-group-title">{{ group.title }}</div>{% for entry in pages if entry.group == group.id %}<a class="nav-item {{ 'active' if page and page.id == entry.id else '' }}" href="{{ entry.path }}" {% if page and page.id == entry.id %}aria-current="page"{% endif %}><span>{{ entry.title }}</span><span class="nav-number">↗</span></a>{% endfor %}{% endfor %}
+</nav><div class="sidebar-bottom"><span class="version-tag">A01 — A06</span><button class="sidebar-help" id="help-button">Hướng dẫn trình diễn <span>↗</span></button></div></aside>
+<div class="workspace"><header class="topbar"><div><button id="menu-button" class="icon-button mobile-menu" aria-label="Mở menu">☰</button><span class="breadcrumb"><a href="/">Danh mục demo</a><span>/</span><strong id="breadcrumb">{{ page.title if page else 'Tổng quan' }}</strong></span></div><div class="top-actions"><span class="connection"><i></i>Đang chạy cục bộ</span><button class="button small secondary" id="export-button" disabled>↓ Xuất kết quả</button></div></header>
+<main id="main" tabindex="-1">{% block content %}<div class="loading-screen"><span class="spinner"></span><p>Đang chuẩn bị demo…</p></div>{% endblock %}</main>
+<footer><span>PHÁT TRIỂN CÁC HỆ THỐNG THÔNG MINH</span><span>{{ page.title if page else (pages|length|string) + ' demo · từng trang riêng' }}</span></footer></div>
+<div id="toast" role="status" aria-live="polite"></div>
+<dialog id="help-dialog"><div class="dialog-head"><h2>Mỗi demo có một trang riêng</h2><button class="icon-button" id="close-help" aria-label="Đóng">×</button></div><ol class="help-list"><li>Chọn đúng demo từ danh mục hoặc thanh bên.</li><li>Trang ML và trang MLP được tách riêng cho từng bài toán.</li><li>MNIST, Fashion-MNIST, CIFAR-10 và hai bài RNN có đường dẫn độc lập.</li><li>Điền mẫu hoặc nhập dữ liệu, chạy dự đoán và xem kết quả ngay trên trang đó.</li><li>Bấm “Xuất kết quả” để tải JSON của trang hiện tại.</li></ol><p class="hint">Có thể mở các demo trong những tab trình duyệt khác nhau và lưu đường dẫn trực tiếp để trình diễn.</p><button class="button primary" id="got-it">Đã hiểu</button></dialog>
+</body></html>

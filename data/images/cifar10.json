@@ -1,0 +1,19 @@
+{
+  "dataset": "cifar10",
+  "sha256": "6356f57588ab440fc8451014349945cda843ebde73b104bb1c0401bff6ddd8a5",
+  "source": "Local Assignment5 image directories; sorted path index accompanies the immutable NPZ snapshot.",
+  "class_order": [
+    "airplane",
+    "automobile",
+    "bird",
+    "cat",
+    "deer",
+    "dog",
+    "frog",
+    "horse",
+    "ship",
+    "truck"
+  ],
+  "normalization": "uint8 / 255.0",
+  "index_sha256": "b3303bb1317de5841c41da96b8e2df39b2cd9b6f1168fc06f26c1d747c122aac"
+}

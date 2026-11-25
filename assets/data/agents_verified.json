@@ -1,0 +1,19 @@
+{
+  "run": "runs/agents/5aa78cb4ee89",
+  "routing_cases": 17,
+  "routing_success": 1.0,
+  "faults": [
+    {
+      "variant": "basic",
+      "n": 30,
+      "success_rate": 0.0
+    },
+    {
+      "variant": "verified",
+      "n": 30,
+      "success_rate": 1.0
+    }
+  ],
+  "bounded_persistent_failure": true,
+  "limits": "Authored, controlled tool faults. Measures routing/recovery, not model accuracy or general language understanding."
+}

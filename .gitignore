@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+logs/
+.env
+demo.pid
+llm.pid
+runs/
+runtime/llama/
+runtime/downloads/
+assets/models/llm/*.gguf
+
+data/raw/customerData.csv
+data/raw/events.csv
+data/images/cifar10.npz

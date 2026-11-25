@@ -1,0 +1,308 @@
+{
+  "diabetes": [
+    {
+      "name": "Hồ sơ mẫu 1 · nhãn 0",
+      "input": {
+        "HighBP": 0.0,
+        "HighChol": 0.0,
+        "CholCheck": 1.0,
+        "BMI": 27.0,
+        "Smoker": 1.0,
+        "Stroke": 0.0,
+        "HeartDiseaseorAttack": 0.0,
+        "PhysActivity": 1.0,
+        "Fruits": 1.0,
+        "Veggies": 1.0,
+        "HvyAlcoholConsump": 1.0,
+        "AnyHealthcare": 1.0,
+        "NoDocbcCost": 0.0,
+        "GenHlth": 1.0,
+        "MentHlth": 1.0,
+        "PhysHlth": 5.0,
+        "DiffWalk": 0.0,
+        "Sex": 0.0,
+        "Age": 4.0,
+        "Education": 6.0,
+        "Income": 7.0
+      },
+      "actual": 0
+    },
+    {
+      "name": "Hồ sơ mẫu 2 · nhãn 0",
+      "input": {
+        "HighBP": 1.0,
+        "HighChol": 1.0,
+        "CholCheck": 1.0,
+        "BMI": 25.0,
+        "Smoker": 0.0,
+        "Stroke": 0.0,
+        "HeartDiseaseorAttack": 0.0,
+        "PhysActivity": 0.0,
+        "Fruits": 0.0,
+        "Veggies": 1.0,
+        "HvyAlcoholConsump": 0.0,
+        "AnyHealthcare": 1.0,
+        "NoDocbcCost": 0.0,
+        "GenHlth": 3.0,
+        "MentHlth": 0.0,
+        "PhysHlth": 0.0,
+        "DiffWalk": 0.0,
+        "Sex": 0.0,
+        "Age": 11.0,
+        "Education": 4.0,
+        "Income": 5.0
+      },
+      "actual": 0
+    },
+    {
+      "name": "Hồ sơ mẫu 3 · nhãn 1",
+      "input": {
+        "HighBP": 1.0,
+        "HighChol": 1.0,
+        "CholCheck": 1.0,
+        "BMI": 33.0,
+        "Smoker": 1.0,
+        "Stroke": 0.0,
+        "HeartDiseaseorAttack": 0.0,
+        "PhysActivity": 1.0,
+        "Fruits": 0.0,
+        "Veggies": 1.0,
+        "HvyAlcoholConsump": 1.0,
+        "AnyHealthcare": 1.0,
+        "NoDocbcCost": 0.0,
+        "GenHlth": 3.0,
+        "MentHlth": 0.0,
+        "PhysHlth": 0.0,
+        "DiffWalk": 0.0,
+        "Sex": 1.0,
+        "Age": 8.0,
+        "Education": 4.0,
+        "Income": 8.0
+      },
+      "actual": 1
+    },
+    {
+      "name": "Hồ sơ mẫu 4 · nhãn 1",
+      "input": {
+        "HighBP": 0.0,
+        "HighChol": 1.0,
+        "CholCheck": 1.0,
+        "BMI": 29.0,
+        "Smoker": 0.0,
+        "Stroke": 0.0,
+        "HeartDiseaseorAttack": 0.0,
+        "PhysActivity": 1.0,
+        "Fruits": 1.0,
+        "Veggies": 1.0,
+        "HvyAlcoholConsump": 0.0,
+        "AnyHealthcare": 1.0,
+        "NoDocbcCost": 0.0,
+        "GenHlth": 2.0,
+        "MentHlth": 0.0,
+        "PhysHlth": 0.0,
+        "DiffWalk": 0.0,
+        "Sex": 1.0,
+        "Age": 12.0,
+        "Education": 6.0,
+        "Income": 6.0
+      },
+      "actual": 1
+    }
+  ],
+  "ecommerce": [
+    {
+      "name": "Khách hàng mẫu 1 · nhãn 0",
+      "input": {
+        "Age": 29,
+        "AnnualIncome": 29939.8964065613,
+        "NumberOfPurchases": 14,
+        "TimeSpentOnWebsite": 6.592770988550779,
+        "CustomerTenureYears": 0.338477817974727,
+        "LastPurchaseDaysAgo": 67,
+        "Gender": "Female",
+        "ProductCategory": "Furniture",
+        "PreferredDevice": "Mobile",
+        "Region": "South",
+        "ReferralSource": "Organic",
+        "CustomerSegment": "Premium",
+        "LoyaltyProgram": 1,
+        "DiscountsAvailed": 5,
+        "SessionCount": 2,
+        "CustomerSatisfaction": 3
+      },
+      "actual": 0
+    },
+    {
+      "name": "Khách hàng mẫu 2 · nhãn 1",
+      "input": {
+        "Age": 32,
+        "AnnualIncome": 87776.5909511995,
+        "NumberOfPurchases": 5,
+        "TimeSpentOnWebsite": 57.35927490546429,
+        "CustomerTenureYears": 4.313778429852448,
+        "LastPurchaseDaysAgo": 16,
+        "Gender": "Male",
+        "ProductCategory": "Groceries",
+        "PreferredDevice": "Mobile",
+        "Region": "West",
+        "ReferralSource": "Email",
+        "CustomerSegment": "Regular",
+        "LoyaltyProgram": 0,
+        "DiscountsAvailed": 4,
+        "SessionCount": 1,
+        "CustomerSatisfaction": 2
+      },
+      "actual": 1
+    },
+    {
+      "name": "Khách hàng mẫu 3 · nhãn 0",
+      "input": {
+        "Age": 21,
+        "AnnualIncome": 69367.79520523612,
+        "NumberOfPurchases": 11,
+        "TimeSpentOnWebsite": 35.37311701538335,
+        "CustomerTenureYears": 2.286415322325674,
+        "LastPurchaseDaysAgo": 32,
+        "Gender": "Male",
+        "ProductCategory": "Groceries",
+        "PreferredDevice": "Mobile",
+        "Region": "East",
+        "ReferralSource": "Paid Ads",
+        "CustomerSegment": "Premium",
+        "LoyaltyProgram": 1,
+        "DiscountsAvailed": 2,
+        "SessionCount": 3,
+        "CustomerSatisfaction": 3
+      },
+      "actual": 0
+    },
+    {
+      "name": "Khách hàng mẫu 4 · nhãn 0",
+      "input": {
+        "Age": 62,
+        "AnnualIncome": 29633.74544996457,
+        "NumberOfPurchases": 21,
+        "TimeSpentOnWebsite": 3.989659533891525,
+        "CustomerTenureYears": 1.4976654433631782,
+        "LastPurchaseDaysAgo": 167,
+        "Gender": "Female",
+        "ProductCategory": "Electronics",
+        "PreferredDevice": "Desktop",
+        "Region": "North",
+        "ReferralSource": "Social",
+        "CustomerSegment": "Premium",
+        "LoyaltyProgram": 1,
+        "DiscountsAvailed": 6,
+        "SessionCount": 4,
+        "CustomerSatisfaction": 2
+      },
+      "actual": 0
+    }
+  ],
+  "house": [
+    {
+      "name": "Warszawa · 70 m²",
+      "input": {
+        "city_name": "Warszawa",
+        "floor": 2,
+        "area": 70,
+        "rooms": 3,
+        "offer_type": "Private",
+        "offer_type_of_building": "Housing Block",
+        "market": "aftermarket",
+        "month": "March"
+      }
+    },
+    {
+      "name": "Kraków · 55 m²",
+      "input": {
+        "city_name": "Kraków",
+        "floor": 2,
+        "area": 55,
+        "rooms": 2,
+        "offer_type": "Private",
+        "offer_type_of_building": "Housing Block",
+        "market": "aftermarket",
+        "month": "March"
+      }
+    },
+    {
+      "name": "Wrocław · 80 m²",
+      "input": {
+        "city_name": "Wrocław",
+        "floor": 2,
+        "area": 80,
+        "rooms": 4,
+        "offer_type": "Private",
+        "offer_type_of_building": "Housing Block",
+        "market": "aftermarket",
+        "month": "March"
+      }
+    },
+    {
+      "name": "Gdańsk · 65 m²",
+      "input": {
+        "city_name": "Gdańsk",
+        "floor": 2,
+        "area": 65,
+        "rooms": 3,
+        "offer_type": "Private",
+        "offer_type_of_building": "Housing Block",
+        "market": "aftermarket",
+        "month": "March"
+      }
+    }
+  ],
+  "diabetes_a01": [
+    {
+      "name": "Mẫu 1",
+      "input": {
+        "age": 25,
+        "bmi": 22,
+        "blood_glucose_level": 90
+      }
+    },
+    {
+      "name": "Mẫu 2",
+      "input": {
+        "age": 50,
+        "bmi": 29,
+        "blood_glucose_level": 160
+      }
+    },
+    {
+      "name": "Mẫu 3",
+      "input": {
+        "age": 65,
+        "bmi": 34,
+        "blood_glucose_level": 220
+      }
+    }
+  ],
+  "house_a01": [
+    {
+      "name": "Hà Nội · 70 m²",
+      "input": {
+        "City": "Hà Nội",
+        "Area": 70,
+        "Frontage": 5,
+        "Access Road": 5,
+        "Floors": 3,
+        "Bedrooms": 3,
+        "Bathrooms": 3
+      }
+    },
+    {
+      "name": "Hồ Chí Minh · 90 m²",
+      "input": {
+        "City": "Hồ Chí Minh",
+        "Area": 90,
+        "Frontage": 5,
+        "Access Road": 6,
+        "Floors": 3,
+        "Bedrooms": 4,
+        "Bathrooms": 3
+      }
+    }
+  ]
+}

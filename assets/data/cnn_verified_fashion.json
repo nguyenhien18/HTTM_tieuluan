@@ -1,0 +1,42 @@
+[
+  {
+    "dataset": "fashion",
+    "model": "basic_cnn",
+    "run": "runs/cnn/fashion/basic_cnn/e6f27c2c75c2",
+    "Accuracy": 0.8989,
+    "Macro_F1": 0.9010061941052341,
+    "test_samples": 10000,
+    "majority_baseline_class": 0,
+    "majority_baseline_accuracy": 0.1
+  },
+  {
+    "dataset": "fashion",
+    "model": "lenet_like",
+    "run": "runs/cnn/fashion/lenet_like/a5eb20221b2b",
+    "Accuracy": 0.8697,
+    "Macro_F1": 0.8698914712077348,
+    "test_samples": 10000,
+    "majority_baseline_class": 0,
+    "majority_baseline_accuracy": 0.1
+  },
+  {
+    "dataset": "fashion",
+    "model": "vgg_like",
+    "run": "runs/cnn/fashion/vgg_like/dc95b35d8aea",
+    "Accuracy": 0.8669,
+    "Macro_F1": 0.8663067482273661,
+    "test_samples": 10000,
+    "majority_baseline_class": 0,
+    "majority_baseline_accuracy": 0.1
+  },
+  {
+    "dataset": "fashion",
+    "model": "resnet_like",
+    "run": "runs/cnn/fashion/resnet_like/3c79bd827f7a",
+    "Accuracy": 0.8447,
+    "Macro_F1": 0.8423941942919013,
+    "test_samples": 10000,
+    "majority_baseline_class": 0,
+    "majority_baseline_accuracy": 0.1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "dataset": "cifar10",
+    "model": "resnet_like",
+    "run": "runs/cnn/cifar10/resnet_like/c85c43af65ad",
+    "Accuracy": 0.7066,
+    "Macro_F1": 0.7066426936065204,
+    "test_samples": 10000,
+    "majority_baseline_class": 0,
+    "majority_baseline_accuracy": 0.1
+  },
+  {
+    "dataset": "cifar10",
+    "model": "basic_cnn",
+    "run": "runs/cnn/cifar10/basic_cnn/b90d13e81eff",
+    "Accuracy": 0.531,
+    "Macro_F1": 0.5166965264692769,
+    "test_samples": 10000,
+    "majority_baseline_class": 0,
+    "majority_baseline_accuracy": 0.1
+  },
+  {
+    "dataset": "cifar10",
+    "model": "lenet_like",
+    "run": "runs/cnn/cifar10/lenet_like/46b10eff312b",
+    "Accuracy": 0.4872,
+    "Macro_F1": 0.4738334490255246,
+    "test_samples": 10000,
+    "majority_baseline_class": 0,
+    "majority_baseline_accuracy": 0.1
+  },
+  {
+    "dataset": "cifar10",
+    "model": "vgg_like",
+    "run": "runs/cnn/cifar10/vgg_like/6c4a849c0b9b",
+    "Accuracy": 0.6394,
+    "Macro_F1": 0.6401268629405424,
+    "test_samples": 10000,
+    "majority_baseline_class": 0,
+    "majority_baseline_accuracy": 0.1
+  }
+]

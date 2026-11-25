@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "task": "customer",
+  "framework": "pytorch",
+  "seed": 42,
+  "seq_length": 5,
+  "dataset_sha256": "3745aa83238b1e6d44d8fda209807899f420084398f94ddf745f3cbcfecbf9e7",
+  "package_versions": {
+    "numpy": "2.3.3",
+    "pandas": "2.3.2",
+    "scikit-learn": "1.7.2",
+    "tensorflow": "2.21.0",
+    "keras": "3.15.1",
+    "torch": "2.14.0"
+  },
+  "hidden_size": 32,
+  "embed_dim": 8,
+  "learning_rate": 0.001,
+  "selection_metric": "val_macro_f1",
+  "train_samples": 140000,
+  "validation_samples": 30000,
+  "test_samples": 30000,
+  "architecture": "embedding_simple_rnn",
+  "event_to_id": {
+    "view": 0,
+    "addtocart": 1,
+    "transaction": 2
+  },
+  "probability_calibrated": false,
+  "strict_past_events": true,
+  "split_dates": {
+    "train_end": "2015-07-31 04:09:18.795000",
+    "val_start": "2015-07-31 04:11:22.079000",
+    "val_end": "2015-08-24 21:44:38.617000",
+    "test_start": "2015-08-24 21:46:06.192000"
+  },
+  "test_metrics": {
+    "accuracy": 0.8145666666666667,
+    "macro_f1": 0.5348581034521506,
+    "weighted_f1": 0.8505786685634654
+  }
+}

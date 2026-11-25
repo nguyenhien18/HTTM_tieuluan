@@ -1,0 +1,52 @@
+[
+  {
+    "dataset": "mnist",
+    "model": "torch_improved",
+    "run": "runs/cnn/mnist/torch_improved/5c8d809a5528",
+    "Accuracy": 0.9879,
+    "Macro_F1": 0.9878391215436185,
+    "test_samples": 10000,
+    "majority_baseline_class": 1,
+    "majority_baseline_accuracy": 0.1135
+  },
+  {
+    "dataset": "mnist",
+    "model": "torch_basic",
+    "run": "runs/cnn/mnist/torch_basic/19943668257e",
+    "Accuracy": 0.9766,
+    "Macro_F1": 0.9764568929614456,
+    "test_samples": 10000,
+    "majority_baseline_class": 1,
+    "majority_baseline_accuracy": 0.1135
+  },
+  {
+    "dataset": "mnist",
+    "model": "numpy_scratch",
+    "run": "runs/cnn/mnist/numpy_scratch/0e44dc2eb340",
+    "Accuracy": 0.9155,
+    "Macro_F1": 0.9141499939021862,
+    "test_samples": 10000,
+    "majority_baseline_class": 1,
+    "majority_baseline_accuracy": 0.1135
+  },
+  {
+    "dataset": "mnist",
+    "model": "keras_improved",
+    "run": "runs/cnn/mnist/keras_improved/10ffd32a4aa5",
+    "Accuracy": 0.9875,
+    "Macro_F1": 0.987412238184169,
+    "test_samples": 10000,
+    "majority_baseline_class": 1,
+    "majority_baseline_accuracy": 0.1135
+  },
+  {
+    "dataset": "mnist",
+    "model": "keras_basic",
+    "run": "runs/cnn/mnist/keras_basic/9c8e98249b1b",
+    "Accuracy": 0.9794,
+    "Macro_F1": 0.979271436506505,
+    "test_samples": 10000,
+    "majority_baseline_class": 1,
+    "majority_baseline_accuracy": 0.1135
+  }
+]

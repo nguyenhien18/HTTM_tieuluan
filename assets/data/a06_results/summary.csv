@@ -1,0 +1,5 @@
+task,framework,test_samples,seed,architecture,mae,rmse,baseline_rmse,direction_accuracy,predicted_down,predicted_up,best_epoch,accuracy,macro_f1
+AMZN,Keras,338,42,simple_rnn,2.431536375739645,3.1877306260423905,2.700446082670374,0.5325443786982249,127.0,211.0,80.0,,
+Customer,Keras,30000,42,embedding_simple_rnn,,,,,,,,0.8029666666666667,0.5263045149749228
+AMZN,PyTorch,338,42,simple_rnn,2.492583399408284,3.2479678865506725,2.700446082670374,0.5118343195266272,92.0,246.0,73.0,,
+Customer,PyTorch,30000,42,embedding_simple_rnn,,,,,,,,0.8145666666666667,0.5348581034521506

@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="page-head"><div><div class="eyebrow">TIỂU LUẬN CUỐI KỲ · A01 — A06</div><h1>Chọn một demo để mở</h1><p>Mỗi bài toán có trang riêng, đầu vào riêng và kết quả riêng.</p></div><span class="pill">{{ pages|length }} TRANG ĐỘC LẬP</span></div>
+<div class="catalog-intro"><span class="catalog-intro-symbol">↗</span><div><h2>Một bài toán, một không gian trình diễn.</h2><p>Mở trực tiếp từng trang dưới đây, hoặc giữ nhiều demo trong các tab trình duyệt khác nhau.</p></div></div>
+{% for group in groups %}<section class="catalog-section" id="group-{{ group.id }}"><div class="section-title"><div><h2>{{ group.title }}</h2><p class="hint">{{ group.description }}</p></div><small>{{ pages|selectattr('group','equalto',group.id)|list|length }} demo</small></div><div class="demo-grid">
+{% for entry in pages if entry.group == group.id %}<a class="demo-card" href="{{ entry.path }}"><div class="card-top"><span class="catalog-kind">{{ entry.badge }}</span><span class="card-index">↗</span></div><h3>{{ entry.title }}</h3><p>{{ entry.description }}</p><div class="card-foot"><code>{{ entry.path }}</code><span>Mở demo →</span></div></a>{% endfor %}
+</div></section>{% endfor %}
+{% endblock %}

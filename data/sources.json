@@ -1,0 +1,37 @@
+[
+  {
+    "file": "data/raw/diabete.csv",
+    "sha256": "19f367e3e3350768f0c144c5d73ee5b355f67a57eaaa86ca7bd8aec594d8b1d0",
+    "bytes": 22738154,
+    "source": "C:\\Users\\Laptop K1\\Documents\\Codex\\2026-11-11\\ph\\work\\six_assignments\\A02_HTTM-main\\data\\diabetes\\diabete.csv",
+    "provenance": "Local assignment copy; upstream URL does not establish exact version."
+  },
+  {
+    "file": "data/raw/house.csv",
+    "sha256": "21d2a136fba97fbcef4ff0f696db02799089a88a0dc765e6262b446c61943529",
+    "bytes": 10731812,
+    "source": "C:\\Users\\Laptop K1\\Documents\\Codex\\2026-11-11\\ph\\work\\six_assignments\\A02_HTTM-main\\data\\house\\house.csv",
+    "provenance": "Local assignment copy; upstream URL does not establish exact version."
+  },
+  {
+    "file": "data/raw/customerData.csv",
+    "sha256": "925b7e73712444436634333aa4602675c1615b067c1af2bf43e15d714f2f2e4c",
+    "bytes": 58722449,
+    "source": "C:\\Users\\Laptop K1\\Documents\\Codex\\2026-11-11\\ph\\work\\six_assignments\\A02_HTTM-main\\data\\ecommerce\\customerData.csv",
+    "provenance": "Local assignment copy; upstream URL does not establish exact version."
+  },
+  {
+    "file": "data/raw/events.csv",
+    "sha256": "3745aa83238b1e6d44d8fda209807899f420084398f94ddf745f3cbcfecbf9e7",
+    "bytes": 94237913,
+    "source": "D:\\A06_RNN\\data\\events.csv",
+    "provenance": "Local assignment copy; upstream URL does not establish exact version."
+  },
+  {
+    "file": "data/raw/AMZN.csv",
+    "sha256": "0baf98d114fcf60cfea96f90b99f51b5ef7df19258536fa56f7c883d50af1050",
+    "bytes": 457455,
+    "source": "D:\\A06_RNN\\data\\AMZN.csv",
+    "provenance": "Local assignment copy; upstream URL does not establish exact version."
+  }
+]

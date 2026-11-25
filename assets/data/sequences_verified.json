@@ -1,0 +1,78 @@
+[
+  {
+    "task": "stock",
+    "framework": "Keras",
+    "architecture": "SimpleRNN",
+    "run": "runs/sequences/stock/Keras_SimpleRNN/eb55e7709fa7",
+    "MAE": 2.4315361976623535,
+    "RMSE": 3.187730519056086,
+    "baseline_RMSE": 2.7004462643379563
+  },
+  {
+    "task": "stock",
+    "framework": "PyTorch",
+    "architecture": "SimpleRNN",
+    "run": "runs/sequences/stock/PyTorch_SimpleRNN/e0c61c24f7e1",
+    "MAE": 2.492583751678467,
+    "RMSE": 3.247968185306573,
+    "baseline_RMSE": 2.7004462643379563
+  },
+  {
+    "task": "stock",
+    "framework": "Keras",
+    "architecture": "LSTM",
+    "run": "runs/sequences/stock/Keras_LSTM/2438de0c3752",
+    "MAE": 2.967925548553467,
+    "RMSE": 3.8701401044930868,
+    "baseline_RMSE": 2.7004462643379563
+  },
+  {
+    "task": "stock",
+    "framework": "Keras",
+    "architecture": "GRU",
+    "run": "runs/sequences/stock/Keras_GRU/82ae314d3c9d",
+    "MAE": 2.3824355602264404,
+    "RMSE": 3.108141630532106,
+    "baseline_RMSE": 2.7004462643379563
+  },
+  {
+    "task": "customer",
+    "framework": "Keras",
+    "architecture": "SimpleRNN",
+    "run": "runs/sequences/customer/Keras_SimpleRNN/98c84288cc04",
+    "Accuracy": 0.8029666666666667,
+    "Macro_F1": 0.5263045149749228,
+    "majority_accuracy": 0.9155333333333333,
+    "last_event_macro_f1": 0.48180880789778463
+  },
+  {
+    "task": "customer",
+    "framework": "PyTorch",
+    "architecture": "SimpleRNN",
+    "run": "runs/sequences/customer/PyTorch_SimpleRNN/b4004188c8db",
+    "Accuracy": 0.8145666666666667,
+    "Macro_F1": 0.5348581034521506,
+    "majority_accuracy": 0.9155333333333333,
+    "last_event_macro_f1": 0.48180880789778463
+  },
+  {
+    "task": "customer",
+    "framework": "Keras",
+    "architecture": "LSTM",
+    "run": "runs/sequences/customer/Keras_LSTM/240499e12d27",
+    "Accuracy": 0.8106666666666666,
+    "Macro_F1": 0.5308843023871612,
+    "majority_accuracy": 0.9155333333333333,
+    "last_event_macro_f1": 0.48180880789778463
+  },
+  {
+    "task": "customer",
+    "framework": "Keras",
+    "architecture": "GRU",
+    "run": "runs/sequences/customer/Keras_GRU/30d382e88404",
+    "Accuracy": 0.8143333333333334,
+    "Macro_F1": 0.5318636496257544,
+    "majority_accuracy": 0.9155333333333333,
+    "last_event_macro_f1": 0.48180880789778463
+  }
+]

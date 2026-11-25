@@ -1,0 +1,24 @@
+{
+  "stock_LSTM": {
+    "n": 338,
+    "max_prediction_difference": 2.0092773439728262e-05,
+    "rmse": 3.870139780484889
+  },
+  "stock_GRU": {
+    "n": 338,
+    "max_prediction_difference": 2.2338867182725153e-05,
+    "rmse": 3.108140866335881
+  },
+  "customer_LSTM": {
+    "n": 30000,
+    "max_probability_difference": 2.9729461670235935e-08,
+    "accuracy": 0.8106666666666666,
+    "macro_f1": 0.5308843023871612
+  },
+  "customer_GRU": {
+    "n": 30000,
+    "max_probability_difference": 2.9434967019348335e-08,
+    "accuracy": 0.8143333333333334,
+    "macro_f1": 0.5318636496257544
+  }
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Mẫu view 1",
+    "events": [
+      "view",
+      "view",
+      "view",
+      "view",
+      "view"
+    ],
+    "actual": "view",
+    "time": "2015-08-24T21:46:06.192000000"
+  },
+  {
+    "name": "Mẫu view 2",
+    "events": [
+      "view",
+      "view",
+      "view",
+      "view",
+      "view"
+    ],
+    "actual": "view",
+    "time": "2015-08-24T21:46:22.480000000"
+  },
+  {
+    "name": "Mẫu view 3",
+    "events": [
+      "view",
+      "view",
+      "view",
+      "view",
+      "view"
+    ],
+    "actual": "view",
+    "time": "2015-08-24T21:46:56.058000000"
+  },
+  {
+    "name": "Mẫu addtocart 1",
+    "events": [
+      "view",
+      "view",
+      "view",
+      "view",
+      "view"
+    ],
+    "actual": "addtocart",
+    "time": "2015-08-24T22:19:04.641000000"
+  },
+  {
+    "name": "Mẫu addtocart 2",
+    "events": [
+      "view",
+      "view",
+      "view",
+      "view",
+      "view"
+    ],
+    "actual": "addtocart",
+    "time": "2015-08-24T22:23:10.165000000"
+  },
+  {
+    "name": "Mẫu addtocart 3",
+    "events": [
+      "view",
+      "view",
+      "view",
+      "view",
+      "view"
+    ],
+    "actual": "addtocart",
+    "time": "2015-08-24T22:25:51.659000000"
+  },
+  {
+    "name": "Mẫu transaction 1",
+    "events": [
+      "view",
+      "view",
+      "view",
+      "view",
+      "addtocart"
+    ],
+    "actual": "transaction",
+    "time": "2015-08-24T21:47:12.212000000"
+  },
+  {
+    "name": "Mẫu transaction 2",
+    "events": [
+      "view",
+      "addtocart",
+      "view",
+      "view",
+      "addtocart"
+    ],
+    "actual": "transaction",
+    "time": "2015-08-24T21:55:55.166000000"
+  },
+  {
+    "name": "Mẫu transaction 3",
+    "events": [
+      "view",
+      "view",
+      "view",
+      "view",
+      "addtocart"
+    ],
+    "actual": "transaction",
+    "time": "2015-08-24T22:22:28.709000000"
+  }
+]
